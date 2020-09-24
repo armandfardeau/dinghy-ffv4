@@ -16,7 +16,7 @@ Très souvent, la structure nuageuse d’une perturbation permet de distinguer 
 Le corps correspond étroitement aux fronts. Le secteur chaud est l’air chaud coincé entre les fronts chaud et froid.
 
 La traîne enfin, trouve sa place en arrière du front froid.
-Assez souvent, le centre dépressionnaire peut s’isolersurlesphotographiessatellites,par une présence moins importante de masses nuageuses.
+Assez souvent, le centre dépressionnaire peut s’isoler sur les photographies satellites, par une présence moins importante de masses nuageuses.
 
 {{< hint warning >}}
 **Pour chaque lettre indiquez l'élément correspondant:** 
