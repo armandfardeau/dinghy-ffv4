@@ -68,4 +68,4 @@ La situation A est la **syzygie** alors que la situation B est la **quadrature**
 **La quadrature** est la position des astres telle que leurs actions **s’annulent**, c'est à dire un ensemble Terre-Lune-Soleil à angle droit. Cela correspond à la **période de morte-eau**. 
 {{< /columns >}}
 
-{{< navigation parent="/" >}}
+{{< navigation parent="/" next="/docs/tides/water_height_calculation" >}}
