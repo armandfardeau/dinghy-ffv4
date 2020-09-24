@@ -6,16 +6,16 @@ weight: 2
 {{< youtubestart W70wB8JJH4E 98 >}}
 
 ## Préparer la voile
-1. Déposer le matériel sur une surface plane et vérifiez qu'il ne vous manque aucune pièce
+1. Déposer le matériel sur une surface plane et vérifier qu'il ne vous manque aucune pièce
 2. Dérouler la voile
 3. Enfiler la bas de mât et le haut de mât dans l'axe, les deux flèches doivents être alignés
 4. Faire glisser la voile sur le mât, le point d'amure doit être sur l'axe des flèches et le vis de mulet
 5. Enfiler les lattes dans leurs emplacements respectifs, la plus petite en haut
-6. Vérifier l'alignement de la voile sur le mât, une torsion abime à la fois la voile et le mât et peut mener à une usure prématurée
+6. Vérifier l'alignement de la voile sur le mât, une torsion abime à la fois la voile et le mât, cela peut mener à une usure prématurée
 7. Insérer la bôme dans le vis de mulet
 8. Mettre en place l'estrope entre la bome et le point d'écoute
 9. Mettre en place le hale-bas entre la bôme et le bas de mât, généralement il est fixé à la bôme par une pièce en métal qui s'emboite et à la bôme par une manille ou un anneau brisé
-10. Attacher le crocheet de bordure au point découte et maintenez le en tension à l'aide d'une petite clé larguable
+10. Attacher le crocheet de bordure au point découte et maintener le en tension à l'aide d'une petite clé larguable
 11. Attacher le cunnigham au support de hale-bas à l'aide d'un noeud de chaise
 
 ## Préparer les appendices de direction
@@ -37,7 +37,7 @@ weight: 2
 2. S'assurer que le circuit d'écoute est dans le bons sens, c'est à dire celui qui émet une résistance (Ainsi elle n'opposera pas de résistance lorsque l'on bordera)
 3. Faire passer l'écoute par la première poulie située sur la bôme en partant du mât, puis par la sangle grise et ensuite par la dernière poulie
 4. Faire passer l'écoute par la poulie situé sur la patte d'oie dans le sens arrière vers l'avant
-5. Faire passer l'écoute par le ringot et effectuer un noeud en huit pour l'arrêter (Deux sont parfois nécessaire en cas de vent fort)
+5. Faire passer l'écoute par le ringot et effectuer un noeud en huit pour l'arrêter (Deux sont parfois nécessaires en cas de vent fort)
 
 ## Après la mise à l'eau
 1. Tirer sur le bout du safran pour le faire descendre complêtement et bloquer au taquet clam
