@@ -4,7 +4,7 @@ weight: 7
 ---
 # La carte isobarique
 ## Présentation 
-La carte isobarique représente la situation barométrique actuelle oup révue avec la position des fronts. Il existe plusieurs types de cartes: celle de surface qui représente la pression au niveau de la mer et il existe des cartes d’altitudes (représentant l’altitude géopotentielle à une pression donnée), cependant les cartes d’altitude sont plus complexes à interpréter. Une carte isobarique de surface peut être pointée, c'est-à-dire avec des relevés de vent et pression.
+La carte isobarique représente la situation barométrique actuelle ou prévue avec la position des fronts. Il existe plusieurs types de cartes: celle de surface qui représente la pression au niveau de la mer et il existe des cartes d’altitudes (représentant l’altitude géopotentielle à une pression donnée), cependant les cartes d’altitude sont plus complexes à interpréter. Une carte isobarique de surface peut être pointée, c'est-à-dire avec des relevés de vent et pression.
 
 {{< figure caption="carte-isobarique" src="../images/carte-isobarique.png" >}}
 
@@ -18,11 +18,11 @@ La carte isobarique représente la situation barométrique actuelle oup révu
 8. Marais barométrique.
 9. Thalweg. La dépression s’immisce entre les 2 anticyclones.
 10. Col barométrique. Zone calme située entre 2 dépressions et 2 anticyclones.
-11. Abaque. Permets de déterminer la vitesse du vent dans une zone.
+11. Abaque. Permet de déterminer la vitesse du vent dans une zone.
 
 Faire attention à l’heure de validité de la carte et à son type (analyse ou prévision)
-Grâce au schéma type d’une perturbation,on peut imaginer letemps qu’il fait ou qu’il fera
-Attention:la réalité est souvent bien plus complexe   
+Grâce au schéma type d’une perturbation, on peut imaginer le temps qu’il fait ou qu’il fera
+Attention: la réalité est souvent bien plus complexe   
 
 ## Déterminer la vitesse du vent
 
@@ -41,7 +41,7 @@ Attention:la réalité est souvent bien plus complexe
 
 1. On commence par tracer la tangente au niveau d’un isobare. Regardez en 1 sur le schéma la droite bleue.
 2. Ensuite on trace la direction du vent : à 20° de la tangente du côté des basses pressions (donc vers le côté de l’isobare à 1008 hPa). Regardez la droite rouge en 2 sur le schéma.
-Attention c’est 20° au dessus de la mer, et 40° au dessus de la terre.
+Attention c’est 20° au-dessus de la mer, et 40° au-dessus de la terre.
 
 
 {{< hint warning >}}
