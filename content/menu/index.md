@@ -43,8 +43,7 @@ headless: true
     - [Homme à la mer]({{<relref"/docs/chronologies/man_overboard">}})
 <br/>
 
-- **Les marées** (En cours)
-    - Définitions Phénomène de marée (En cours)
+- [**Les marées**]({{<relref"/docs/tides">}})
     - Calcul de la hauteur d’eau (En cours)
 <br/>
 
