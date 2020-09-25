@@ -41,7 +41,23 @@ Attention à marée basse avec les balises tourelles ou perches: **il est possib
 
 ## Autres marques
 ### Danger isolé
+Cette marque signale un danger d’étendue restreinte. Elle est posée sur le danger ou à proximité.
+
+{{< figure caption="Balise de danger isolé" src="images/isolated_danger.jpeg" >}}
+
 ### Eaux saine
-### Marque spéciale
-### Danger nouveau
+Cette marque signale qu’il n’y a pas de danger autour d’elle. On en voit à l’entrée de chenaux ou en mer comme repère d’un dispositif de séparation de trafic.
+
+{{< figure caption="Balise de d'eaux saine" src="images/safe_water.jpeg" >}}
+
+### Marque à proximité des plages
+Cette marque signale une zone soumise à réglementation spéciale. On peut citer les bouées à proximité des côtes: zone des 300m, chenaux de sortie et entrée des engins de plages, ...
+
+{{< figure caption="Marque à proximité des plages" src="images/beach_marks.png" >}}
+
+### Danger nouveau grave
+Cette marque permet d’identifier les dangers qui ne sont pas encore signalés sur les cartes.
+Le danger nouveau est signalé par une combinaison de **2 latérales**, ou **2 cardinales** très rapprochées (20 mètres...). 
+Les marques gardent dans ce cas leur signification. Leur doublement permet de les distinguer des autres.
+
 ## La carte marine
