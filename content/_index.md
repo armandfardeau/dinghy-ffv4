@@ -14,7 +14,7 @@ Table des matières:
 - [**Les réglages**]({{<relref"/docs/settings">}})
 - [**Les chronologies**]({{<relref"/docs/chronologies">}})
 - [**Les marées**]({{<relref"/docs/tides">}})
-- **Balisage et carte** (En cours)
+- [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
 
 

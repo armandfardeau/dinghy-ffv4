@@ -47,11 +47,7 @@ headless: true
     - [Calcul de la hauteur d’eau]({{<relref"/docs/tides/water_height_calculation">}})
 <br/>
 
-- **Balisage et carte** (En cours)
-    - Marques latérales (En cours)
-    - Cardinales (En cours)
-    - Autres marques (En cours)
-    - La carte marine (En cours)
+- [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
 <br/>
 
 - [**Privilèges de barre et régate**]({{<relref"/docs/regatta">}})
