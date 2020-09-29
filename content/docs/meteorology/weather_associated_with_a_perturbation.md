@@ -20,7 +20,7 @@ Assez souvent, le centre dépressionnaire peut s’isoler sur les photographies
 
 {{< hint warning >}}
 **Pour chaque lettre indiquez l'élément correspondant:**
-{{< figure caption="Question sur la dépression" src="../images/depression-question.png" >}}
+{{< figure caption="Question sur la dépression" src="../images/depression-question.jpg" >}}
 {{< expand "Réponse">}}
 **A:** Front chaud / **B:** Front froid / **C:** Point triple / **D:** Front Occlus / **E:** Centre dépressionaire
 {{< /expand >}}
