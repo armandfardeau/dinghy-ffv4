@@ -2,6 +2,7 @@
 title: "Les forces"
 weight: 2
 ---
+
 # Les forces
 
 ## Force aérodynamique / force vélique
@@ -18,16 +19,17 @@ La force résultante s’applique au maximum du creux et est quasiment perpendi
 Les angles qui parcourent la courbe sont ceux du vent apparent par rapport à la route du voilier.
 {{< /columns >}}
 
-Le {{< katex >}}Cz{{< /katex >}} est le coefficient de portance alors que le {{< katex >}}Cx{{< /katex >}} est le coefficient de traînée. 
+Le {{< katex >}}Cz{{< /katex >}} est le coefficient de portance alors que le {{< katex >}}Cx{{< /katex >}} est le coefficient de traînée.
 Ces nombres sans dimension représentent les valeurs de la portance et de la traînée (pour une même vitesse).
 
-Le rendement aérodynamique maximal d’une voile est obtenue pour la finesse maximale qui est la maximisation du rapport {{< katex >}}Cz/Cx{{< /katex >}}. Attention, rendement max ne veut pas dire vitesse maximale. 
+Le rendement aérodynamique maximal d’une voile est obtenue pour la finesse maximale qui est la maximisation du rapport {{< katex >}}Cz/Cx{{< /katex >}}. Attention, rendement max ne veut pas dire vitesse maximale.
 
 De plus, cette courbe n’est qu’aérodynamique et ne montre pas le besoin de puissance pour vaincre la traînée de la coque dans l’eau.
 
 Son intérêt est de nous montrer la plage d’utilisation du vent apparent:
- - au-dessus de 45° d’incidence, nous somme en régime tourbillonnaire.
- - A 20°, commence à apparaitre un décollement (du coté bord de fuite) qui ne ferra qu’augmenter (vers le bord d’attaque).
+
+- au-dessus de 45° d’incidence, nous somme en régime tourbillonnaire.
+- A 20°, commence à apparaitre un décollement (du coté bord de fuite) qui ne ferra qu’augmenter (vers le bord d’attaque).
 
 ## Force hydrodynamique
 
@@ -40,14 +42,15 @@ Le safran, de dimension importante, est aussi un élément antidérive.
 {{< /columns >}}
 
 ## Poids et poussée d’Archimède
-Le poids est la masse du bateau et de ses équipiers soumis à la gravité terrestre. 
+Le poids est la masse du bateau et de ses équipiers soumis à la gravité terrestre.
 
 {{< columns >}}
 {{< figure caption="Action de la gravité" src="../images/gravite.svg" >}}
 <--->
 {{< figure caption="Poussée d'archimède" src="../images/archimede.svg" >}}
 {{< /columns >}}
-* Le poids est vertical et s’applique au centre de gravité ({{< katex >}}CG{{< /katex >}}) du système: bateau + équipage.
-* La poussée d’Archimède s’applique au centre de carène ({{< katex >}}CC{{< /katex >}}): centre de gravité des parties immergées.
+
+- Le poids est vertical et s’applique au centre de gravité ({{< katex >}}CG{{< /katex >}}) du système: bateau + équipage.
+- La poussée d’Archimède s’applique au centre de carène ({{< katex >}}CC{{< /katex >}}): centre de gravité des parties immergées.
 
 {{< navigation previous="/docs/dinghy_mecanic/flows" parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/balance" >}}

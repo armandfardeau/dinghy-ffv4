@@ -2,16 +2,19 @@
 title: "Changement de vitesse à vent réel fixé"
 weight: 2
 ---
+
 # Changement de vitesse à vent réel fixé
 
 ## Réglage des voiles en cas de changement de vitesse
-On considére un vent courant et un vent réel stables. 
+
+On considére un vent courant et un vent réel stables.
 Que se passe t-il lorsqu’un dériveur accélère et lorsqu’il ralentit ?
 
-- Accélération : **vent vitesse (vv)** qui **augmente** 
+- Accélération : **vent vitesse (vv)** qui **augmente**
 - Ralentissement : **vent vitesse (vv)** qui **diminue**
 
 ## Allure de près
+
 {{< columns >}}
 {{< figure caption="Vecteurs" src="../images/pres-serre.svg" >}}
 <--->
@@ -21,6 +24,7 @@ Au près, si on accélère, le vent apparent augmente et refuse.
 Pour garder le bon réglage: il faut border ou abattre.
 
 ## Allure portante
+
 {{< columns >}}
 {{< figure caption="Vecteurs" src="../images/largue.svg" >}}
 <--->

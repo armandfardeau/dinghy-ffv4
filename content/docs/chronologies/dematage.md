@@ -2,12 +2,15 @@
 title: "Remorquage à la voile après un démâtage"
 weight: 6
 ---
+
 # Remorquage à la voile après un démâtage
 
 Il arrive que le dériveur démâte, cela peut arriver suite à une casse du mat (sur le laser au niveau du manchon) ou d'une casse du pied de mat. Dans tous les cas, c'est impressionnant et ne doit pas être pris à la légère.
 
 ## Préparation du remorquage
+
 La liste des opérations à effectuer (cette liste n'est pas exhaustive):
+
 - S’assurer que tout l’équipage va bien.
 - Vérifier d’où vient le courant. En fonction mouiller le grappin.
 - Dégager tous les éléments flottants afin de libérer la coque.
@@ -22,6 +25,7 @@ Si la houle est importante il faut un bout d'une longueur au moins égale à l
 
 ## Début du remorquage
 Commencer le remorquage :
+
 - Le bateau remorqué doit suivre à la barre la trajectoire.
 - S’attendre à des angles de remontée au vent et à une vitesse plus faible (dérive plus importante).
 - Si le vent est fort : naviguer à vitesse réduite. Le matériel n’est pas fait pour encaisser ce genre d'efforts à répétitions.

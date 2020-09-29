@@ -2,6 +2,7 @@
 title: "Virement et Empannage"
 weight: 3
 ---
+
 # Virement et Empannage
 
 Le virement et l'empannage sont les manoeuvres élémentaires du dériveur. On différencie les manoeuvres classiques et les manoeuvres bascules. La bascule consiste en l'exagération de ce qui se fait naturellement par vent fort. Il vous suffit de reproduire ce mouvement.
@@ -30,7 +31,7 @@ Le virement bascule permet de virer dans le vent léger.
 {{< youtubestart QrMGeMivpdE 0 >}}
 
 1. Utiliser soit le poids du corps (gîte) soit la barre pour loffer
-2. Passer la jambe (arrière) par dessus la sangle de rappel 
+2. Passer la jambe (arrière) par dessus la sangle de rappel
 3. Utiliser le poids du corps pour contre-gîter franchement
 3. Passer sous la bôme et choquer l'écoute
 4. Se repositionner de l'autre côté du bateau et le remettre à plat d'un coup

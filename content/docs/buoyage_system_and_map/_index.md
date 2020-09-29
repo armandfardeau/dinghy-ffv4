@@ -9,11 +9,13 @@ weight: 1
 Les marques latérales servent à baliser les chenaux réservées aux voiliers et aux bateaux. **Leur sens est toujours données pour un véhicule venant du large vers le port.**
 
 ### Chenal classique
+
 * Toute marque verte, de formes coniques, doit être laissée à tribord en entrant au port.
 * Toute marque rouge, de forme cylindrique, doit être laissée à bâbord en entrant au port.
+
 {{< figure caption="Marques latérales de chenal classique" src="images/marques-laterales.jpg" >}}
 
-Moyen mnémotechnique: « En entrant au port, je porte un tricot vert et deux bas si rouges ». 
+Moyen mnémotechnique: « En entrant au port, je porte un tricot vert et deux bas si rouges ».
 
 ### Chenal préféré
 {{< figure caption="Marques latérales avec chenal préféré" src="images/marques-laterales-prefere.jpg" >}}
@@ -28,16 +30,17 @@ Une balise cardinale indique la zone saine par rapport aux dangers
 
 {{< figure caption="Balises cardinales" src="images/cardinal_marks.png" >}}
 Le marquage de couleur correspond aux pointes de la cardinales:
- * Nord: bande noire en haut
- * Sud: Bande noire en bas
- * Est: Bandes noires en haut et en bas
- * Ouest: Bande noire au centre
+
+* Nord: bande noire en haut
+* Sud: Bande noire en bas
+* Est: Bandes noires en haut et en bas
+* Ouest: Bande noire au centre
 
 {{< figure caption="Moyens mnémotechnique pour les cardinales Ouest et Est" src="images/mnemo-cardinal.png" >}}
 
 On peut dessiner le contour du voyant de la balise cardinale pour déterminer son type. **W** indique une Ouest, E indique une **Est**.
 
-Attention à marée basse avec les balises tourelles ou perches: **il est possible que la laisse de mer amène à penser à une bande noire**. 
+Attention à marée basse avec les balises tourelles ou perches: **il est possible que la laisse de mer amène à penser à une bande noire**.
 
 ## Autres marques
 ### Danger isolé
@@ -57,7 +60,7 @@ Cette marque signale une zone soumise à réglementation spéciale. On peut c
 
 ### Danger nouveau grave
 Cette marque permet d’identifier les dangers qui ne sont pas encore signalés sur les cartes.
-Le danger nouveau est signalé par une combinaison de **2 latérales**, ou **2 cardinales** très rapprochées (20 mètres...). 
+Le danger nouveau est signalé par une combinaison de **2 latérales**, ou **2 cardinales** très rapprochées (20 mètres...).
 Les marques gardent dans ce cas leur signification. Leur doublement permet de les distinguer des autres.
 
 ## La carte marine
@@ -67,9 +70,10 @@ Les marques gardent dans ce cas leur signification. Leur doublement permet de le
 Avant de commencer à travailler avec une carte, il faut vérifier quelques items : secteur couvert, échelle, année de l’édition et correction éventuelle, date des relevés ayant servis à tracer la carte.
 
 Il existe un code couleur selon l’altitude/profondeur du sol/fond.
-- Ocre / jaune : terres jamais recouvertes par la mer. Niveau de référence : niveau 0 des altitudes terrestres
-- Vert de gris : zone d’estran. Niveau de référence : zéro hydrographique. Les valeurs entières sont soulignées.
-- Bleu puis blanc : les profondeurs sont indiquées en mètre et dixièmes jusqu'à 20,9m.
+
+* Ocre / jaune : terres jamais recouvertes par la mer. Niveau de référence : niveau 0 des altitudes terrestres
+* Vert de gris : zone d’estran. Niveau de référence : zéro hydrographique. Les valeurs entières sont soulignées.
+* Bleu puis blanc : les profondeurs sont indiquées en mètre et dixièmes jusqu'à 20,9m.
 
 {{< figure caption="Carte marine aux abords de Concarneau" src="images/concarneau.png" >}}
 

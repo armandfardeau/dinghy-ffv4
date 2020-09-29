@@ -5,7 +5,7 @@ weight: 4
 
 # Les nuages
 
-Un nuage est composé de gouttelettes d’eau ou de glace. L’air y est totalement saturé. 
+Un nuage est composé de gouttelettes d’eau ou de glace. L’air y est totalement saturé.
 
 ## Types de refroidissement
 Pour saturer de l’air (à pression quasi- constante), il faut le refroidir. Il existe 4 types de refroidissement :
@@ -43,11 +43,11 @@ De l’air chaud et humide arrive sur une surface plus froide.
 
 ## Classification des différents nuages
 
-
 On reconnait un nuage grâce à sa forme et à son altitude (voir [Annexe 1]() pour les photos).
 {{< columns >}}
 {{< figure caption="Les différents types de nuages" src="../images/clouds.png" >}}
 <--->
+
 - Etage supérieur (5000 m et plus): **cirro**.
 - Etage moyen(2000–5000m): **alto**.
 - Etage bas (2000m et moins)
@@ -57,9 +57,9 @@ On reconnait un nuage grâce à sa forme et à son altitude (voir [Annexe 1](
 
 - En couche: air **stable**, nuage **stratiforme**.
 - Développement vertical: air **instable**, nuage **cumuliforme**.
+
 {{< /columns >}}
 La nébulosité est exprimée en octas: la voute céleste en entier compte pour 8 octas. S’il y a par ex, la moitié du ciel occupé par des nuages, il y a 4 octas de nuages.
-
 
 {{< hint warning >}}
 **Comment appelle t'on la couche de l'étage supérieur?**

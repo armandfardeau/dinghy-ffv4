@@ -2,6 +2,7 @@
 title: "Météorologie locale"
 weight: 8
 ---
+
 # Météorologie locale
 
 ## La brise thermique côtière
@@ -11,14 +12,14 @@ Les brises thermiques côtières sont liées à l’interaction eau / terre 
 La mer est quasi stable en température sur 24h, alors que la terre s’échauffe en journée et se refroidit la nuit. Cette différence de
 température est à l’origine de la brise.
 
-Certaines brises thermiques peuvent souffler jusqu'à force 6. 
+Certaines brises thermiques peuvent souffler jusqu'à force 6.
 
 ### Brise thermique diurne
 {{< columns >}}
 {{< figure caption="Brise cotière" src="../images/costal-breeze.png" >}}
 <--->
 Le soleil réchauffe la terre plus vite que la mer. L’air commence à s’élever.
-Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud» part vers la mer et se refroidit: il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection** 
+Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud» part vers la mer et se refroidit: il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection**
 
 Le front de brise est une zone de calme (convergence de deux vents « opposé »). Il se
 décale vers le rivage.
@@ -45,14 +46,15 @@ On peut utiliser un système de points pour prédire si la brise thermique a de
 {{< columns >}}
 {{< figure caption="Quadrant brise thermique" src="../images/quadrant-breeze.png" >}}
 <--->
+
 * Si la température de l'air **n'est pas supérieure d'environ 4°** à celle de l'eau, la brise thermique **n'est pas possible**.
 * Si la vitesse du vent synoptique **est supérieure à 16 kts**, la brise thermique **n'est pas possible**.
 
 1. Direction du vent synoptique:
-    * Quadrant 1: + 2 points 
-    * Quadrant 2: + 1 points 
-    * Quadrant 3: - 0 points 
-    * Quadrant 4: - 1 points 
+    * Quadrant 1: + 2 points
+    * Quadrant 2: + 1 points
+    * Quadrant 3: - 0 points
+    * Quadrant 4: - 1 points
 2. Température de l'air:
     * Frais: + 1 points
     * Tiède: + 0 points
@@ -67,13 +69,14 @@ On peut utiliser un système de points pour prédire si la brise thermique a de
 5. Stabilité de la masse d'air:
     * Instable: + 2 points
     * Stable: - 1 points
+
 {{< /columns >}}
 
 {{< hint warning >}}
 **La présence de cumulus est-elle suffisante pour que s'établisse une brise thermique?**
 
 {{< expand "Réponse">}}
-Non, les cumulus le long de la côte sont un bon indice mais d'autres critères sont essentiels comme le différentiel de température air/eau et une vitesse de vent synoptique inférieure à 16kts. 
+Non, les cumulus le long de la côte sont un bon indice mais d'autres critères sont essentiels comme le différentiel de température air/eau et une vitesse de vent synoptique inférieure à 16kts.
 {{< /expand >}}
 {{< /hint >}}
 

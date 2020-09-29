@@ -2,10 +2,12 @@
 title: "Resalage"
 weight: 1
 ---
+
 # Resalage
 
 ## Évaluer la situation
 Dessaler n’est pas anodin. Selon les conditions, on peut se faire mal (et peur).
+
 - Dès que l’on fait surface : vérifier les bouts et autres objets suceptibles de vous gêner.
 - Situer où l’on est sur le plan d’eau et du temps disponible pour resaler : cailloux, autre bateau.
 - Si vous estimez que vous n’avez pas le temps de redresser le bateau face à un danger, privilégiez l'humain au matériel.

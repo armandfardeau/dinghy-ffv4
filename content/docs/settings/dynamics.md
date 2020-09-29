@@ -2,6 +2,7 @@
 title: "Les réglages dynamiques"
 weight: 1
 ---
+
 # Les réglages dynamiques
 
 ## L'écoute
@@ -11,18 +12,22 @@ weight: 1
 L'écoute sert à régler l'angle de la voile par rapport au vent, c'est elle qui assure la propulsion du voilier. On la borde au près et on la choque au portant.
 
 * Pour régler au près:
+
 on observe le faseyement de la voile, dès qu'il apparait, on borde un peu pour l'effacer. Pour être sûr de ne pas être trop bordé, on la choque régulièrement pour faire apparaitre le fasseyement, puis on l'efface.
 
-* Pour régler au portant: 
+* Pour régler au portant:
+
 on place la voile à angle droit avec le vent.
 {{< /details >}}
 {{< /hint >}}
 
 Relâchons tous les réglages sauf celui de la patte d'oie qui restera bien tendu et celui de la bordure qui sera moyennement pris, et plaçons la bôme perpendiculaire au bateau.
 
-La prise de l'écoute a deux effets bien distincts :
+La prise de l'écoute a deux effets bien distincts:
+
 * Elle ferme l'angle voile-bateau, en déplaçant la bôme dans un plan horizontal (effet 1).
 * Lorsque la bôme est pratiquement dans l'angle du tableau arrière et que nous continuons à border, l'écoute exerce une tension verticale amenant la poulie de bôme au contact de celle de la patte d'oie. Cette tension se répercute sur la chute de la voile, entre le point d'écoute et la têtière provoquant ainsi le cintre du mât. (effet 2)
+
 {{< columns >}}
 {{< figure caption="Réglage de l'écoute" src="../images/ecoute_effet_1.svg" >}}
 <--->
@@ -39,9 +44,11 @@ Ce cintre du mât résorbe le rond de guindant et aplatit la voile. La tension e
 Le hale-bas sert à conserver de la puissance entre 2 virement au près et à gérer la surpuissance;
 
 * Pour régler au près:
+
 On le reprend dès qu'il est mou.
 
-* Pour régler au portant: 
+* Pour régler au portant:
+
 On le tend suffisamment pour éviter que la bôme ne remonte plus qu'à angle droit avec le mat.
 {{< /details >}}
 {{< /hint >}}
@@ -73,7 +80,7 @@ On reprend le cunningham pour effacer les plis horizontaux sur la voile.
 {{< /details >}}
 {{< /hint >}}
 
-Il exerce une tension verticale sur le guindant de la voile. 
+Il exerce une tension verticale sur le guindant de la voile.
 
 Son premier intérêt est donc de pouvoir corriger tension du guindant plus faible par rapport à la chute. Un bon repère est la présence caractéristique de plis en patte d'oie dans la voile.
 Afin de remédier à ces plis imperformants, il convient de reprendre le cunningham jusqu'à les effacer.
@@ -85,11 +92,14 @@ Afin de remédier à ces plis imperformants, il convient de reprendre le cunning
 {{< /columns >}}
 
 Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles sont :
+
 * Cintrer le mât en complément du hale-bas ou de l'écoute:
-    * Lorsque le mât est cintré, la tension verticale due au réglage du cunningham est légèrement déportée vers l'arrière du mât. 
+    * Lorsque le mât est cintré, la tension verticale due au réglage du cunningham est légèrement déportée vers l'arrière du mât.
     * Cette tension, par "effet d'arc", amplifie donc le cintre du mât et soulage sensiblement celle due au hale-bas et/ou à l'écoute
-* Avancer le creux de la voile:  
+
+* Avancer le creux de la voile:
     * Lorsque le vent forcit, le creux a tendance à se déplacer vers l'arrière, le cunningham permet, en ramenant du tissu vers l'avant, de recentrer le creux.
+
 * Détendre la chute par une surtension du guindant:
     * Cela permet à la partie supérieure de la voile de "s'effacer" dans la risée, diminuant ainsi la force aérodynamique. Ce vrillage constitue dans une certaine mesure une autorégulation des surventes par le gréement.
 
@@ -128,34 +138,41 @@ Toutefois, un excès de tension diminue la sensibilité de la barre et gêne le 
 {{< figure caption="Patte d'oie reprise" src="../images/patte_oie_reprise.svg" >}}
 {{< /columns >}}
 
-Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passage de la poulie, on la choque légèrement jusqu'à disparition du problème. 
+Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passage de la poulie, on la choque légèrement jusqu'à disparition du problème.
 
-## La dérive 
+## La dérive
 
 {{< hint info >}}
 {{< details "Expliqué à un stagiaire débutant..." open >}}
 La dérive permet au voilier d'avancer le plus droit possible en générant une force opposé à la force du vent.
 
 * Pour régler au près:
+
 On la descend au maximum.
+
 * Pour régler au travers:
+
 On la relève de 10 cm.
-* Pour régler au portant: 
+
+* Pour régler au portant:
+
 On la relève de 20 cm.
 {{< /details >}}
 {{< /hint >}}
 
 {{< figure caption="Réglage de la dérive" src="../images/derive.svg" >}}
 
-Le laser présente une carène relativement plate et des appendices de faibles surfaces. 
-Son plan antidérive est donc peu important en rapport avec sa longueur. 
+Le laser présente une carène relativement plate et des appendices de faibles surfaces.
+Son plan antidérive est donc peu important en rapport avec sa longueur.
 
 * Il est utile de placer un adhésif pour mémoriser la hauteur de la dérive.
 * Il est très utile de placer sur la dérive une poignée permettant de la relever facilement d'une main.
 
-Les deux défauts les plus couramment observés chez les stagiaires: 
+Les deux défauts les plus couramment observés chez les stagiaires:
+
 * Relever trop de dérive aux allures portantes, lors de l'empannage, la bôme vient en butée sur la partie supérieure et, s'il y a du vent c'est le désalage.
-* Ne pas enfoncer la dérive à fond! Il faut utiliser toute la surface antidérive possible, ne vous privez pas de 2 centimètres salutaires. 
+
+* Ne pas enfoncer la dérive à fond! Il faut utiliser toute la surface antidérive possible, ne vous privez pas de 2 centimètres salutaires.
 
 ## La sangle de rappel
 

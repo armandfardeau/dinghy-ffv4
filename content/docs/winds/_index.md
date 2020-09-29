@@ -2,21 +2,26 @@
 title: "Les vents"
 weight: 1
 ---
+
 # Les vents
+
 Le vent « météorologique » n’est pas le vent que l’on a lorsque notre catamaran avance. Le vent que l’on touche, appelé vent apparent, sera fonction de la vitesse du bateau, du courant et du vent météorologie.
 Pour représenter le vent , on utilise un outil mathématique : le vecteur . Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous servir.
 
 ## Le vecteur
+
 {{< columns >}}
 {{< figure caption="Vecteurs" src="images/vectors.png" >}}
 <--->
+
 - La longueur du vecteur est proportionnelle à la force du vent
 - La flèche et la direction du vecteur renseignent sur la direction du vent
-- On peut additionner (ou soustraire) deux vecteurs: pour cela, on translate le deuxième vecteur
-qu’on va positionner à l’extrémité du premier. La somme des deux est le vecteur partant du début du premier et se finissant à la fin du second.
+- On peut additionner (ou soustraire) deux vecteurs: pour cela, on translate le deuxième vecteur qu’on va positionner à l’extrémité du premier. La somme des deux est le vecteur partant du début du premier et se finissant à la fin du second.
+
 {{< /columns >}}
 
-## Définitions:
+## Définitions
+
 {{< tabs "définitions" >}}
 {{< tab "Vent réel" >}}
 Vent ressentit lorsqu’on est totalement immobile : sans courant. C’est le vent météorologique de surface. Il est noté **vr**.

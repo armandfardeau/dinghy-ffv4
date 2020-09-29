@@ -10,6 +10,7 @@ C'est une région de la troposphère constituant une zone de transition dynamiqu
 
 Un front est une surface de discontinuité (zone de transition) où s'affrontent deux masses d'air aux propriétés différentes.
 On distingue différents types de fronts :
+
 - les fronts chauds,
 - les fronts froids,
 - les fronts occlus,

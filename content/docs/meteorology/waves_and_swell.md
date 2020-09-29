@@ -4,7 +4,8 @@ weight: 9
 ---
 # Les vagues et la houle
 
-# Définitions:
+# Définitions
+
 - Houle : mer du vent qui a quitté son aire génératrice
 - Vague : mer du vent local
 - Le fetch est la distance sur laquelle le vent agit pour créer les vagues.
@@ -14,8 +15,10 @@ weight: 9
 {{< columns >}}
 {{< figure caption="Naissance de la houle et des vagues" src="../images/waves-birth.jpg" >}}
 <--->
+
 1. Création des vagues sur la totalité des mers du globe
 2. Après affaiblissement du vent ou diffusion des vagues en dehors de la zone ventée, elles se propagent librement, ce qui est alors appelé la houle
+
 {{< /columns >}}
 Modification des vagues aux abords des côtes par la présence du fond ;
 Dès que la profondeur maritime est inférieure à environ deux fois la hauteur des vagues, elles déferlent sur la plage ou les hauts-fonds.

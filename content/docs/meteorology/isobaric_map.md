@@ -2,15 +2,18 @@
 title: "La carte isobarique"
 weight: 7
 ---
+
 # La carte isobarique
-## Présentation 
+
+## Présentation
+
 La carte isobarique représente la situation barométrique actuelle ou prévue avec la position des fronts. Il existe plusieurs types de cartes: celle de surface qui représente la pression au niveau de la mer et il existe des cartes d’altitudes (représentant l’altitude géopotentielle à une pression donnée), cependant les cartes d’altitude sont plus complexes à interpréter. Une carte isobarique de surface peut être pointée, c'est-à-dire avec des relevés de vent et pression.
 
 {{< figure caption="carte-isobarique" src="../images/carte-isobarique.png" >}}
 
 1. Isobare. Il indique une pression de 1020 hPa.
 2. Gradient de pression. L’espace entre deux Isobares.
-3. Front chaud. 
+3. Front chaud.
 4. Front froid.
 5. Front occlus.
 6. Anticyclone. Symbole H, pression supérieure à 1013 hPa (ici 1019hPa).
@@ -22,7 +25,7 @@ La carte isobarique représente la situation barométrique actuelle ou prévu
 
 Faire attention à l’heure de validité de la carte et à son type (analyse ou prévision)
 Grâce au schéma type d’une perturbation, on peut imaginer le temps qu’il fait ou qu’il fera
-Attention: la réalité est souvent bien plus complexe   
+Attention: la réalité est souvent bien plus complexe
 
 ## Déterminer la vitesse du vent
 
@@ -41,8 +44,8 @@ Attention: la réalité est souvent bien plus complexe
 
 1. On commence par tracer la tangente au niveau d’un isobare. Regardez en 1 sur le schéma la droite bleue.
 2. Ensuite on trace la direction du vent : à 20° de la tangente du côté des basses pressions (donc vers le côté de l’isobare à 1008 hPa). Regardez la droite rouge en 2 sur le schéma.
-Attention c’est 20° au-dessus de la mer, et 40° au-dessus de la terre.
 
+Attention c’est 20° au-dessus de la mer, et 40° au-dessus de la terre.
 
 {{< hint warning >}}
 **Placez les termes correspondant pour A à E et donnez la vitesse et la direction du vent en 1 et en 2. De quel type de carte s'agit t'il?**

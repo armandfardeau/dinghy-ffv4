@@ -20,4 +20,4 @@ jobs:
       - name: Install dependencies
         run: gem install mdl
       - name: Run linter
-        run: mdl -r ~MD033 *.md content/**/*.md
+        run: mdl -r ~MD033,~MD007,~MD013,~MD022,~MD036,~MD029 content/**/*.md
