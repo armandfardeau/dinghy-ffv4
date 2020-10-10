@@ -1,9 +1,9 @@
 ---
-title: "Privilèges de barre et régate"
+title: "La régate"
 weight: 1
 ---
 
-# Privilèges de barre et régate
+# La régate
 
 Une régate est une course de vitesse entre plusieurs bateaux, sur un parcours fermé.
 Il existe deux grandes catégories de régates à la voile : la « régate en flotte », la plus répandue, et le « match racing », où seulement deux navires s'affrontent. Nous ne traiterons pas de ce dernier.
