@@ -36,7 +36,7 @@ A l’échelle planétaire, il existe plusieurs cellules de convections qui re
 {{< columns >}}
 {{< figure caption="Diagramme coriolis" src="../images/coriolis.png" >}}
 <--->
-Cependant, la direction des mouvements de ces masses d’air se trouve modifiée par la présence de la force de Coriolis. Cette dernière est due à la rotation de la Terre sur son axe : toute particule en mouvement dans un fluide (air ou eau par ex.) la subit. 
+Cependant, la direction des mouvements de ces masses d’air se trouve modifiée par la présence de la force de Coriolis. Cette dernière est due à la rotation de la Terre sur son axe : toute particule en mouvement dans un fluide (air ou eau par ex.) la subit.
 
 Elle dépend de la latitude et de la vitesse de la particule.
 
