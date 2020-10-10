@@ -49,6 +49,7 @@ headless: true
     - Notion de cadre (En cours)
 
 - **Annexes**
+    - [S'auto-évaluer]({{<relref"/docs/annexes/self-evaluation">}})
     - [Comment gréer un laser]({{<relref"/docs/annexes/laser_rigging">}})
     - Reconnaître les nuages (En cours)
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})

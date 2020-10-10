@@ -1,0 +1,612 @@
+{{- $seJS := resources.Get "self-evaluation.js" | resources.ExecuteAsTemplate "self-evaluation.js" . | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $seJS.RelPermalink }}" integrity="{{ $seJS.Data.Integrity }}"></script>
+{{- $se := resources.Get "self-evaluation.scss" | resources.ExecuteAsTemplate "self-evaluation.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $se.RelPermalink }}" integrity="{{ $se.Data.Integrity }}">
+
+<div class="self-evaluator">
+    <details class="evaluator-level" id="level_white" open>
+        <summary id="level_white_summary">Niveau blanc</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Mise à l’eau embarquement</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_white_1" name="tech_white_1">
+                        <label for="tech_white_1">Orienter le support avant d’embarquer.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_white_2" name="tech_white_2">
+                        <label for="tech_white_2">Embarquer sans compromettre l’équilibre.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Trajectoires directes</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_white_3" name="tech_white_3">
+                        <label for="tech_white_3">Gonfler la voile pour avancer.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_white_4" name="tech_white_4">
+                        <label for="tech_white_4">Utiliser la barre pour se diriger</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Appliquer les consignes de sécurité énoncées par le moniteur.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_white_1" name="sec_white_1">
+                        <label for="sec_white_1">S’équiper avec le matériel proposé.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_white_2" name="sec_white_2">
+                        <label for="sec_white_2">Rester attentif aux conseils de sécurité.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <div class="item-wrapper">
+                    <h4>Environnement</h4>
+                    <section>
+                        <input type="checkbox" class="evaluator-item" id="env_white_1" name="env_white_1">
+                        <label for="env_white_1">Ramener à terre ses détritus.</label>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_yellow" open>
+        <summary id="level_yellow_summary">Niveau jaune</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Arrêt</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yellow_3" name="tech_yellow_3">
+                        <label for="tech_yellow_3">Utiliser la voile pour ralentir.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yellow_4" name="tech_yellow_4">
+                        <label for="tech_yellow_4">Utiliser la barre pour ralentir.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Changement d’amure</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yellow_1" name="tech_yellow_1">
+                        <label for="tech_yellow_1">Utiliser la barre pour changer d’amure.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yellow_2" name="tech_yellow_2">
+                        <label for="tech_yellow_2">Se déplacer pour changer de côté sans compromettre la
+                            manoeuvre.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Appliquer les consignes de sécurité énoncées par le moniteur.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_yellow_1" name="sec_yellow_1">
+                        <label for="sec_yellow_1">Se préparer au remorquage</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Sens marin</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_yellow_1" name="env_yellow_1">
+                        <label for="env_yellow_1">Faire deux noeuds marins.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_yellow_2" name="env_yellow_2">
+                        <label for="env_yellow_2">Signaler les objets polluants ou dangereux.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_yellow_3" name="env_yellow_3">
+                        <label for="env_yellow_3">Sur la plage ou à l’arrêt sur l’eau, savoir d’où vient le
+                            vent.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_yellow_4" name="env_yellow_4">
+                        <label for="env_yellow_4">Respecter les consignes de préservation des milieux
+                            rencontrés.</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_yerange" open>
+        <summary id="level_yerange_summary">Niveau jaune/orange</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Trajectoires directes</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yerange_1" name="tech_yerange_1">
+                        <label for="tech_yerange_1">Adapter l’ouverture de la voile à l’allure.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yerange_2" name="tech_yerange_2">
+                        <label for="tech_yerange_2">Conserver une trajectoire fixe</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yerange_3" name="tech_yerange_3">
+                        <label for="tech_yerange_3">Se déplacer pour équilibrer le support en latéral.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_yerange_4" name="tech_yerange_4">
+                        <label for="tech_yerange_4">
+                            Choquer ou border la voile pour compenser un déséquilibre du support.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Connaître et respecter les procédures et les manoeuvres de sécurité fondamentales.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_yerange_1" name="sec_yerange_1">
+                        <label for="sec_yerange_1">Signaler ses difficultés.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_yerange_2" name="sec_yerange_2">
+                        <label for="sec_yerange_2">Repérer les dangers éventuels sur le parcours
+                            proposé.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Environnement</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_yerange_1" name="env_yerange_1">
+                        <label for="env_yerange_1">Connaître les espèces naturelles les plus courantes rencontrées sur
+                            le plan d’eau.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Sens marin</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_yerange_2" name="env_yerange_2">
+                        <label for="env_yerange_2">Situer sa zone de départ.</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_orange" open>
+        <summary id="level_orange_summary">Niveau orange</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Trajectoires directes</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_orange_1" name="tech_orange_1">
+                        <label for="tech_orange_1">Utiliser le rappel/ trapèze/suspension pour équilibrer le support en
+                            latéral</label>
+                    </div>
+
+                    <div class="item-wrapper">
+                        <h4>Trajectoires indirectes</h4>
+                        <div class="item-wrapper">
+                            <input type="checkbox" class="evaluator-item" id="tech_orange_3" name="tech_orange_3">
+                            <label for="tech_orange_3">Ajuster la trajectoire à une ouverture de voile donnée.</label>
+                        </div>
+                        <div class="item-wrapper">
+                            <input type="checkbox" class="evaluator-item" id="tech_orange_4" name="tech_orange_4">
+                            <label for="tech_orange_4">Virer de bord et empanner sans s’arrêter.</label>
+                        </div>
+                        <div class="item-wrapper">
+                            <input type="checkbox" class="evaluator-item" id="tech_orange_5" name="tech_orange_5">
+                            <label for="tech_orange_5">Choisir des trajectoires permettant de gagner au vent ou sous le
+                                vent.</label>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Connaître et respecter les procédures et les manoeuvres de sécurité fondamentales.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_orange_1" name="sec_orange_1">
+                        <label for="sec_orange_1">Se regrouper.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_orange_2" name="sec_orange_2">
+                        <label for="sec_orange_2">Expérimenter les manoeuvres courantes de sécurité dans des
+                            conditions aménagées (participer au ressalage d’un bateau, mise à
+                            la cape ... ).</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Sens marin</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_orange_1" name="env_orange_1">
+                        <label for="env_orange_1">Connaître la dynamique des marées, ou les éventuels mouvements d’eau
+                            en plans d’eau intérieurs.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_orange_2" name="env_orange_2">
+                        <label for="env_orange_2">Evaluer la force du vent et l’état de la mer.</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_orgen" open>
+        <summary id="level_orgen_summary">Niveau orange/vert</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Conduite en surpuissance</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_orgen_1" name="tech_orgen_1">
+                        <label for="tech_orgen_1">Maintenir l’équilibre du support en utilisant la voile (au
+                            près).</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_orgen_2" name="tech_orgen_2">
+                        <label for="tech_orgen_2">Virer de bord et empanner en contrôlant l’équilibre.</label>
+                    </div>
+
+                    <div class="item-wrapper">
+                        <h4>Anticipation des trajectoires et des allures</h4>
+                        <div class="item-wrapper">
+                            <input type="checkbox" class="evaluator-item" id="tech_orgen_3" name="tech_orgen_3">
+                            <label for="tech_orgen_3">Se représenter les trajectoires à suivre et les allures à prendre
+                                pour rejoindre un point donné du plan d’eau.</label>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Assurer sa sécurité dans des conditions normales de navigation.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_orgen_1" name="sec_orgen_1">
+                        <label for="sec_orgen_1">Participer au choix d’un programme ou d’une zone de navigation.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_orgen_2" name="sec_orgen_2">
+                        <label for="sec_orgen_2">Surveiller l’état du bateau ou de la planche.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Sens marin</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_orgen_1" name="env_orgen_1">
+                        <label for="env_orgen_1">Connaître les principales règles de route pour éviter les
+                            abordages.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_orgen_2" name="env_orgen_2">
+                        <label for="env_orgen_2">Respecter les autres usagers de l’espace de navigation.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Environnement</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_orgen_3" name="env_orgen_3">
+                        <label for="env_orgen_3">Connaître les espèces naturelles protégées du site de pratique.</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_green" open>
+        <summary id="level_1_summary">Niveau vert</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Conduite en surpuissance</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_green_1" name="tech_green_1">
+                        <label for="tech_green_1">Maintenir l’équilibre du support en utilisant la barre (au
+                            portant).</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_green_2" name="tech_green_2">
+                        <label for="tech_green_2">Embarquer sans compromettre l’équilibre.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Anticipation des trajectoires et des allures</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_green_3" name="tech_green_3">
+                        <label for="tech_green_3">Identifier son allure de navigation.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Coordination</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_green_4" name="tech_green_4">
+                        <label for="tech_green_4">Connaître et effectuer les tâches de chaque poste lors des
+                            manœuvres.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Préparation du matériel</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_green_5" name="tech_green_5">
+                        <label for="tech_green_5">Adapter la surface (changement de voiles, prise de ris) et régler
+                            le volume des voiles en
+                            statique (hale bas, cuningham, bordure, lattes).</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Assurer sa sécurité dans des conditions normales de navigation.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_green_1" name="sec_green_1">
+                        <label for="sec_green_1">Evaluer les exigences d’une situation de navigation.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_green_2" name="sec_green_2">
+                        <label for="sec_green_2">Maîtriser les manoeuvres courantes de sécurité (homme à la
+                            mer, départs et arrivées dans des conditions difficiles, arrêt rapide, marche
+                            arrière...).</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Mise à l’eau embarquement</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_green_1" name="env_green_1">
+                        <label for="env_green_1">Connaître les fondamenteaux du matelotage en vue d’assurer les
+                            réparations de fortune.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_green_2" name="env_green_2">
+                        <label for="env_green_2">Connaître les principaux règlements liés aux sites</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_green_3" name="env_green_3">
+                        <label for="env_green_3">Repérer la présence et l’orientation du courant.</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_blue" open>
+        <summary id="level_blue_summary">Niveau bleu</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Trajectoires directes (sous-puissance et surpuissance)</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_blue_1" name="tech_blue_1">
+                        <label for="tech_blue_1">Se déplacer pour conserver l’assiette du support en longitudinal et en
+                            latéral.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_blue_2" name="tech_blue_2">
+                        <label for="tech_blue_2">Adapter les réglages en fonction de l’allure et des conditions de vent
+                            et de mer pour faciliter le pilotage.</label>
+                    </div>
+                </section>
+
+                <section>
+                    <h4>Trajectoires indirectes (sous-puissance et surpuissance)</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_blue_3" name="tech_blue_3">
+                        <label for="tech_blue_3">Virer de bord et empanner en maîtrisant l’angle de sortie (près,
+                            largue, vent arrière).</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_blue_4" name="tech_blue_4">
+                        <label for="tech_blue_4">Rejoindre un point du
+                            plan d’eau sans augmenter inutilement la route (notion de cadre).</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Coordination</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_blue_5" name="tech_blue_5">
+                        <label for="tech_blue_5">Occuper chaque poste lors des manoeuvres, en coordination avec le
+                            reste de l’équipage.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Surpuissance</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_blue_6" name="tech_blue_6">
+                        <label for="tech_blue_6">Coordonner les actions barre et écoute pour équilibrer le bateau
+                            sans changer d’allure.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Maîtriser les procédures permettant de limiter les risques en cas de situations inhabituelles
+                        (avaries, vent fort, calme ... ).</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_blue_1" name="sec_blue_1">
+                        <label for="sec_blue_1">Connaître les procédures d’alerte et de signalement.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_blue_2" name="sec_blue_2">
+                        <label for="sec_blue_2">Choisir, dans le matériel disponible, celui adapté à son niveau et aux
+                            conditions.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_blue_3" name="sec_blue_3">
+                        <label for="sec_blue_3">Maîtriser le ressalage par vent fort.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_blue_4" name="sec_blue_4">
+                        <label for="sec_blue_4">Dégréer sur l’eau, rentrer sous voilure réduite ou à la
+                            rame/bras.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Environnement</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_blue_1" name="env_blue_1">
+                        <label for="env_blue_1">Connaître les règles d’accès et de préservation des
+                            sites naturels.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Sens marin</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_blue_2" name="env_blue_2">
+                        <label for="env_blue_2">Choisir une zone de navigation en fonction des dangers et des
+                            informations météo disponibles permettant un retour facile y compris en cas de détérioration
+                            des conditions.
+                        </label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_blue_3" name="env_blue_3">
+                        <label for="env_blue_3">Savoir se situer sur le plan d’eau.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_blue_4" name="env_blue_4">
+                        <label for="env_blue_4">Participer aux tâches collectives.</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+
+    <details class="evaluator-level" id="level_purple" open>
+        <summary id="level_purple_summary">Niveau violet</summary>
+        <div class="markdown-inner wrapper">
+            <div class="evaluator-section">
+                <h3>Technique</h3>
+                <section>
+                    <h4>Trajectoires directes (sous-puissance et surpuissance)</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_purple_1" name="tech_purple_1">
+                        <label for="tech_purple_1">Coordonner les actions de barre-écoute déplacement,
+                            (gréement/déplacement en PAV) pour optimiser la vitesse</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_purple_2" name="tech_purple_2">
+                        <label for="tech_purple_2">Adapter constamment les réglages et la conduite en fonction de
+                            l’allure et des variations de vent et de mer, pour optimiser la vitesse.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Trajectoires indirectes (sous-puissance et surpuissance)</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_purple_3" name="tech_purple_3">
+                        <label for="tech_purple_3">Coordonner les actions de barre-écoute-déplacement, pour
+                            optimiser le gain au vent ou le gain sous le vent.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Réaction/ Adaptation</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_purple_4" name="tech_purple_4">
+                        <label for="tech_purple_4">Choisir la trajectoire rapprochant de l’objectif
+                            (adonnantes/refusantes).</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="tech_purple_5" name="tech_purple_5">
+                        <label for="tech_purple_5">Repérer les zones de vent et courant potentiellement plus ou
+                            moins forts.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sécurité</h3>
+                <section>
+                    <h4>Evoluer en sécurité sur une durée et dans des périmètres élargis.</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_purple_1" name="sec_purple_1">
+                        <label for="sec_purple_1">Remorquer une embarcation (à la voile ou au moteur).</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_purple_2" name="sec_purple_2">
+                        <label for="sec_purple_2">Mettre en relation le paysage rencontré avec la carte marine.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_purple_3" name="sec_purple_3">
+                        <label for="sec_purple_3">Définir et critiquer sa route, entretenir une estime.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="sec_purple_4" name="sec_purple_4">
+                        <label for="sec_purple_4">Maintenir l’état du bateau ou de la planche.</label>
+                    </div>
+                </section>
+            </div>
+            <div class="evaluator-section">
+                <h3>Sens-marin/environnement</h3>
+                <section>
+                    <h4>Environnement</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_1" name="env_purple_1">
+                        <label for="env_purple_1">Veiller au respect des règles de préservation des espèces
+                            naturelles.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_2" name="env_purple_2">
+                        <label for="env_purple_2">Connaître les métiers liés au milieu.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_3" name="env_purple_3">
+                        <label for="env_purple_3">Connaître les principaux éléments du patrimoine maritime, lacustre ou
+                            fluvial du site.</label>
+                    </div>
+                </section>
+                <section>
+                    <h4>Sens marin</h4>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_4" name="env_purple_4">
+                        <label for="env_purple_4">Présenter les informations météo utiles à la définition du programme
+                            de navigation.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_5" name="env_purple_5">
+                        <label for="env_purple_5">Reconnaître les principaux phénomènes susceptibles de faire varier les
+                            conditions de vent dans un délai de trois heures</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_6" name="env_purple_6">
+                        <label for="env_purple_6">Naviguer en groupe de pratiquants solidaires.</label>
+                    </div>
+                    <div class="item-wrapper">
+                        <input type="checkbox" class="evaluator-item" id="env_purple_7" name="env_purple_7">
+                        <label for="env_purple_7">Organiser les tâches collectives</label>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </details>
+</div>

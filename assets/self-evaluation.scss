@@ -1,0 +1,29 @@
+.evaluator-level{
+  &:not(:last-of-type){
+    margin-bottom: 1rem;
+  }
+
+  .item-wrapper{
+    margin: .5rem 0;
+  }
+
+
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+    @media (min-width: 576px){
+      flex-direction: row;
+      .evaluator-section{
+        margin: 0 .5rem;
+
+        &:first-of-type{
+          margin: 0 .5rem 0 0;
+        }
+
+        &:last-of-type{
+          margin: 0 0 0 .5rem;
+        }
+      }
+    }
+  }
+}
