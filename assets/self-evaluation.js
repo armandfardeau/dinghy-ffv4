@@ -1,4 +1,6 @@
-const storedItems = JSON.parse(localStorage.getItem("self-evaluator"));
+const localStorageKey = "self-evaluator";
+const itemClass = "evaluator-item";
+const storedItems = JSON.parse(localStorage.getItem(localStorageKey));
 
 const setItem = (key, value) => {
     let items = storedItems;
@@ -6,7 +8,7 @@ const setItem = (key, value) => {
         items = {};
     }
     items[key] = value;
-    localStorage.setItem("self-evaluator", JSON.stringify(items));
+    localStorage.setItem(localStorageKey, JSON.stringify(items));
 };
 
 const registerItemState = (e) => {
@@ -17,7 +19,7 @@ const registerItemState = (e) => {
     }
 };
 
-const items = document.getElementsByClassName("evaluator-item");
+const items = document.getElementsByClassName(itemClass);
 
 Array.from(items).forEach((item) => {
     item.addEventListener('click', registerItemState.bind(null, item));
