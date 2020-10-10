@@ -18,6 +18,6 @@ jobs:
         with:
           ruby-version: 2.6
       - name: Install dependencies
-        run: gem install mdl
+        run: bundle install
       - name: Run linter
         run: mdl -r ~MD033,~MD007,~MD013,~MD022,~MD036,~MD029 content/**/*.md

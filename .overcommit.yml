@@ -1,0 +1,9 @@
+PreCommit:
+  Mdl:
+    enabled: true
+    include: "content/**/*.md"
+    command: ["bundle", "exec", "mdl", "-r", "~MD033,~MD007,~MD013,~MD022,~MD036,~MD029"]
+
+PostCheckout:
+  BundleInstall:
+    enabled: true
