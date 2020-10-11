@@ -1,34 +1,37 @@
-const localStorageKey = "details-state";
+const detailsLocalStorageKey = "details-state";
 const tagName = "details";
 
-const storedItems = JSON.parse(localStorage.getItem(localStorageKey));
+const detailsStoredItems = JSON.parse(localStorage.getItem(detailsLocalStorageKey));
 
-const setItem = (key, value) => {
-    let items = storedItems;
+const setDetailsItem = (key, value) => {
+    let items = detailsStoredItems;
     if (!items) {
         items = {};
     }
     items[key] = value;
-    localStorage.setItem(localStorageKey, JSON.stringify(items));
+    localStorage.setItem(detailsLocalStorageKey, JSON.stringify(items));
 };
 
-const registerItemState = (item) => {
+const registerDetailsItemState = (item) => {
     if (item.open) {
-        setItem(item.id, "close");
+        setDetailsItem(item.id, "close");
     } else {
-        setItem(item.id, "open");
+        setDetailsItem(item.id, "open");
     }
 };
 
-const items = document.getElementsByTagName(tagName);
+const detailsItems = document.getElementsByTagName(tagName);
 
-Array.from(items).forEach((item) => {
-    item.addEventListener('click', registerItemState.bind(null, item));
+Array.from(detailsItems).forEach((item) => {
+    item.addEventListener('click', registerDetailsItemState.bind(null, item));
 });
 
-if (storedItems) {
-    Array.from(Object.keys(storedItems)).forEach((element) => {
-        document.getElementById(element).open = storedItems[element] === "open";
+if (detailsStoredItems) {
+    Array.from(Object.keys(detailsStoredItems)).forEach((element) => {
+        let item = document.getElementById(element);
+        if (item) {
+            item.open = detailsStoredItems[element] === "open";
+        }
     });
 }
 
