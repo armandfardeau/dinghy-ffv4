@@ -63,4 +63,4 @@ Si plusieurs bateaux non identifiables volent le départ, le pavillon "Premier s
 
 Il est associé de deux signaux sonore court.
 {{< /columns >}}
-{{< navigation parent="/docs/regatta" prev="/docs/regatta/steering_privileges" next="laylines" >}}
+{{< navigation parent="/docs/regatta" previous="/docs/regatta/main_rules" next="laylines" >}}

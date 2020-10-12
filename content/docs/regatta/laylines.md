@@ -47,4 +47,4 @@ Ce cadre nous permet de définir le placement des coureurs par rapport à la bou
 
 {{< youtubestart 5tn4abu7bW8 26 >}}
 
-{{< navigation parent="/docs/regatta" prev="/docs/regatta/flags" >}}
+{{< navigation parent="/docs/regatta" previous="/docs/regatta/flags" >}}

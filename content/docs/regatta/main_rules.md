@@ -54,4 +54,4 @@ Un voilier lorsqu'il acqiuiert la priorité doit laisser le temps et la place à
 
 Tout moyens de propulsion en dehors du vent et de l'eau sont interdits.
 
-{{< navigation parent="/docs/regatta" prev="/docs/regatta/getting_off_to_a_good_start" next="flags" >}}
+{{< navigation parent="/docs/regatta" previous="/docs/regatta/getting_off_to_a_good_start" next="/docs/regatta/flags" >}}

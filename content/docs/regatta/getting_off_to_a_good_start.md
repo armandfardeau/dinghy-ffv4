@@ -16,4 +16,4 @@ Sur la vidéo ci-dessous, on peut constater l'importance de partir avec de la vi
 
 {{< youtubestart K-y2_WR-Ky8 50 >}}
 
-{{< navigation parent="/docs/regatta" next="/docs/regatta/steering_privileges" >}}
+{{< navigation parent="/docs/regatta" next="/docs/regatta/main_rules" >}}
