@@ -8,7 +8,7 @@ Voici les principales masses d’air que l’on retrouve en Europe de l’Ouest 
 
 ## Définition d’une masse d’air stable et instable
 
-Dans l’atmosphère, l’air qui s’élève ou s’affaisse parce qu’il y est contraint par une force, est dit instable.
+Dans l’atmosphère, l’air qui s’élève ou s’affaisse parce qu’il y est contraint par une force est dit instable.
 S’il ne se déplace pas, ou peu, verticalement, il est dit stable. Ainsi, si l’on chauffe de l’air, sa tendance sera de s’élever, il devient instable. Il reste instable tant que sa
 température est supérieure à celle de son environnement. Dès que sa température atteint celle de son environnement, il stoppe son ascension.
 

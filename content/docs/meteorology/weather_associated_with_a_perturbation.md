@@ -54,7 +54,7 @@ La situation s'améliorera alors pour céder sa place au ciel de traîne avec qu
 <--->
 {{< figure caption="Perturbation" src="../images/perturbation.gif" >}}
 {{< /columns >}}
-Plusieures présentations sont possibles
+Plusieurs présentations sont possibles
 {{< /expand >}}
 {{< /hint >}}
 

@@ -7,10 +7,9 @@ weight: 8
 
 ## La brise thermique côtière
 
-Les brises thermiques côtières sont liées à l’interaction eau / terre : les capacités thermiques de l’eau et de la terre sont très différentes: elles vont donc s’échauffer et se refroidir à des vitesses différentes.
+Les brises thermiques côtières sont liées à l’interaction eau / terre : les capacités thermiques de l’eau et de la terre sont très différentes, elles vont donc s’échauffer et se refroidir à des vitesses différentes.
 
-La mer est quasi stable en température sur 24h, alors que la terre s’échauffe en journée et se refroidit la nuit. Cette différence de
-température est à l’origine de la brise.
+La mer est quasi stable en température sur 24h, alors que la terre s’échauffe en journée et se refroidit la nuit. Cette différence de température est à l’origine de la brise.
 
 Certaines brises thermiques peuvent souffler jusqu'à force 6.
 
@@ -19,7 +18,7 @@ Certaines brises thermiques peuvent souffler jusqu'à force 6.
 {{< figure caption="Brise cotière" src="../images/costal-breeze.png" >}}
 <--->
 Le soleil réchauffe la terre plus vite que la mer. L’air commence à s’élever.
-Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud» part vers la mer et se refroidit: il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection**
+Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud» part vers la mer et se refroidit : il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection**
 
 Le front de brise est une zone de calme (convergence de deux vents « opposé »). Il se
 décale vers le rivage.
@@ -42,7 +41,7 @@ Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. 
 
 ### Critères d'établissement d'une brise thermique diurne
 
-On peut utiliser un système de points pour prédire si la brise thermique a des chances de se lever:
+On peut utiliser un système de points pour prédire si la brise thermique a des chances de se lever :
 {{< columns >}}
 {{< figure caption="Quadrant brise thermique" src="../images/quadrant-breeze.png" >}}
 <--->
@@ -50,23 +49,23 @@ On peut utiliser un système de points pour prédire si la brise thermique a de
 * Si la température de l'air **n'est pas supérieure d'environ 4°** à celle de l'eau, la brise thermique **n'est pas possible**.
 * Si la vitesse du vent synoptique **est supérieure à 16 kts**, la brise thermique **n'est pas possible**.
 
-1. Direction du vent synoptique:
+1. Direction du vent synoptique :
     * Quadrant 1: + 2 points
     * Quadrant 2: + 1 points
     * Quadrant 3: - 0 points
     * Quadrant 4: - 1 points
-2. Température de l'air:
+2. Température de l'air :
     * Frais: + 1 points
     * Tiède: + 0 points
     * Chaude: - 1 points
-3. Ensoleillement:
+3. Ensoleillement :
     * Bon: + 1 points
     * Moyen: + 0 points
     * Mauvais: - 1 points
-4. Marrée haute dans l'après-midi:
+4. Marrée haute dans l'après-midi :
     * Oui: + 0 points
     * Non: - 1 points
-5. Stabilité de la masse d'air:
+5. Stabilité de la masse d'air :
     * Instable: + 2 points
     * Stable: - 1 points
 
@@ -82,7 +81,7 @@ Non, les cumulus le long de la côte sont un bon indice mais d'autres critères 
 
 ## Les effets de sites
 
-Un effet de site est dû à la géographie locale. Il en existe un grand nombre, certains étant des compositions d’effets « élémentaires ». Gardons à l’esprit qu’un vent froid et donc dense «colle» plus aux obstacles qu’un vent chaud (notion de viscosité). L’air stable accentue également les phénomènes d’effets de sites.
+Un effet de site est dû à la géographie locale. Il en existe un grand nombre, certains étant des compositions d’effets « élémentaires ». Gardons à l’esprit qu’un vent froid et donc dense « coll e» plus aux obstacles qu’un vent chaud (notion de viscosité). L’air stable accentue également les phénomènes d’effets de sites.
 
 {{< tabs "site-effects" >}}
 {{< tab "Effet de pointe" >}}
@@ -107,12 +106,12 @@ Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direc
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Côtes basses" >}}
- les frottements étant plus importants sur terre que sur mer, le vent au-dessus des terres est plus faible. La force de Coriolis est donc moins importante. Le vent sur mer sera donc orienté plus « à droite » que le vent sur terre.
+ Les frottements étant plus importants sur terre que sur mer, le vent au-dessus des terres est plus faible. La force de Coriolis est donc moins importante. Le vent sur mer sera donc orienté plus « à droite » que le vent sur terre.
 {{< /tab >}}{{< tab "Côte moyennement élevée" >}}
 {{< columns >}}
 {{< figure caption="Côte moyennement élevée" src="../images/moderately_high_hill.png" >}}
 <--->
- création d’un « coussin » (vent faible et désordonné).
+ Création d’un « coussin » (vent faible et désordonné).
 {{< /columns >}}
 {{< /tab >}}{{< tab "Côtes élevées" >}}
 {{< columns >}}

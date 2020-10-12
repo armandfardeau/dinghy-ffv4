@@ -38,7 +38,7 @@ L’unité légale du vent est le m/s. Cependant, en voile on utilise le nœud
 ## Vitesse du vent
 
 Elle se mesure grâce à un anémomètre placé dans un volume le plus dégagé possible à 10m de hauteur.
-Elle est moyenné sur 10 min. Le vent moyen ne tient donc pas compte des rafales.
+Elle est moyennée sur 10 min. Le vent moyen ne tient donc pas compte des rafales.
 
 {{< columns >}}
 Sur la carte il est matérialisé à l'aide de barbules qui permettent d'estimer la vitesse du vent:
@@ -49,7 +49,7 @@ Sur la carte il est matérialisé à l'aide de barbules qui permettent d'estimer
 - chaque trait plein représente 10 nœuds (soit environ 5 m/s) ;
 - chaque fanion (symbole triangulaire) représente 50 nœuds (soit environ 25 m/s).
 
-Les barbules se retrouvent toujours du côté des pressions les plus basses de la hampe
+Les barbules se retrouvent toujours du côté des pressions les plus basses de la hampe.
 <--->
 {{< figure caption="Barbule de vent" src="../images/wind-barbul.png" >}}
 {{< /columns >}}
