@@ -1,6 +1,10 @@
 @import "variables";
 
 .evaluator-level{
+  &.completed{
+    border: 1px solid $green;
+  }
+
   &:not(:last-of-type){
     margin-bottom: 1rem;
   }
