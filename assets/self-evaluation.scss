@@ -1,6 +1,27 @@
 @import "variables";
 
 .evaluator-level{
+  &.completed{
+    box-shadow: 0 0 0 .2rem $green;
+    transition: all 250ms;
+
+    summary{
+      position: relative;
+
+      &::after{
+        content: "";
+        background: url("{{ "svg/completed-sail.svg " | relURL }}");
+        position: absolute;
+        right: 1em;
+        top: 1em;
+        height: 4em;
+        background-size: 100%;
+        width: 4em;
+        display: inline-block;
+      }
+    }
+  }
+
   &:not(:last-of-type){
     margin-bottom: 1rem;
   }
