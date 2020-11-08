@@ -55,4 +55,4 @@ headless: true
     - Reconnaître les nuages (En cours)
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})
     - Du bon usage d’un bateau à moteur (En cours)
-    - Mouiller son BIB sans frayeurs (En cours)
+    - [Mouiller son bateau de sécurité]({{<relref"/docs/annexes/safety_boat_mooring">}})
