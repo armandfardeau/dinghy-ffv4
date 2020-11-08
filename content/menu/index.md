@@ -54,5 +54,5 @@ headless: true
     - [Comment gréer un laser]({{<relref"/docs/annexes/laser_rigging">}})
     - [Reconnaître les nuages]({{<relref"/docs/annexes/clouds_recognition">}})
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})
-    - Du bon usage d’un bateau à moteur (En cours)
+    - [Du bon usage d’un bateau à moteur]({{<relref"/docs/annexes/motorboat_usage">}})
     - [Mouiller son bateau de sécurité]({{<relref"/docs/annexes/safety_boat_mooring">}})
