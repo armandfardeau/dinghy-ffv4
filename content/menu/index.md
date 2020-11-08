@@ -52,7 +52,7 @@ headless: true
 - **Annexes**
     - [S'auto-évaluer]({{<relref"/docs/annexes/self-evaluation">}})
     - [Comment gréer un laser]({{<relref"/docs/annexes/laser_rigging">}})
-    - Reconnaître les nuages (En cours)
+    - [Reconnaître les nuages]({{<relref"/docs/annexes/clouds_recognition">}})
     - [Les fronts]({{<relref"/docs/annexes/annexe-fronts">}})
     - Du bon usage d’un bateau à moteur (En cours)
     - Mouiller son BIB sans frayeurs (En cours)
