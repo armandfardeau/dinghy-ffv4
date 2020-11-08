@@ -88,7 +88,7 @@ if (storedLevels) {
     Array.from(Object.keys(storedLevels)).forEach((element) => {
         let item = document.getElementById(element);
         if (item) {
-            storedItems[element] === "1" ? item.classList.add(completedClass) : item.classList.remove(completedClass);
+            storedLevels[element] === "1" ? item.classList.add(completedClass) : item.classList.remove(completedClass);
         }
     });
 }
