@@ -43,7 +43,7 @@ De l’air chaud et humide arrive sur une surface plus froide.
 
 ## Classification des différents nuages
 
-On reconnait un nuage grâce à sa forme et à son altitude (voir [Annexe 1]() pour les photos).
+On reconnait un nuage grâce à sa forme et à son altitude (voir [Reconnaître les nuages]({{<relref"/docs/annexes/clouds_recognition">}}) pour les photos).
 {{< columns >}}
 {{< figure caption="Les différents types de nuages" src="../images/clouds.png" >}}
 <--->
