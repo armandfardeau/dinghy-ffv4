@@ -13,6 +13,10 @@ const setDetailsItem = (key, value) => {
 };
 
 const registerDetailsItemState = (item) => {
+    if (item.parentNode.nodeName === "DETAILS") {
+        item = item.parentNode
+    }
+
     if (item.open) {
         setDetailsItem(item.id, "close");
     } else {
