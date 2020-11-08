@@ -1,5 +1,5 @@
 const detailsLocalStorageKey = "details-state";
-const tagName = "details";
+const className = "collabsible";
 
 const detailsStoredItems = JSON.parse(localStorage.getItem(detailsLocalStorageKey));
 
@@ -20,7 +20,7 @@ const registerDetailsItemState = (item) => {
     }
 };
 
-const detailsItems = document.getElementsByTagName(tagName);
+const detailsItems = document.getElementsByClassName(className);
 
 Array.from(detailsItems).forEach((item) => {
     item.addEventListener('click', registerDetailsItemState.bind(null, item));

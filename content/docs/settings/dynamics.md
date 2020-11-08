@@ -8,7 +8,7 @@ weight: 1
 ## L'écoute
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="ecoute_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="ecoute_details" >}}
 L'écoute sert à régler l'angle de la voile par rapport au vent, c'est elle qui assure la propulsion du voilier. On la borde au près et on la choque au portant.
 
 * Pour régler au près:
@@ -18,7 +18,7 @@ on observe le faseyement de la voile, dès qu'il apparait, on borde un peu pour 
 * Pour régler au portant:
 
 on place la voile à angle droit avec le vent.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 Relâchons tous les réglages sauf celui de la patte d'oie qui restera bien tendu et celui de la bordure qui sera moyennement pris, et plaçons la bôme perpendiculaire au bateau.
@@ -40,7 +40,7 @@ Ce cintre du mât résorbe le rond de guindant et aplatit la voile. La tension e
 ## Le hale-bas
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="hale-bas_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="hale-bas_details" >}}
 Le hale-bas sert à conserver de la puissance entre 2 virement au près et à gérer la surpuissance;
 
 * Pour régler au près:
@@ -50,7 +50,7 @@ On le reprend dès qu'il est mou.
 * Pour régler au portant:
 
 On le tend suffisamment pour éviter que la bôme ne remonte plus qu'à angle droit avec le mat.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 Son action est proche de l'effet 2 de l'écoute. En rapprochant ses 2 insertions (le 1/4 avant de la bôme et la partie du mât proche de l'étambrai), il exerce :
@@ -75,9 +75,9 @@ Au portant le halebas joue un rôle spécifique puisqu'il permet de retenir la b
 ## Le cunningham
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="cunningham_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="cunningham_details" >}}
 On reprend le cunningham pour effacer les plis horizontaux sur la voile.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 Il exerce une tension verticale sur le guindant de la voile.
@@ -106,11 +106,11 @@ Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles s
 ## La bordure
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="bordure_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="bordure_details" >}}
 La bordure permet de doser la puissance.
 
 On la choque jusqu'à 20 cm de creux dans la voile et on la reprend dès que l'on peine à maintenir le bateau à plat.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 Le réglage de bordure permet de doser le creux général que l'on donne à la voile et donc la puissance de celle-ci. Il existe toutefois une limite au-delà de laquelle détendre la bordure cesse d'augmenter la puissance et transforme la voile en "sac", perturbant ainsi les écoulements de l'air autour du profil.
@@ -122,9 +122,9 @@ Cette limite peut s'objectiver en mesurant la distance maximale séparant la bô
 ## La patte d'oie
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="patte-oie_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="patte-oie_details" >}}
 On reprend la patte d'oie jusqu'au contact de la barre.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
@@ -143,7 +143,7 @@ Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passag
 ## La dérive
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="derive_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="derive_details" >}}
 La dérive permet au voilier d'avancer le plus droit possible en générant une force opposé à la force du vent.
 
 * Pour régler au près:
@@ -157,7 +157,7 @@ On la relève de 10 cm.
 * Pour régler au portant:
 
 On la relève de 20 cm.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 {{< figure caption="Réglage de la dérive" src="../images/derive.svg" >}}
@@ -177,9 +177,9 @@ Les deux défauts les plus couramment observés chez les stagiaires:
 ## La sangle de rappel
 
 {{< hint info >}}
-{{< details_with_id title="Expliqué à un stagiaire débutant..." id="sangle_de_rappel_details" >}}
+{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="sangle_de_rappel_details" >}}
 On la tend au maximum pour bénéficier du réglage le plus polyvalent.
-{{< /details_with_id >}}
+{{< /details_extended >}}
 {{< /hint >}}
 
 De nombreux laseristes optent pour une sangle de rappel réglable. Ce réglage est très important car il permet de moduler le compromis confort/couple de rappel nécessaire en fonction de l'allure et des conditions de vent et de mer rencontrés.
