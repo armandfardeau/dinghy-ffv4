@@ -199,4 +199,8 @@ Un repère de réglage utilisable est l'éloignement plus ou moins grand du list
 
 Par vent rafaleux, il peut être utile de bien tendre la sangle de rappel afin de gagner en polyvalence: il sera plus aisé de sortir et rentrer au rappel
 
+## Synthèse en vidéo
+
+{{< youtubestart an1TT0rkGKw 125 >}}
+
 {{< navigation previous="/docs/settings/statics" parent="/docs/settings" next="/docs/settings/positions" >}}
