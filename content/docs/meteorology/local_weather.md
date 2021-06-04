@@ -151,7 +151,7 @@ Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}
-**Pourquoi est-il dangereux de naviguer sous un cumilonimbus en voile légère?:**
+**Pourquoi est-il dangereux de naviguer sous un cumulonimbus en voile légère?:**
 {{< details title="Réponse">}}
 Il est dangereux de naviguer sous un cumulonimbus car il peut y avoir de fortes rafales de direction variables avec de la pluie voire de la grêle. Si un orage est présent, un éclair peut venir frapper le bateau.
 {{< /details>}}
