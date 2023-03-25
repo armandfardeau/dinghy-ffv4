@@ -9,4 +9,4 @@ docker-compose up
 ```
 then visit `http://localhost:1313/dinghy-ffv4/`
 
-`master` branch is deployed automatically
+`main` branch is deployed automatically

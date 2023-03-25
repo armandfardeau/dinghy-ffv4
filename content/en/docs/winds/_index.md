@@ -3,7 +3,7 @@ title: "Winds"
 weight: 1
 ---
 
-# The winds
+# 💨 The winds
 
 The "meteorological" wind is not the wind we have when our dinghy is moving forward. The wind we touch, called apparent wind, will depend on the boat speed, the current and the meteorological wind.
 To represent the wind, we use a mathematical tool: the vector. Here are some of the characteristics of the vector that we'll use.

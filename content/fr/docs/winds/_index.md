@@ -3,7 +3,7 @@ title: "Les vents"
 weight: 1
 ---
 
-# Les vents
+# 💨 Les vents
 
 Le vent « météorologique » n’est pas le vent que l’on a lorsque notre dériveur avance. Le vent que l’on touche, appelé vent apparent, sera fonction de la vitesse du bateau, du courant et du vent météorologie.
 Pour représenter le vent , on utilise un outil mathématique : le vecteur . Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous servir.

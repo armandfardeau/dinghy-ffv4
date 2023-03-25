@@ -2,7 +2,7 @@
 title: "Settings"
 weight: 1
 ---
-# Settings
+# 🛠 Settings
 
 Depending on the technology of the boats, there are more or less settings. Some of them have more or less important actions on the smooth running of the boat. In light sailing, the most important adjustment is the position of the crew.
 

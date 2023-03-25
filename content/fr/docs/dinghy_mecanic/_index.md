@@ -3,7 +3,7 @@ title: "Mécanique du dériveur"
 weight: 1
 ---
 
-# Mécanique du dériveur
+# ⚖️ Mécanique du Dériveur
 
 L’objectif de ce chapitre est de comprendre les mécanismes principaux qui permettent à un dériveur de naviguer à la voile.
 

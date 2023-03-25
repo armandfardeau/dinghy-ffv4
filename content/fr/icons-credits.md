@@ -1,3 +1,3 @@
-[google](href="https://www.flaticon.com/authors/google)
+[Google](https://www.flaticon.com/authors/google)
 
-[those-icons](https://www.flaticon.com/authors/those-icons)
+[Those-icons](https://www.flaticon.com/authors/those-icons)

@@ -2,7 +2,7 @@
 title: "Les réglages"
 weight: 1
 ---
-# Les réglages
+# 🛠 Les réglages
 
 Selon la technologie des bateaux, il y a plus ou moins de réglages. Certains ayant des actions plus ou moins importantes sur la bonne marche du navire. En voile légère, le réglage le plus important est la position de l’équipage.
 

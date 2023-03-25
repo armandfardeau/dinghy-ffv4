@@ -9,14 +9,14 @@ BookToC: false
 
 Table des matières :
 
-- [**Météo**]({{<relref"/docs/meteorology">}})
-- [**Les vents**]({{<relref"/docs/winds">}})
-- [**Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
-- [**Les réglages**]({{<relref"/docs/settings">}})
-- [**Les chronologies**]({{<relref"/docs/chronologies">}})
-- [**Les marées**]({{<relref"/docs/tides">}})
-- [**Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
-- [**La régate**]({{<relref"/docs/regatta">}})
+- [**🌦 Météo**]({{<relref"/docs/meteorology">}})
+- [**💨 Les vents**]({{<relref"/docs/winds">}})
+- [**⚖️ Mécanique du Dériveur**]({{<relref"/docs/dinghy_mecanic">}})
+- [**🛠 Les réglages**]({{<relref"/docs/settings">}})
+- [**🔂 Les chronologies**]({{<relref"/docs/chronologies">}})
+- [**🌊 Les marées**]({{<relref"/docs/tides">}})
+- [**🗺 Balisage et carte**]({{<relref"/docs/buoyage_system_and_map">}})
+- [**🏁 La régate**]({{<relref"/docs/regatta">}})
 
 Ce cours théorique s'inspire du travail d'Antoine Rogues pour l'[ex niveau 5 ffv en catamaran](http://glenans.arogues.org/niveau5.pdf).
 

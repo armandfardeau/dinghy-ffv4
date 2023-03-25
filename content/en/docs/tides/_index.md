@@ -3,7 +3,7 @@ title: "Tides"
 weight: 1
 ---
 
-# The tides
+# 🌊 The tides
 
 ## Definitions
 

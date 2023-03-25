@@ -1,9 +1,11 @@
 ---
 weight: 1
-title: "Meteo"
+title: "Méteo"
 ---
 
-# Les variables
+# 🌦 Météo
+
+## Les variables
 
 En météorologie, on utilise trois variables : **la pression**, **l’humidité** et **la température**. L’air étant un très mauvais conducteur thermique, il se mélange mal. On parle de masse d’air ; volume d’air où la température et l’humidité sont uniformes.
 

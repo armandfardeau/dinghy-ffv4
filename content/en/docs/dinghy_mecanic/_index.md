@@ -3,7 +3,7 @@ title: "Dinghy Mechanics"
 weight: 1
 ---
 
-# Dinghy Mechanics
+# ⚖️ Dinghy Mechanics
 
 The objective of this chapter is to understand the main mechanisms that allow a dinghy to sail.
 

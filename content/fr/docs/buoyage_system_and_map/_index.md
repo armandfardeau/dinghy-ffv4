@@ -3,7 +3,7 @@ title: "Balisage et carte"
 weight: 1
 ---
 
-# Balisage et carte
+# 🗺 Balisage et carte
 
 ## Marques latérales
 Les marques latérales servent à baliser les chenaux réservées aux voiliers et aux bateaux. **Leur sens est toujours données pour un véhicule venant du large vers le port.**

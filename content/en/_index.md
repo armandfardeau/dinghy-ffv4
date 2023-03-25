@@ -9,14 +9,14 @@ BookToC: false
 
 Table of Contents :
 
-- [**Weather forecast**]({{<relref"/docs/meteorology">}})
-- [**The winds**]({{<relref"/docs/winds">}})
-- [**Dinghy mechanics**]({{<relref"/docs/dinghy_mecanic">}})
-- [**The settings**]({{<relref"/docs/settings">}})
-- [**Timelines**]({{<relref"/docs/chronologies">}})
-- [**Tides**]({{<relref"/docs/tides">}})
-- [**Landmarks and map**]({{<relref"/docs/buoyage_system_and_map">}})
-- [**Regatta**]({{<relref"/docs/regatta">}})
+- [**🌦 Weather forecast**]({{<relref"/docs/meteorology">}})
+- [**💨 The winds**]({{<relref"/docs/winds">}})
+- [**⚖️ Dinghy mechanics**]({{<relref"/docs/dinghy_mecanic">}})
+- [**🛠 The settings**]({{<relref"/docs/settings">}})
+- [**🔂 Timelines**]({{<relref"/docs/chronologies">}})
+- [**🌊 Tides**]({{<relref"/docs/tides">}})
+- [**🗺 Landmarks and map**]({{<relref"/docs/buoyage_system_and_map">}})
+- [**🏁 Regatta**]({{<relref"/docs/regatta">}})
 
 This theoretical course is inspired by Antoine Rogues' work for the [ex level 5 ffv in catamaran](http://glenans.arogues.org/niveau5.pdf).
 
