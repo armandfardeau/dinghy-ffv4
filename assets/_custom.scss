@@ -1,0 +1,97 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+// @import "plugins/scrollbars";
+
+
+.book-columns{
+  align-items: center;
+  @media (max-width: 576px){
+    flex-direction: column;
+  }
+}
+
+figure{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  figcaption{
+    font-style: italic;
+  }
+}
+
+.book-hint{
+  &.question{
+    details{
+      background-color: $background-grey;
+      border: 1px solid #e9ecef;
+      border-radius: .25rem;
+
+      summary{
+        margin: initial;
+        font-weight: bold;
+      }
+    }
+  }
+
+  details{
+    border: initial;
+    border-radius: initial;
+
+    summary{
+      font-weight: bold;
+    }
+  }
+}
+
+.navigation{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 2rem 0;
+
+  .book-btn{
+    display: flex !important;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem !important;
+
+    &:first-of-type{
+      margin: 0 1rem 0 0;
+    }
+
+    &:nth-child(2){
+      margin: 0 1rem 0 0;
+    }
+
+    &:last-of-type{
+      margin: 0 0 0 0;
+    }
+
+    @media (max-width: 576px){
+      line-height: 1.2rem !important;
+    }
+  }
+}
+
+.book-hint.more{
+  border-color: $more;
+  background-color: rgba($more, 0.1);
+
+  details{
+    .markdown-inner{
+      text-align: center;
+
+      p{
+        text-align: initial
+      }
+
+      a{
+        text-align: center
+      }
+    }
+  }
+}

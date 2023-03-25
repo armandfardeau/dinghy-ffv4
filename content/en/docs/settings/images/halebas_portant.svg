@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="608px" height="600px" viewBox="0 0 608 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>halebas_portant</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="125.223133" y="94.0411311" width="6.31967213" height="87.9588689"></rect>
+        <rect id="path-2" x="125.223133" y="94.0411311" width="6.31967213" height="87.9588689"></rect>
+        <rect id="path-3" x="0" y="331" width="238" height="11"></rect>
+        <polygon id="path-4" points="10.7325778 0.734586923 14.8113363 0.734586923 5 369 0 369"></polygon>
+        <rect id="path-5" x="1" y="337" width="238" height="11"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="238" height="11" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="hale-bas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="halebas_portant">
+            <g id="Group-2" transform="translate(306.849232, 276.644950) rotate(-20.000000) translate(-306.849232, -276.644950) translate(53.849232, 1.144950)">
+                <g id="laser-2" transform="translate(0.000000, 369.000000)">
+                    <g id="Rectangle">
+                        <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#979797" stroke-width="1" x="125.723133" y="94.5411311" width="5.31967213" height="86.9588689"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#979797" stroke-width="1" x="125.723133" y="94.5411311" width="5.31967213" height="86.9588689"></rect>
+                    </g>
+                    <path d="M0,0 L256.788375,0 C240.871095,78.0145919 198.073033,117.021888 128.394188,117.021888 C58.7153428,117.021888 15.9172802,78.0145919 0,0 Z" id="Path-2" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd"></path>
+                </g>
+                <g id="Group" transform="translate(126.000000, 0.000000)">
+                    <g id="pasborde" transform="translate(4.000000, 0.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <rect stroke="#AEAEAE" stroke-width="1" x="0.5" y="331.5" width="237" height="10"></rect>
+                        </g>
+                        <polygon id="Path-3" stroke="#D8D8D8" fill="#D8D8D8" opacity="0.641021286" points="9.45058934 0.97247893 82.9166646 51.2448675 203.510376 329.572745 2.20619992 325.334877"></polygon>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <path stroke="#AEAEAE" stroke-width="1" d="M11.2182183,1.23458692 L0.514784089,368.5 L4.51314359,368.5 L14.2978379,1.23458692 L11.2182183,1.23458692 Z"></path>
+                    </g>
+                    <g id="borde" transform="translate(3.000000, 4.000000)" stroke="#F80000" stroke-dasharray="10,10">
+                        <use id="Rectangle-2-Copy" mask="url(#mask-6)" stroke-width="2" transform="translate(120.000000, 342.500000) rotate(5.000000) translate(-120.000000, -342.500000) " xlink:href="#path-5"></use>
+                        <path d="M5.76114801,223.345089 C14.751722,153.144835 21.739702,104.511092 26.725088,77.443858 C31.7104741,50.3766243 38.8860026,24.8238461 48.2516735,0.785523252 L104.82813,51.5898795 L200.016071,344.539176 L3.02572744,327.226183 L5.76114801,223.345089 Z" id="Path-4"></path>
+                    </g>
+                    <path d="M15.5,2.5 L44.5,4.5" id="Line" stroke="#F80000" stroke-width="3" stroke-linecap="square"></path>
+                    <path id="Line-decoration-1" d="M44.5,4.5 L33.9319987,0.764046425 L33.5191862,6.7498284 L44.5,4.5 Z" stroke="#F80000" stroke-width="3" stroke-linecap="square"></path>
+                    <path d="M38.5,342.5 L38.5,371.5" id="Line" stroke="#F80000" stroke-width="3" stroke-linecap="square"></path>
+                    <path id="Line-decoration-1" d="M38.5,371.5 L41.5,360.7 L35.5,360.7 L38.5,371.5 Z" stroke="#F80000" stroke-width="3" stroke-linecap="square"></path>
+                    <text id="Cintrage-longitudina" transform="translate(313.000000, 337.000000) rotate(20.000000) translate(-313.000000, -337.000000) " font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                        <tspan x="251" y="332">Cintrage </tspan>
+                        <tspan x="251" y="356">longitudinal</tspan>
+                    </text>
+                </g>
+            </g>
+            <path d="M-2.5,473.5 L1196.50375,473.5" id="Line" stroke="#001DAF" stroke-width="10" stroke-linecap="square" stroke-dasharray="20,20"></path>
+        </g>
+    </g>
+</svg>

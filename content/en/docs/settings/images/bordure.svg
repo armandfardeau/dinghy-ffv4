@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="400px" viewBox="0 0 900 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>bordure</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2.24594595" y="9.93847294" width="6.89189189" height="11.5948851"></rect>
+        <rect id="path-2" x="2.24594595" y="26.5025945" width="6.89189189" height="11.5948851"></rect>
+        <rect id="path-3" x="2.24594595" y="43.0667161" width="6.89189189" height="11.5948851"></rect>
+        <rect id="path-4" x="2.24594595" y="59.6308377" width="6.89189189" height="11.5948851"></rect>
+    </defs>
+    <g id="bordure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <g transform="translate(24.000000, 77.000000)">
+                <text id="Voile" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="369" y="19">Voile</tspan>
+                </text>
+                <path d="M79,154 C119.595975,86.6666667 211.978258,53 356.146848,53 C500.315439,53 639.933156,86.6666667 775,154" id="Path-2" stroke="#979797" stroke-width="6"></path>
+                <rect id="Rectangle" fill="#D8D8D8" x="88" y="142" width="764" height="24"></rect>
+                <circle id="Oval" fill="#AEAEAE" cx="79.5" cy="154.5" r="20.5"></circle>
+                <text id="Mât" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="0" y="242">Mât</tspan>
+                </text>
+                <text id="Bôme" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="476" y="220">Bôme</tspan>
+                </text>
+                <g id="Group-2" transform="translate(352.000000, 59.000000)">
+                    <polygon id="Triangle" stroke="#F80000" fill="#F80000" points="5.69189189 0 10.8608108 9.93847294 0.522972973 9.93847294"></polygon>
+                    <polygon id="Triangle-Copy" stroke="#F80000" fill="#F80000" transform="translate(5.691892, 76.194959) scale(1, -1) rotate(2.000000) translate(-5.691892, -76.194959) " points="5.69189189 71.2257228 10.8608108 81.1641957 0.522972973 81.1641957"></polygon>
+                    <g id="Rectangle-2">
+                        <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#F80000" stroke-width="1" x="2.74594595" y="10.4384729" width="5.89189189" height="10.5948851"></rect>
+                    </g>
+                    <g id="Rectangle-2-Copy">
+                        <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#F80000" stroke-width="1" x="2.74594595" y="27.0025945" width="5.89189189" height="10.5948851"></rect>
+                    </g>
+                    <g id="Rectangle-2-Copy-3">
+                        <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#F80000" stroke-width="1" x="2.74594595" y="43.5667161" width="5.89189189" height="10.5948851"></rect>
+                    </g>
+                    <g id="Rectangle-2-Copy-2">
+                        <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#F80000" stroke-width="1" x="2.74594595" y="60.1308377" width="5.89189189" height="10.5948851"></rect>
+                    </g>
+                </g>
+                <text id="20-cm-max" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="377" y="110">20 cm max</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

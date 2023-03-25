@@ -1,0 +1,106 @@
+@import "variables";
+
+.evaluator-level{
+  &.completed{
+    box-shadow: 0 0 0 .2rem $green;
+    transition: all 250ms;
+
+    summary{
+      position: relative;
+
+      &::after{
+        content: "";
+        background: url("{{ "svg/completed-sail.svg " | relURL }}");
+        position: absolute;
+        right: 1em;
+        top: 1em;
+        height: 4em;
+        background-size: 100%;
+        width: 4em;
+        display: inline-block;
+      }
+    }
+  }
+
+  &:not(:last-of-type){
+    margin-bottom: 1rem;
+  }
+
+  summary{
+    font-weight: bold;
+    padding: 2.5rem !important;
+  }
+
+  &:nth-of-type(1){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $grey 100%);
+    }
+  }
+
+  &:nth-of-type(2){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $yellow 100%);
+    }
+  }
+
+  &:nth-of-type(3){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $yellow 85%, $orange 100%);
+    }
+  }
+
+  &:nth-of-type(4){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $orange 100%);
+    }
+  }
+
+  &:nth-of-type(5){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $orange 85%, $green 100%);
+    }
+  }
+
+  &:nth-of-type(6){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $green 100%);
+    }
+  }
+
+  &:nth-of-type(7){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $blue 100%);
+    }
+  }
+
+  &:nth-of-type(8){
+    summary{
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 70%, $purple 100%);
+    }
+  }
+
+  .item-wrapper{
+    margin: .5rem 0;
+  }
+
+
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+    @media (min-width: 576px){
+      flex-direction: row;
+      .evaluator-section{
+        margin: 0 .5rem;
+
+        &:first-of-type{
+          margin: 0 .5rem 0 0;
+        }
+
+        &:last-of-type{
+          margin: 0 0 0 .5rem;
+        }
+      }
+    }
+  }
+
+}

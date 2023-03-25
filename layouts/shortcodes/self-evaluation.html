@@ -1,0 +1,45 @@
+{{- $seJS := resources.Get "self-evaluation.js" | resources.ExecuteAsTemplate "self-evaluation.js" . | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $seJS.RelPermalink }}" integrity="{{ $seJS.Data.Integrity }}"></script>
+{{- $se := resources.Get "self-evaluation.scss" | resources.ExecuteAsTemplate "self-evaluation.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $se.RelPermalink }}" integrity="{{ $se.Data.Integrity }}">
+
+<div class="self-evaluator">
+    {{ range $level := (seq 8) }}
+    {{ $level := string $level }}
+    <details class="evaluator-level" id="level_{{ $level }}" open>
+        <summary class="collabsible" id="level_{{ $level }}_summary">{{ (printf "%s%s%s" "level_" $level "_title") | i18n }}</summary>
+        <div class="markdown-inner wrapper">
+            {{ range $section := (seq 3) }}
+                {{ $section := string $section }}
+                <div class="evaluator-section">
+                    <h3>{{ (printf "%s%s%s" "section_" $section "_title") | i18n }}</h3>
+                    {{ range $subsection := (seq 5) }}
+                        {{ $subsection := string $subsection }}
+                        {{ $subsection_title := ((printf "%s%s%s%s%s%s%s" "level_" $level "_section_" $section "_subsection_" $subsection "_title") | i18n) }}
+                            {{ if ne $subsection_title "" }}
+                                <section>
+                                    <h4>{{ $subsection_title }}</h4>
+                                    {{ range $item := (seq 10) }}
+                                        {{ $item := string $item }}
+                                        {{ $item_title := ((printf "%s%s%s%s%s%s%s%s%s" "level_" $level "_section_" $section "_subsection_" $subsection "_item_" $item "_title") | i18n) }}
+                                        {{ if ne $item_title "" }}
+                                            <div class="item-wrapper">
+                                                <input type="checkbox"
+                                                       class="evaluator-item"
+                                                       id="level_{{ $level }}_section{{ $section }}_subsection_{{ $subsection }}_item_{{ $item}}"
+                                                       name="level_{{ $level }}_section{{ $section }}_subsection_{{ $subsection }}_item_{{ $item}}">
+                                                <label for="level_{{ $level }}_section{{ $section }}_subsection_{{ $subsection }}_item_{{ $item}}">
+                                                    {{ $item_title }}
+                                                </label>
+                                            </div>
+                                        {{ end }}
+                                    {{ end }}
+                                </section>
+                            {{ end }}
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </details>
+    {{ end }}
+</div>

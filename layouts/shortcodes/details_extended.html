@@ -1,0 +1,6 @@
+<details class='{{.Get "class"}}' id='{{.Get "id"}}'>
+<summary>{{ .Get "title" }}</summary>
+<div class="markdown-inner">
+    {{ .Inner | markdownify }}
+</div>
+</details>

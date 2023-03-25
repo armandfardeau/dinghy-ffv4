@@ -1,0 +1,11 @@
+{{ if .Site.Params.GSearchConsole }}
+<meta name="google-site-verification" content="{{ .Site.Params.GSearchConsole }}" />
+{{ end }}
+
+{{ if .Site.Params.gAdClient }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.gAdClient }}"
+        crossorigin="anonymous"></script>
+{{ end }}
+
+{{- $dJS := resources.Get "details.js" | resources.ExecuteAsTemplate "details.js" . | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $dJS.RelPermalink }}" integrity="{{ $dJS.Data.Integrity }}"></script>

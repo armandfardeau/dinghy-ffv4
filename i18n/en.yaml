@@ -1,0 +1,266 @@
+- id: Add an issue
+  translation: Report an incorrect element
+- id: level_1_title
+  translation: "White level"
+- id: level_2_title
+  translation: "Yellow level"
+- id: level_3_title
+  translation: "Yellow Orange Level"
+- id: level_4_title
+  translation: "Level Orange"
+- id: level_5_title
+  translation: "Orange Green Level"
+- id: level_6_title
+  translation: "Level Green"
+- id: level_7_title
+  translation: "Level Blue"
+- id: level_8_title
+  translation: "Level Violet"
+- id: section_1_title
+  translation: "Technical"
+- id: section_2_title
+  translation: "Security"
+- id: section_3_title
+  translation: "Marine Sense Environment"
+- id: level_1_section_1_subsection_1_title
+  translation: "Launching and boarding"
+- id: level_1_section_1_subsection_2_title
+  translation: "Direct trajectories"
+- id: level_1_section_2_subsection_1_title
+  translation: "Apply the safety instructions given by the instructor."
+- id: level_1_section_3_subsection_1_title
+  translation: "Environment"
+- id: level_2_section_1_subsection_1_title
+  translation: "Stop"
+- id: level_2_section_1_subsection_2_title
+  translation: "Change of tack"
+- id: level_2_section_2_subsection_1_title
+  translation: "Apply the safety instructions given by the instructor."
+- id: level_2_section_3_subsection_1_title
+  translation: "Marine sense"
+- id: level_3_section_1_subsection_1_title
+  translation: "Direct trajectories"
+- id: level_3_section_2_subsection_1_title
+  translation: "Know and respect the procedures and basic safety maneuvers."
+- id: level_3_section_3_subsection_1_title
+  translation: "Environment"
+- id: level_3_section_3_subsection_2_title
+  translation: "Marine sense"
+- id: level_4_section_1_subsection_1_title
+  translation: "Direct trajectories"
+- id: level_4_section_1_subsection_2_title
+  translation: "Indirect trajectories"
+- id: level_4_section_2_subsection_1_title
+  translation: "Know and respect the procedures and basic safety maneuvers."
+- id: level_4_section_3_subsection_1_title
+  translation: "Marine sense"
+- id: level_5_section_1_subsection_1_title
+  translation: "Overpowered driving"
+- id: level_5_section_1_subsection_2_title
+  translation: "Anticipation of trajectories and paces"
+- id: level_5_section_2_subsection_1_title
+  translation: "Ensure safety under normal navigation conditions."
+- id: level_5_section_3_subsection_1_title
+  translation: "Marine sense"
+- id: level_5_section_3_subsection_2_title
+  translation: "Environment"
+- id: level_6_section_1_subsection_1_title
+  translation: "Overpowered driving"
+- id: level_6_section_1_subsection_2_title
+  translation: "Anticipation of trajectories and paces"
+- id: level_6_section_1_subsection_3_title
+  translation: "Coordination"
+- id: level_6_section_1_subsection_4_title
+  translation: "Material preparation"
+- id: level_6_section_2_subsection_1_title
+  translation: "Ensuring safety under normal navigation conditions."
+- id: level_6_section_3_subsection_1_title
+  translation: "Launching the boat."
+- id: level_7_section_1_subsection_1_title
+  translation: Direct trajectories (underpower and overpower)
+- id: level_7_section_1_subsection_2_title
+  translation: Indirect trajectories (underpower and overpower)
+- id: level_7_section_1_subsection_3_title
+  translation: Coordination
+- id: level_7_section_1_subsection_4_title
+  translation: Overpowering
+- id: level_7_section_2_subsection_1_title
+  translation: Master the procedures to limit the risks in case of unusual situations (damage, strong wind, calm ...).
+- id: level_7_section_3_subsection_1_title
+  translation: Environment
+- id: level_7_section_3_subsection_2_title
+  translation: Marine sense
+- id: level_8_section_1_subsection_1_title
+  translation: Direct trajectories (underpower and overpower)
+- id: level_8_section_1_subsection_2_title
+  translation: Indirect trajectories (underpower and overpower)
+- id: level_8_section_1_subsection_3_title
+  translation: Reaction Adaptation
+- id: level_8_section_2_subsection_1_title
+  translation: Evolve safely over a longer period of time and in wider areas.
+- id: level_8_section_3_subsection_1_title
+  translation: Environment
+- id: level_8_section_3_subsection_2_title
+  translation: Marine sense
+- id: level_1_section_1_subsection_1_item_1_title
+  translation: "Orient the support before embarking."
+- id: level_1_section_1_subsection_1_item_2_title
+  translation: "Embark without compromising the balance."
+- id: level_1_section_1_subsection_2_item_1_title
+  translation: "Inflate the sail to move forward."
+- id: level_1_section_1_subsection_2_item_2_title
+  translation: "Use the helm to steer."
+- id: level_1_section_2_subsection_1_item_1_title
+  translation: "Equip yourself with the proposed equipment."
+- id: level_1_section_2_subsection_1_item_2_title
+  translation: "Pay attention to safety tips."
+- id: level_1_section_3_subsection_1_item_1_title
+  translation: "Bring your garbage to the ground."
+- id: level_2_section_1_subsection_1_item_1_title
+  translation: "Use the sail to slow down."
+- id: level_2_section_1_subsection_1_item_2_title
+  translation: "Use the helm to slow down."
+- id: level_2_section_1_subsection_2_item_1_title
+  translation: "Use the helm to change tack."
+- id: level_2_section_1_subsection_2_item_2_title
+  translation: "Move to change sides without compromising the maneuver."
+- id: level_2_section_2_subsection_1_item_1_title
+  translation: "Prepare for towing"
+- id: level_2_section_3_subsection_1_item_1_title
+  translation: "Make two knots."
+- id: level_2_section_3_subsection_1_item_2_title
+  translation: "Report polluting or dangerous objects."
+- id: level_2_section_3_subsection_1_item_3_title
+  translation: "On the beach or when standing on the water, know where the wind is coming from."
+- id: level_2_section_3_subsection_1_item_4_title
+  translation: "Respect the instructions for preserving the environments encountered."
+- id: level_3_section_1_subsection_1_item_1_title
+  translation: "Adapt the opening of the sail to the pace."
+- id: level_3_section_1_subsection_1_item_2_title
+  translation: "Keep a fixed trajectory."
+- id: level_3_section_1_subsection_1_item_3_title
+  translation: "Move to balance the support laterally."
+- id: level_3_section_1_subsection_1_item_4_title
+  translation: "Shock or tuck the sail to compensate for an unbalanced support."
+- id: level_3_section_2_subsection_1_item_1_title
+  translation: "Report difficulties."
+- id: level_3_section_2_subsection_1_item_2_title
+  translation: "Identify the possible dangers on the proposed course."
+- id: level_3_section_3_subsection_1_item_1_title
+  translation: "Know the most common natural species found on the water."
+- id: level_3_section_3_subsection_2_item_2_title
+  translation: "Locate your starting area."
+- id: level_4_section_1_subsection_1_item_1_title
+  translation: "Use the trapeziususpension recall to balance the support laterally"
+- id: level_4_section_1_subsection_2_item_1_title
+  translation: "Adjust the trajectory to a given sail opening."
+- id: level_4_section_1_subsection_2_item_2_title
+  translation: "Turn and gybe without stopping."
+- id: level_4_section_1_subsection_2_item_3_title
+  translation: "Choose trajectories that allow you to win to windward or leeward."
+- id: level_4_section_2_subsection_1_item_1_title
+  translation: "To regroup."
+- id: level_4_section_2_subsection_1_item_2_title
+  translation: "Experiment with common safety maneuvers in adapted conditions (participate in the reeling of a boat, putting on the cape ... )."
+- id: level_4_section_3_subsection_1_item_1_title
+  translation: "Know the dynamics of the tides, or the possible movements of water in inland water bodies."
+- id: level_4_section_3_subsection_1_item_2_title
+  translation: "Evaluate wind strength and sea state."
+- id: level_5_section_1_subsection_1_item_1_title
+  translation: "Maintain the balance of the support using the sail (upwind)."
+- id: level_5_section_1_subsection_1_item_2_title
+  translation: "Tack and gybe while controlling balance."
+- id: level_5_section_1_subsection_2_item_1_title
+  translation: "Represent the trajectories to follow and the points of sail to take to reach a given point on the water."
+- id: level_5_section_2_subsection_1_item_1_title
+  translation: "Participate in the selection of a sailing program or area."
+- id: level_5_section_2_subsection_1_item_2_title
+  translation: "Monitor the condition of the boat or board."
+- id: level_5_section_3_subsection_1_item_1_title
+  translation: "Know the main rules of the road to avoid collisions."
+- id: level_5_section_3_subsection_1_item_2_title
+  translation: "Respect other users of the navigation area."
+- id: level_5_section_3_subsection_2_item_1_title
+  translation: "Know the protected natural species of the practice site."
+- id: level_6_section_1_subsection_1_item_1_title
+  translation: "Maintain the balance of the support using the bar (downwind)."
+- id: level_6_section_1_subsection_2_item_1_title
+  translation: "Identify your sailing pace."
+- id: level_6_section_1_subsection_3_item_1_title
+  translation: "Know and perform the tasks of each position during maneuvers."
+- id: level_6_section_1_subsection_4_item_1_title
+  translation: "Adapt the surface (sail change, reefing) and adjust the volume of the sails in statics (downhaul, cuningham, trim, battens)."
+- id: level_6_section_2_subsection_1_item_1_title
+  translation: "Evaluate the requirements of a navigation situation."
+- id: level_6_section_2_subsection_1_item_2_title
+  translation: "Master the common safety maneuvers (man overboard, departures and arrivals in difficult conditions, quick stop, reverse...)."
+- id: level_6_section_3_subsection_1_item_1_title
+  translation: "Know the fundamentals of seamanship in order to ensure emergency repairs."
+- id: level_6_section_3_subsection_1_item_2_title
+  translation: "Know the main regulations related to the sites"
+- id: level_6_section_3_subsection_1_item_3_title
+  translation: "Locate the presence and direction of the current."
+- id: level_7_section_1_subsection_1_item_1_title
+  translation: "Move to maintain the attitude of the support in longitudinal and lateral."
+- id: level_7_section_1_subsection_1_item_2_title
+  translation: "Adapt settings to suit the wind and sea conditions to facilitate steering."
+- id: level_7_section_1_subsection_2_item_1_title
+  translation: "Tack and gybe while controlling the angle of exit (upwind, downwind, downwind)."
+- id: level_7_section_1_subsection_2_item_2_title
+  translation: "To reach a point on the water without unnecessarily increasing the course (notion of frame)."
+- id: level_7_section_1_subsection_3_item_1_title
+  translation: "Occupy each position during maneuvers, in coordination with the rest of the crew."
+- id: level_7_section_1_subsection_4_item_1_title
+  translation: "Coordinate helm and sheeting actions to balance the boat without changing speed."
+- id: level_7_section_2_subsection_1_item_1_title
+  translation: "Know the alert and reporting procedures."
+- id: level_7_section_2_subsection_1_item_2_title
+  translation: "Choose, from the available equipment, the one suitable for your level and conditions."
+- id: level_7_section_2_subsection_1_item_3_title
+  translation: "Mastering reeling in strong winds."
+- id: level_7_section_2_subsection_1_item_4_title
+  translation: "Breaking free on the water, returning under reduced sail or with the oar."
+- id: level_7_section_3_subsection_1_item_1_title
+  translation: "Know the rules of access and preservation of natural sites."
+- id: level_7_section_3_subsection_2_item_1_title
+  translation: "Choose a navigation area according to the dangers and the"
+- id: level_7_section_3_subsection_2_item_1_title
+  translation: "Choose a navigation area according to the dangers and the available weather information allowing an easy return even in case of deteriorating conditions."
+- id: level_7_section_3_subsection_2_item_2_title
+  translation: "Knowing where you are on the water."
+- id: level_7_section_3_subsection_2_item_3_title
+  translation: "Participate in collective tasks."
+- id: level_8_section_1_subsection_1_item_1_title
+  translation: "Coordinate the actions of bar-listening movement to optimize the speed"
+- id: level_8_section_1_subsection_1_item_2_title
+  translation: "Constantly adapt the settings and conduct according to"
+- id: level_8_section_1_subsection_2_item_1_title
+  translation: "the pace and variations in wind and sea, to optimize the speed."
+- id: level_8_section_1_subsection_2_item_1_title
+  translation: "Coordinate helm-listening-moving actions, to optimize windward or leeward gain."
+- id: level_8_section_1_subsection_3_item_1_title
+  translation: "Choose the trajectory that brings you closer to the goal (adonnantesrefusantes)."
+- id: level_8_section_1_subsection_3_item_2_title
+  translation: "Locate areas of potentially stronger or weaker wind and current."
+- id: level_8_section_2_subsection_1_item_1_title
+  translation: "Towing a boat (sail or motor)."
+- id: level_8_section_2_subsection_1_item_2_title
+  translation: "Relate the landscape encountered to the nautical chart."
+- id: level_8_section_2_subsection_1_item_3_title
+  translation: "Define and criticize your route, maintain an esteem."
+- id: level_8_section_2_subsection_1_item_4_title
+  translation: "Maintain the condition of the boat or board."
+- id: level_8_section_3_subsection_1_item_1_title
+  translation: "Ensure compliance with the rules of preservation of natural species."
+- id: level_8_section_3_subsection_1_item_2_title
+  translation: "Know the jobs related to the environment."
+- id: level_8_section_3_subsection_1_item_3_title
+  translation: "Know the main elements of the maritime, lake or river heritage of the site."
+- id: level_8_section_3_subsection_2_item_1_title
+  translation: "Present the weather information useful for defining the navigation program."
+- id: level_8_section_3_subsection_2_item_2_title
+  translation: "Recognize the main phenomena likely to change the wind conditions within three hours"
+- id: level_8_section_3_subsection_2_item_3_title
+  translation: "Sailing in a group of solidary practitioners."
+- id: level_8_section_3_subsection_2_item_4_title
+  translation: "Organize collective tasks."

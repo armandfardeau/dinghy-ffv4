@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="306px" viewBox="0 0 540 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Premier substitut</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="270 -34.095636 381.904364 339.904364 158.095636 339.904364"></polygon>
+    </defs>
+    <g id="pavillons-régate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Premier-substitut">
+            <g id="Triangle" transform="translate(270.000000, 152.904364) rotate(90.000000) translate(-270.000000, -152.904364) ">
+                <use fill="#0061DE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#000000" stroke-width="1" d="M270,-35.839905 L382.575871,340.404364 L157.424129,340.404364 L270,-35.839905 Z"></path>
+            </g>
+            <polygon id="Triangle-Copy" fill="#F8FF00" transform="translate(228.500000, 153.069973) rotate(90.000000) translate(-228.500000, -153.069973) " points="228.5 7.56997304 315.569973 298.569973 141.430027 298.569973"></polygon>
+        </g>
+    </g>
+</svg>

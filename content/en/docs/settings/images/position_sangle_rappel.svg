@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="450px" viewBox="0 0 1200 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>position_sangle_rappel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="355.571096" y="150.642857" width="14.7132867" height="9.5"></rect>
+        <rect id="path-2" x="380.423163" y="123.454545" width="14.7260579" height="9.4965035"></rect>
+    </defs>
+    <g id="position_sangle_rappel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3">
+            <g transform="translate(24.000000, 196.000000)">
+                <g id="Group-2">
+                    <g id="Group" stroke="#AEAEAE">
+                        <ellipse id="Oval" fill="#AEAEAE" cx="35.5571096" cy="39.3571429" rx="35.5571096" ry="39.3571429"></ellipse>
+                        <polyline id="Path-3" stroke-width="4" stroke-linecap="round" points="58.8669328 111.727673 106.986188 101.393418 135.741288 70.2045451"></polyline>
+                        <path d="M37.8976759,78.2425384 C53.7772071,107.187775 68.3437528,126.77328 81.5973128,136.999052 C94.8508728,147.224825 115.184581,154.56658 142.598439,159.024318 L273.732152,94.0030752 L364.216734,171.096497 L385.176899,151.281462" id="Path-2" stroke-width="4" stroke-linecap="round"></path>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#F80000" stroke-width="1" x="356.071096" y="151.142857" width="13.7132867" height="8.5"></rect>
+                    </g>
+                    <path d="M384.848908,173.568073 L407.521999,173.568073 L407.521999,138.428571 L525.851239,138.428571 C522.357896,162.901808 503.534308,181.233369 469.380475,193.423255 C440.20888,203.834925 404.699841,208.638051 362.853358,207.832634 C321.006874,208.638051 285.497836,203.834924 256.326241,193.423255 C222.172409,181.233369 203.348821,162.901808 199.855478,138.428571 L318.184718,138.428571 L318.184718,173.568073 L384.848908,173.568073 Z" id="Combined-Shape" stroke="#D8D8D8" fill="#D8D8D8"></path>
+                </g>
+                <g id="Group-2-Copy" transform="translate(601.000000, 8.000000)">
+                    <g id="Group" stroke="#AEAEAE">
+                        <ellipse id="Oval" fill="#AEAEAE" cx="35.5879733" cy="39.3426573" rx="35.5879733" ry="39.3426573"></ellipse>
+                        <polyline id="Path-3" stroke-width="4" stroke-linecap="round" points="71.1759465 99.8435093 119.336969 89.5130584 148.117029 58.3356643"></polyline>
+                        <path d="M35.0458277,72.8426005 C57.4866292,94.0741818 75.339562,109.800977 88.6046262,120.022986 C101.86969,130.244994 128.908144,132.824996 169.719987,127.762992 L305.756388,102.323428 L391.530649,139.830727 L412.509007,120.022986" id="Path-2" stroke-width="4" stroke-linecap="round"></path>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#F80000" stroke-width="1" x="380.923163" y="123.954545" width="13.7260579" height="8.4965035"></rect>
+                    </g>
+                    <path d="M409.726388,158.581114 L432.41916,158.581114 L432.41916,123.454545 L550.85111,123.454545 C547.354735,147.918774 528.514808,166.243588 494.331329,178.428988 C465.134413,188.836826 429.594552,193.638184 387.711746,192.833064 C345.828939,193.638184 310.289079,188.836825 281.092163,178.428988 C246.908685,166.243588 228.068758,147.918774 224.572383,123.454545 L343.004333,123.454545 L343.004333,158.581114 L409.726388,158.581114 Z" id="Combined-Shape" stroke="#D8D8D8" fill="#D8D8D8"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

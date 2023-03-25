@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>effet_ecoute_vue_dessus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ecoute" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="effet_ecoute_vue_dessus">
+            <g id="Group-2" transform="translate(182.000000, 59.000000)">
+                <text id="Voile-vrillée" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="5" y="453">Voile </tspan>
+                    <tspan x="5" y="477">vrillée</tspan>
+                </text>
+                <text id="Chute-fermée" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="151" y="453">Chute </tspan>
+                    <tspan x="151" y="477">fermée</tspan>
+                </text>
+                <g id="Group" transform="translate(0.000000, 38.000000)">
+                    <path d="M37.048064,308.514929 C20.8743247,279.372361 11.2697908,232.55984 8.23446228,168.077367 C5.1991338,103.594894 15.7816891,48.9018594 39.9821282,3.99826214 C13.7959034,61.3283463 0.702790958,117.489111 0.702790958,172.480555 C0.702790958,227.471999 12.2620244,274.117268 35.3804913,312.416363" id="Path-5" stroke="#D8D8D8" stroke-width="4"></path>
+                    <path d="M38,308.173932 L38,0 L42,0 L42,308.498163 C44.3489518,309.477723 46,311.79605 46,314.5 C46,318.089851 43.0898509,321 39.5,321 C35.9101491,321 33,318.089851 33,314.5 C33,311.426418 35.1333,308.851096 38,308.173932 Z" id="Combined-Shape" stroke="#AEAEAE" fill="#AEAEAE"></path>
+                </g>
+                <g id="Group-Copy" transform="translate(169.000000, 38.000000)">
+                    <path d="M15.048064,308.514929 C15.6533177,277.656492 14.4382803,229.986037 11.4029518,165.503564 C8.36762336,101.021092 10.5606822,47.1859909 17.9821282,3.99826214 C6.54664978,53.741546 0.828910557,106.10891 0.828910557,161.100354 C0.828910557,216.091799 5.0127708,266.530468 13.3804913,312.416363" id="Path-5" stroke="#F80000" stroke-width="4" stroke-dasharray="10,10"></path>
+                    <path d="M16,308.173932 L16,0 L20,0 L20,308.498163 C22.3489518,309.477723 24,311.79605 24,314.5 C24,318.089851 21.0898509,321 17.5,321 C13.9101491,321 11,318.089851 11,314.5 C11,311.426418 13.1333,308.851096 16,308.173932 Z" id="Combined-Shape" stroke="#AEAEAE" fill="#AEAEAE"></path>
+                </g>
+                <text id="Effet-2---vue-du-des" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="5" y="19">Effet 2 - vue du dessus</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

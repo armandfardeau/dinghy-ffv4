@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>archimede</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="426.343352" y="181.365039" width="21.5163934" height="169.634961"></rect>
+        <rect id="path-2" x="426.343352" y="181.365039" width="21.5163934" height="169.634961"></rect>
+    </defs>
+    <g id="poussée-archimède" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="archimede">
+            <g id="laser-2" transform="translate(163.000000, 615.000000)">
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="426.843352" y="181.865039" width="20.5163934" height="168.634961"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" x="426.843352" y="181.865039" width="20.5163934" height="168.634961"></rect>
+                </g>
+                <path d="M0,0 L874.279488,0 C820.086414,150.456713 674.373166,225.685069 437.139744,225.685069 C199.906323,225.685069 54.1930747,150.456713 0,0 Z" id="Path-2" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd"></path>
+            </g>
+            <path d="M1.5,707.5 L1200.50375,707.5" id="Line" stroke="#001DAF" stroke-width="10" stroke-linecap="square" stroke-dasharray="20,20"></path>
+            <text id="Poussée-d’archimède" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#008500">
+                <tspan x="78" y="693">Poussée d’archimède</tspan>
+            </text>
+            <path d="M601.118678,762.016783 L601.118678,512.016783" id="Line-Copy" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+            <path id="Line-Copy-decoration-1" d="M601.118678,512.016783 L598.118678,522.816783 L604.118678,522.816783 L601.118678,512.016783 Z" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+            <text id="CC" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#000000">
+                <tspan x="622" y="762">CC</tspan>
+            </text>
+            <circle id="Oval-Copy" fill="#000000" cx="601" cy="763" r="10"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,266 @@
+- id: Add an issue
+  translation: Signaler un élément incorrect
+- id: level_1_title
+  translation: "Niveau Blanc"
+- id: level_2_title
+  translation: "Niveau Jaune"
+- id: level_3_title
+  translation: "Niveau Jaune / Orange"
+- id: level_4_title
+  translation: "Niveau Orange"
+- id: level_5_title
+  translation: "Niveau Orange / Vert"
+- id: level_6_title
+  translation: "Niveau Vert"
+- id: level_7_title
+  translation: "Niveau Bleu"
+- id: level_8_title
+  translation: "Niveau Violet"
+- id: section_1_title
+  translation: "Technique"
+- id: section_2_title
+  translation: "Sécurité"
+- id: section_3_title
+  translation: "Sens marin / Environment"
+- id: level_1_section_1_subsection_1_title
+  translation: "Mise à l’eau embarquement"
+- id: level_1_section_1_subsection_2_title
+  translation: "Trajectoires directes"
+- id: level_1_section_2_subsection_1_title
+  translation: "Appliquer les consignes de sécurité énoncées par le moniteur."
+- id: level_1_section_3_subsection_1_title
+  translation: "Environnement"
+- id: level_2_section_1_subsection_1_title
+  translation: "Arrêt"
+- id: level_2_section_1_subsection_2_title
+  translation: "Changement d’amure"
+- id: level_2_section_2_subsection_1_title
+  translation: "Appliquer les consignes de sécurité énoncées par le moniteur."
+- id: level_2_section_3_subsection_1_title
+  translation: "Sens marin"
+- id: level_3_section_1_subsection_1_title
+  translation: "Trajectoires directes"
+- id: level_3_section_2_subsection_1_title
+  translation: "Connaître et respecter les procédures et les manoeuvres de sécurité fondamentales."
+- id: level_3_section_3_subsection_1_title
+  translation: "Environnement"
+- id: level_3_section_3_subsection_2_title
+  translation: "Sens marin"
+- id: level_4_section_1_subsection_1_title
+  translation: "Trajectoires directes"
+- id: level_4_section_1_subsection_2_title
+  translation: "Trajectoires indirectes"
+- id: level_4_section_2_subsection_1_title
+  translation: "Connaître et respecter les procédures et les manoeuvres de sécurité fondamentales."
+- id: level_4_section_3_subsection_1_title
+  translation: "Sens marin"
+- id: level_5_section_1_subsection_1_title
+  translation: "Conduite en surpuissance"
+- id: level_5_section_1_subsection_2_title
+  translation: "Anticipation des trajectoires et des allures"
+- id: level_5_section_2_subsection_1_title
+  translation: "Assurer sa sécurité dans des conditions normales de navigation."
+- id: level_5_section_3_subsection_1_title
+  translation: "Sens marin"
+- id: level_5_section_3_subsection_2_title
+  translation: "Environnement"
+- id: level_6_section_1_subsection_1_title
+  translation: "Conduite en surpuissance"
+- id: level_6_section_1_subsection_2_title
+  translation: "Anticipation des trajectoires et des allures"
+- id: level_6_section_1_subsection_3_title
+  translation: "Coordination"
+- id: level_6_section_1_subsection_4_title
+  translation: "Préparation du matériel"
+- id: level_6_section_2_subsection_1_title
+  translation: "Assurer sa sécurité dans des conditions normales de navigation."
+- id: level_6_section_3_subsection_1_title
+  translation: "Mise à l’eau embarquement"
+- id: level_7_section_1_subsection_1_title
+  translation: Trajectoires directes (sous-puissance et surpuissance)
+- id: level_7_section_1_subsection_2_title
+  translation: Trajectoires indirectes (sous-puissance et surpuissance)
+- id: level_7_section_1_subsection_3_title
+  translation: Coordination
+- id: level_7_section_1_subsection_4_title
+  translation: Surpuissance
+- id: level_7_section_2_subsection_1_title
+  translation: Maîtriser les procédures permettant de limiter les risques en cas de situations inhabituelles (avaries, vent fort, calme ... ).
+- id: level_7_section_3_subsection_1_title
+  translation: Environnement
+- id: level_7_section_3_subsection_2_title
+  translation: Sens marin
+- id: level_8_section_1_subsection_1_title
+  translation: Trajectoires directes (sous-puissance et surpuissance)
+- id: level_8_section_1_subsection_2_title
+  translation: Trajectoires indirectes (sous-puissance et surpuissance)
+- id: level_8_section_1_subsection_3_title
+  translation: Réaction / Adaptation
+- id: level_8_section_2_subsection_1_title
+  translation: Evoluer en sécurité sur une durée et dans des périmètres élargis.
+- id: level_8_section_3_subsection_1_title
+  translation: Environnement
+- id: level_8_section_3_subsection_2_title
+  translation: Sens marin
+- id: level_1_section_1_subsection_1_item_1_title
+  translation: "Orienter le support avant d’embarquer."
+- id: level_1_section_1_subsection_1_item_2_title
+  translation: "Embarquer sans compromettre l’équilibre."
+- id: level_1_section_1_subsection_2_item_1_title
+  translation: "Gonfler la voile pour avancer."
+- id: level_1_section_1_subsection_2_item_2_title
+  translation: "Utiliser la barre pour se diriger"
+- id: level_1_section_2_subsection_1_item_1_title
+  translation: "S’équiper avec le matériel proposé."
+- id: level_1_section_2_subsection_1_item_2_title
+  translation: "Rester attentif aux conseils de sécurité."
+- id: level_1_section_3_subsection_1_item_1_title
+  translation: "Ramener à terre ses détritus."
+- id: level_2_section_1_subsection_1_item_1_title
+  translation: "Utiliser la voile pour ralentir."
+- id: level_2_section_1_subsection_1_item_2_title
+  translation: "Utiliser la barre pour ralentir."
+- id: level_2_section_1_subsection_2_item_1_title
+  translation: "Utiliser la barre pour changer d’amure."
+- id: level_2_section_1_subsection_2_item_2_title
+  translation: "Se déplacer pour changer de côté sans compromettre la manoeuvre."
+- id: level_2_section_2_subsection_1_item_1_title
+  translation: "Se préparer au remorquage"
+- id: level_2_section_3_subsection_1_item_1_title
+  translation: "Faire deux noeuds marins."
+- id: level_2_section_3_subsection_1_item_2_title
+  translation: "Signaler les objets polluants ou dangereux."
+- id: level_2_section_3_subsection_1_item_3_title
+  translation: "Sur la plage ou à l’arrêt sur l’eau, savoir d’où vient le vent."
+- id: level_2_section_3_subsection_1_item_4_title
+  translation: "Respecter les consignes de préservation des milieux rencontrés."
+- id: level_3_section_1_subsection_1_item_1_title
+  translation: "Adapter l’ouverture de la voile à l’allure."
+- id: level_3_section_1_subsection_1_item_2_title
+  translation: "Conserver une trajectoire fixe"
+- id: level_3_section_1_subsection_1_item_3_title
+  translation: "Se déplacer pour équilibrer le support en latéral."
+- id: level_3_section_1_subsection_1_item_4_title
+  translation: "Choquer ou border la voile pour compenser un déséquilibre du support."
+- id: level_3_section_2_subsection_1_item_1_title
+  translation: "Signaler ses difficultés."
+- id: level_3_section_2_subsection_1_item_2_title
+  translation: "Repérer les dangers éventuels sur le parcours proposé"
+- id: level_3_section_3_subsection_1_item_1_title
+  translation: "Connaître les espèces naturelles les plus courantes rencontrées sur le plan d’eau."
+- id: level_3_section_3_subsection_2_item_2_title
+  translation: "Situer sa zone de départ."
+- id: level_4_section_1_subsection_1_item_1_title
+  translation:  "Utiliser le rappel/ trapèze/suspension pour équilibrer le support en latéral"
+- id: level_4_section_1_subsection_2_item_1_title
+  translation: "Ajuster la trajectoire à une ouverture de voile donnée."
+- id: level_4_section_1_subsection_2_item_2_title
+  translation: "Virer de bord et empanner sans s’arrêter."
+- id: level_4_section_1_subsection_2_item_3_title
+  translation: "Choisir des trajectoires permettant de gagner au vent ou sous le vent."
+- id: level_4_section_2_subsection_1_item_1_title
+  translation: "Se regrouper."
+- id: level_4_section_2_subsection_1_item_2_title
+  translation: "Expérimenter les manoeuvres courantes de sécurité dans des conditions aménagées (participer au ressalage d’un bateau, mise à la cape ... )."
+- id: level_4_section_3_subsection_1_item_1_title
+  translation: "Connaître la dynamique des marées, ou les éventuels mouvements d’eau en plans d’eau intérieurs."
+- id: level_4_section_3_subsection_1_item_2_title
+  translation: "Evaluer la force du vent et l’état de la mer."
+- id: level_5_section_1_subsection_1_item_1_title
+  translation: "Maintenir l’équilibre du support en utilisant la voile (au près)."
+- id: level_5_section_1_subsection_1_item_2_title
+  translation: "Virer de bord et empanner en contrôlant l’équilibre."
+- id: level_5_section_1_subsection_2_item_1_title
+  translation: "Se représenter les trajectoires à suivre et les allures à prendre pour rejoindre un point donné du plan d’eau."
+- id: level_5_section_2_subsection_1_item_1_title
+  translation: "Participer au choix d’un programme ou d’une zone de navigation."
+- id: level_5_section_2_subsection_1_item_2_title
+  translation: "Surveiller l’état du bateau ou de la planche."
+- id: level_5_section_3_subsection_1_item_1_title
+  translation: "Connaître les principales règles de route pour éviter les abordages."
+- id: level_5_section_3_subsection_1_item_2_title
+  translation: "Respecter les autres usagers de l’espace de navigation."
+- id: level_5_section_3_subsection_2_item_1_title
+  translation: "Connaître les espèces naturelles protégées du site de pratique."
+- id: level_6_section_1_subsection_1_item_1_title
+  translation: "Maintenir l’équilibre du support en utilisant la barre (au portant)."
+- id: level_6_section_1_subsection_2_item_1_title
+  translation: "Identifier son allure de navigation."
+- id: level_6_section_1_subsection_3_item_1_title
+  translation: "Connaître et effectuer les tâches de chaque poste lors des manœuvres."
+- id: level_6_section_1_subsection_4_item_1_title
+  translation: "Adapter la surface (changement de voiles, prise de ris) et régler le volume des voiles en statique (hale bas, cuningham, bordure, lattes)."
+- id: level_6_section_2_subsection_1_item_1_title
+  translation: "Evaluer les exigences d’une situation de navigation."
+- id: level_6_section_2_subsection_1_item_2_title
+  translation: "Maîtriser les manoeuvres courantes de sécurité (homme à la mer, départs et arrivées dans des conditions difficiles, arrêt rapide, marche arrière...)."
+- id: level_6_section_3_subsection_1_item_1_title
+  translation: "Connaître les fondamenteaux du matelotage en vue d’assurer les réparations de fortune."
+- id: level_6_section_3_subsection_1_item_2_title
+  translation: "Connaître les principaux règlements liés aux sites"
+- id: level_6_section_3_subsection_1_item_3_title
+  translation: "Repérer la présence et l’orientation du courant."
+- id: level_7_section_1_subsection_1_item_1_title
+  translation: "Se déplacer pour conserver l’assiette du support en longitudinal et en latéral."
+- id: level_7_section_1_subsection_1_item_2_title
+  translation: "Adapter les réglages en fonction de l’allure et des conditions de vent et de mer pour faciliter le pilotage."
+- id: level_7_section_1_subsection_2_item_1_title
+  translation: "Virer de bord et empanner en maîtrisant l’angle de sortie (près, largue, vent arrière)."
+- id: level_7_section_1_subsection_2_item_2_title
+  translation: "Rejoindre un point du plan d’eau sans augmenter inutilement la route (notion de cadre)."
+- id: level_7_section_1_subsection_3_item_1_title
+  translation: "Occuper chaque poste lors des manoeuvres, en coordination avec le reste de l’équipage."
+- id: level_7_section_1_subsection_4_item_1_title
+  translation: "Coordonner les actions barre et écoute pour équilibrer le bateau sans changer d’allure."
+- id: level_7_section_2_subsection_1_item_1_title
+  translation: "Connaître les procédures d’alerte et de signalement."
+- id: level_7_section_2_subsection_1_item_2_title
+  translation: "Choisir, dans le matériel disponible, celui adapté à son niveau et aux conditions."
+- id: level_7_section_2_subsection_1_item_3_title
+  translation: "Maîtriser le ressalage par vent fort."
+- id: level_7_section_2_subsection_1_item_4_title
+  translation: "Dégréer sur l’eau, rentrer sous voilure réduite ou à la rame/bras."
+- id: level_7_section_3_subsection_1_item_1_title
+  translation: "Connaître les règles d’accès et de préservation des sites naturels."
+- id: level_7_section_3_subsection_2_item_1_title
+  translation: "Choisir une zone de navigation en fonction des dangers et des"
+- id: level_7_section_3_subsection_2_item_1_title
+  translation: "Choisir une zone de navigation en fonction des dangers et des informations météo disponibles permettant un retour facile y compris en cas de détérioration des conditions."
+- id: level_7_section_3_subsection_2_item_2_title
+  translation: "Savoir se situer sur le plan d’eau."
+- id: level_7_section_3_subsection_2_item_3_title
+  translation: "Participer aux tâches collectives."
+- id: level_8_section_1_subsection_1_item_1_title
+  translation: "Coordonner les actions de barre-écoute déplacement pour optimiser la vitesse"
+- id: level_8_section_1_subsection_1_item_2_title
+  translation: "Adapter constamment les réglages et la conduite en fonction de"
+- id: level_8_section_1_subsection_2_item_1_title
+  translation: "l’allure et des variations de vent et de mer, pour optimiser la vitesse."
+- id: level_8_section_1_subsection_2_item_1_title
+  translation: "Coordonner les actions de barre-écoute-déplacement, pour optimiser le gain au vent ou le gain sous le vent."
+- id: level_8_section_1_subsection_3_item_1_title
+  translation: "Choisir la trajectoire rapprochant de l’objectif (adonnantes/refusantes)."
+- id: level_8_section_1_subsection_3_item_2_title
+  translation: "Repérer les zones de vent et courant potentiellement plus ou moins forts."
+- id: level_8_section_2_subsection_1_item_1_title
+  translation: "Remorquer une embarcation (à la voile ou au moteur)."
+- id: level_8_section_2_subsection_1_item_2_title
+  translation: "Mettre en relation le paysage rencontré avec la carte marine."
+- id: level_8_section_2_subsection_1_item_3_title
+  translation: "Définir et critiquer sa route, entretenir une estime."
+- id: level_8_section_2_subsection_1_item_4_title
+  translation: "Maintenir l’état du bateau ou de la planche."
+- id: level_8_section_3_subsection_1_item_1_title
+  translation: "Veiller au respect des règles de préservation des espèces naturelles."
+- id: level_8_section_3_subsection_1_item_2_title
+  translation: "Connaître les métiers liés au milieu."
+- id: level_8_section_3_subsection_1_item_3_title
+  translation: "Connaître les principaux éléments du patrimoine maritime, lacustre ou fluvial du site."
+- id: level_8_section_3_subsection_2_item_1_title
+  translation: "Présenter les informations météo utiles à la définition du programme de navigation."
+- id: level_8_section_3_subsection_2_item_2_title
+  translation: "Reconnaître les principaux phénomènes susceptibles de faire varier les conditions de vent dans un délai de trois heures"
+- id: level_8_section_3_subsection_2_item_3_title
+  translation: "Naviguer en groupe de pratiquants solidaires."
+- id: level_8_section_3_subsection_2_item_4_title
+  translation: "Organiser les tâches collectives."

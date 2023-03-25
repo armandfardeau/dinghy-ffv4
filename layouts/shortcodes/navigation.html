@@ -1,0 +1,23 @@
+<div class="navigation">
+    {{ if (.Get "previous")}}
+    {{ with .Site.GetPage (.Get "previous") }}
+    <a class="book-btn" href="{{ .RelPermalink }}">
+        <span>{{ .Title }}</span>
+    </a>
+    {{ end }}
+    {{ end }}
+    {{ if (.Get "parent")}}
+    {{ with .Site.GetPage (.Get "parent") }}
+    <a class="book-btn" href="{{ .RelPermalink }}">
+        <span>{{ .Title }}</span>
+    </a>
+    {{ end }}
+    {{ end }}
+    {{ if (.Get "next")}}
+    {{ with .Site.GetPage (.Get "next") }}
+    <a class="book-btn" href="{{ .RelPermalink }}">
+        <span>{{ .Title }}</span>
+    </a>
+    {{ end }}
+    {{ end }}
+</div>

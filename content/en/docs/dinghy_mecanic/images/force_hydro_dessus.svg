@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>force hydro dessus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="135.113208" y="286.972575" width="8.77358491" height="82.4936455" rx="4.38679245"></rect>
+    </defs>
+    <g id="derive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="force-hydro-dessus">
+            <g id="Group-2" transform="translate(163.000000, 228.000000)">
+                <g id="Group" transform="translate(337.988477, 418.019539) rotate(48.000000) translate(-337.988477, -418.019539) translate(198.146293, 89.675351)">
+                    <g id="laser">
+                        <g>
+                            <path d="M139.445752,0.62031774 C139.573808,0.413541245 139.701952,0.206768665 139.830184,0 L139.830184,1.24145593 C197.835588,95.03838 237.66112,189.640828 259.306781,285.048861 C281.047947,380.877857 284.687825,504.528237 270.226415,656 L139.061321,656 L8.66508977,656 C-5.79632042,504.528237 -2.15644226,380.877857 19.5847243,285.048861 C41.2303848,189.640828 81.0559169,95.03838 139.06132,1.24151679 L139.061321,0 C139.189553,0.206768665 139.317697,0.413541245 139.445752,0.62031774 Z" id="Combined-Shape" stroke="#979797" fill="#D8D8D8"></path>
+                            <g id="Rectangle">
+                                <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#979797" stroke-width="1" x="135.613208" y="287.472575" width="7.77358491" height="81.4936455" rx="3.88679245"></rect>
+                            </g>
+                            <path d="M139.210654,245.303344 L141.331975,247.424665 L137.089334,247.424665 L139.210654,245.303344 Z M220.474351,169.014561 L219.231944,169.014726 L221.352865,168.136047 L220.474351,169.014561 Z M57.9685779,169.036181 L57.089733,168.157336 L59.2114524,169.036016 L57.9685779,169.036181 Z M139.210654,241.792976 L141.331975,243.914297 L137.089334,243.914297 L139.210654,241.792976 Z" id="Combined-Shape" stroke="#C5C5C5" stroke-width="6"></path>
+                            <ellipse id="Oval" stroke="#979797" fill="#AEAEAE" cx="139.71934" cy="249.016722" rx="12.5023585" ry="12.5056856"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <path d="M342.810621,415.827655 L71.0170341,312.370741" id="Line-2" stroke="#001DAF" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-2-decoration-1" d="M71.0170341,312.370741 L80.0432991,319.016533 L82.1777666,313.409033 L71.0170341,312.370741 Z" stroke="#001DAF" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M344.375887,414.897532 L158.770958,229.292603" id="Line-3" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-3-decoration-1" d="M158.770958,229.292603 L164.286391,239.050676 L168.529032,234.808036 L158.770958,229.292603 Z" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M605.836673,179.980962 L744.705544,41.1120911" id="Line-2-Copy" stroke="#000000" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-2-Copy-decoration-1" d="M744.705544,41.1120911 L734.947471,46.627524 L739.190111,50.8701647 L744.705544,41.1120911 Z" stroke="#000000" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M336.898237,417.581162 L264.916846,489.562553" id="Line" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M264.916846,489.562553 L274.67492,484.04712 L270.432279,479.80448 L264.916846,489.562553 Z" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+                <text id="Trainée" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#F80000">
+                    <tspan x="299.849699" y="542.066132">Trainée</tspan>
+                </text>
+                <text id="Antidérive" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" fill="#008500">
+                    <tspan x="199.8998" y="231.003507">Antidérive</tspan>
+                </text>
+                <text id="Force-hydro" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#001DAF">
+                    <tspan x="0" y="356.468938">Force </tspan>
+                    <tspan x="0" y="380.468938">hydro</tspan>
+                </text>
+                <text id="Route" transform="translate(667.209419, 73.017034) rotate(-46.000000) translate(-667.209419, -73.017034) " font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="578.657315" y="80.0170341">Route</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

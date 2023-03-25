@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="134.144654" y="284.347826" width="8.71069182" height="81.7391304" rx="4.35534591"></rect>
+    </defs>
+    <g id="allure-près" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2">
+            <g id="Group-2-Copy" transform="translate(162.000000, 50.000000)">
+                <g id="Group" transform="translate(356.437969, 847.188541) rotate(68.000000) translate(-356.437969, -847.188541) translate(216.844061, 520.538794)">
+                    <g id="laser">
+                        <g>
+                            <path d="M138.446141,0.614644103 C138.573279,0.409758855 138.700504,0.204877488 138.827817,0 L138.827817,1.23010115 C196.417412,94.1691265 235.957456,187.906308 257.447951,282.441707 C279.033266,377.394218 282.647052,499.913649 268.289308,650 L138.064465,650 L8.60297443,650 C-5.75476974,499.913649 -2.14098389,377.394218 19.444332,282.441707 C40.9348265,187.906308 80.4748709,94.1691265 138.064465,1.23016145 L138.064465,0 C138.191778,0.204877488 138.319004,0.409758855 138.446141,0.614644103 Z" id="Combined-Shape" stroke="#979797" fill="#D8D8D8"></path>
+                            <g id="Rectangle">
+                                <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#979797" stroke-width="1" x="134.644654" y="284.847826" width="7.71069182" height="80.7391304" rx="3.85534591"></rect>
+                            </g>
+                            <path d="M138.295337,243.103498 L140.416657,245.224818 L136.174016,245.224818 L138.295337,243.103498 Z M218.829361,167.576493 L217.585202,167.575418 L219.709115,166.69674 L218.829361,167.576493 Z M57.6220236,167.437205 L56.7444174,166.559599 L58.8631456,167.438277 L57.6220236,167.437205 Z M138.295337,239.625237 L140.416657,241.746557 L136.174016,241.746557 L138.295337,239.625237 Z" id="Combined-Shape" stroke="#C5C5C5" stroke-width="6"></path>
+                            <ellipse id="Oval" stroke="#979797" fill="#AEAEAE" cx="138.717767" cy="246.73913" rx="12.4127358" ry="12.3913043"></ellipse>
+                        </g>
+                    </g>
+                    <g id="près" transform="translate(141.324796, 248.731640)" stroke="#616060" stroke-linecap="round" stroke-width="17">
+                        <path d="M0.43286347,0.552548522 C51.1081054,48.9261537 86.2235697,102.051127 105.779257,159.927468 C125.334943,217.803808 135.659417,299.161319 136.752678,404" id="sail"></path>
+                    </g>
+                </g>
+                <path d="M771.061829,598.804471 L460.598874,779.590025" id="Line-3" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-3-decoration-1" d="M460.598874,779.590025 L471.441474,776.74784 L468.422209,771.562858 L460.598874,779.590025 Z" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M771.824637,0.313095078 L771.824637,582.785498" id="Line-2" stroke="#001DAF" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-2-decoration-1" d="M771.824637,582.785498 L774.824637,571.985498 L768.824637,571.985498 L771.824637,582.785498 Z" stroke="#001DAF" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M771.824637,0 L449.919558,774.250368" id="Line" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M449.919558,774.250368 L456.835847,765.429656 L451.295611,763.126228 L449.919558,774.250368 Z" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+                <text id="vv-copy" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#008500">
+                    <tspan x="610.025381" y="777.390863">vv</tspan>
+                </text>
+                <text id="vs-copy" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#001DAF">
+                    <tspan x="799.873096" y="390.715736">vs</tspan>
+                </text>
+                <text id="va-copy" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#F80000">
+                    <tspan x="489.974619" y="424.218274">va</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
