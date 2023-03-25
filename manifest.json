@@ -1,0 +1,15 @@
+{
+  "name": "Dinghy - FFV4",
+  "short_name": "Dinghy - FFV4",
+  "start_url": "/dinghy-ffv4/",
+  "scope": "/dinghy-ffv4/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/dinghy-ffv4/favicon.svg",
+      "sizes": "150x150"
+    }
+  ]
+}

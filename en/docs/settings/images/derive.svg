@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="537px" height="475px" viewBox="0 0 537 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="135.116146 80 168 80 168 88 132 88"></polygon>
+        <polygon id="path-2" points="120.243153 114 155 114 155 122 117 122"></polygon>
+        <polygon id="path-3" points="106.146035 147 138 147 138 155 103 155"></polygon>
+    </defs>
+    <g id="dérive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group" transform="translate(104.000000, 23.000000)">
+                <path d="M140.743769,66.0593041 L329,49 L172.638713,401.423802 C166.408483,414.378297 138.112336,419.405695 112.305807,420.915206 C95.1014547,421.921547 57.6661857,413.970408 0,397.06179 L140.743769,66.0593041 Z" id="Rectangle" fill="#D8D8D8"></path>
+                <text id="Poignée" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="191" y="19">Poignée</tspan>
+                </text>
+                <text id="Près" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="59" y="89">Près</tspan>
+                </text>
+                <text id="Travers" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="28" y="123">Travers</tspan>
+                </text>
+                <text id="Portant" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="7" y="156">Portant</tspan>
+                </text>
+                <path d="M175,72 C185.738068,51.7333005 199.983271,41.0926704 217.73561,40.0781098 C235.487949,39.0635493 252.242745,47.9325041 268,66.6849744" id="Path-2" stroke="#AEAEAE" stroke-width="5"></path>
+                <circle id="Oval" stroke="#AEAEAE" fill="#AEAEAE" cx="269" cy="68" r="6"></circle>
+                <circle id="Oval-Copy" stroke="#AEAEAE" fill="#AEAEAE" cx="174" cy="73" r="6"></circle>
+                <g id="Rectangle-2">
+                    <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#F80000" stroke-width="1" d="M135.457979,80.5 L132.731351,87.5 L167.5,87.5 L167.5,80.5 L135.457979,80.5 Z"></path>
+                </g>
+                <g id="Rectangle-2-Copy">
+                    <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#F80000" stroke-width="1" d="M120.57998,114.5 L117.742221,121.5 L154.5,121.5 L154.5,114.5 L120.57998,114.5 Z"></path>
+                </g>
+                <g id="Rectangle-2-Copy-2">
+                    <use fill="#F80000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#F80000" stroke-width="1" d="M106.486681,147.5 L103.7339,154.5 L137.5,154.5 L137.5,147.5 L106.486681,147.5 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

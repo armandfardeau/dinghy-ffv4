@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>gravite</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="426.343352" y="181.365039" width="21.5163934" height="169.634961"></rect>
+        <rect id="path-2" x="426.343352" y="181.365039" width="21.5163934" height="169.634961"></rect>
+    </defs>
+    <g id="poussée-archimède" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gravite">
+            <g id="laser-2" transform="translate(163.000000, 615.000000)">
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="426.843352" y="181.865039" width="20.5163934" height="168.634961"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" x="426.843352" y="181.865039" width="20.5163934" height="168.634961"></rect>
+                </g>
+                <path d="M0,0 L874.279488,0 C820.086414,150.456713 674.373166,225.685069 437.139744,225.685069 C199.906323,225.685069 54.1930747,150.456713 0,0 Z" id="Path-2" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd"></path>
+            </g>
+            <path d="M1.5,707.5 L1200.50375,707.5" id="Line" stroke="#001DAF" stroke-width="10" stroke-linecap="square" stroke-dasharray="20,20"></path>
+            <path d="M599.118678,689 L599.118678,939" id="Line" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M599.118678,939 L602.118678,928.2 L596.118678,928.2 L599.118678,939 Z" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+            <text id="Poids" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#F80000">
+                <tspan x="640" y="886">Poids</tspan>
+                <tspan x="770.6875" y="886" font-size="20"></tspan>
+            </text>
+            <text id="CG" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#000000">
+                <tspan x="620" y="688">CG</tspan>
+            </text>
+            <circle id="Oval" fill="#000000" cx="599" cy="689" r="10"></circle>
+        </g>
+    </g>
+</svg>

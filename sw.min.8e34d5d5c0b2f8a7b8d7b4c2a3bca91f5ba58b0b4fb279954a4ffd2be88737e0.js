@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/dinghy-ffv4/sw.js",{scope:"/dinghy-ffv4/"});}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>force hydro derriere</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="426.343352" y="181.365039" width="21.5163934" height="169.634961"></rect>
+        <rect id="path-2" x="426.343352" y="181.365039" width="21.5163934" height="169.634961"></rect>
+    </defs>
+    <g id="derive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="force-hydro-derriere">
+            <g id="laser-2" transform="translate(600.500000, 790.500000) rotate(10.000000) translate(-600.500000, -790.500000) translate(163.000000, 615.000000)">
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="426.843352" y="181.865039" width="20.5163934" height="168.634961"></rect>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" x="426.843352" y="181.865039" width="20.5163934" height="168.634961"></rect>
+                </g>
+                <path d="M0,0 L874.279488,0 C820.086414,150.456713 674.373166,225.685069 437.139744,225.685069 C199.906323,225.685069 54.1930747,150.456713 0,0 Z" id="Path-2" stroke="#979797" stroke-width="1" fill="#D8D8D8" fill-rule="evenodd"></path>
+            </g>
+            <path d="M1.5,757.5 L1200.50375,757.5" id="Line" stroke="#001DAF" stroke-width="10" stroke-linecap="square" stroke-dasharray="20,20"></path>
+            <path d="M577,889 L253,830" id="Line-3" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+            <path id="Line-3-decoration-1" d="M253,830 L263.087812,834.886312 L264.162728,828.983385 L253,830 Z" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+            <text id="Antidérive" transform="translate(650.939854, 936.894672) rotate(10.000000) translate(-650.939854, -936.894672) " font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" fill="#008500">
+                <tspan x="313.389754" y="945.394672">Antidérive</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

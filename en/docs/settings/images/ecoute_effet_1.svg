@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="600px" viewBox="0 0 600 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>ecoute_effet_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="84.7484277" y="178.920401" width="5.50314465" height="51.4327759" rx="2.75157233"></rect>
+    </defs>
+    <g id="ecoute" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ecoute_effet_1">
+            <g id="Group" transform="translate(160.000000, 56.000000)">
+                <text id="Effet-1" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="107" y="19">Effet 1</tspan>
+                </text>
+                <g id="laser" transform="translate(0.000000, 79.000000)">
+                    <g>
+                        <path d="M87.4659737,0.386752981 C87.5462953,0.25783288 87.6266723,0.128915219 87.7071047,0 L87.7071047,0.774017494 C124.090423,59.2541119 149.070595,118.236431 162.647622,177.721012 C176.284555,237.468054 178.567632,314.56105 169.496855,409 L87.2248428,409 L5.43509215,409 C-3.63568485,314.56105 -1.35260715,237.468054 12.2843253,177.721012 C25.8613525,118.236431 50.8415249,59.2541119 87.2248426,0.774055435 L87.2248428,0 C87.3052752,0.128915219 87.3856522,0.25783288 87.4659737,0.386752981 Z" id="Combined-Shape" stroke="#D8D8D8" fill="#D8D8D8"></path>
+                        <g id="Rectangle">
+                            <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#979797" stroke-width="1" x="85.2484277" y="179.420401" width="4.50314465" height="50.4327759" rx="2.25157233"></rect>
+                        </g>
+                        <path d="M87.4757399,151.500382 L89.5970602,153.621702 L85.3544195,153.621702 L87.4757399,151.500382 Z M138.612447,106.660327 L137.364752,106.656738 L137.373383,103.65675 L139.494703,105.778071 L138.612447,106.660327 Z M36.0439577,106.365252 L35.1688508,105.490145 L37.2901711,103.368825 L37.2815406,106.368812 L36.0439577,106.365252 Z M87.4757399,149.311753 L89.5970602,151.433073 L85.3544195,151.433073 L87.4757399,149.311753 Z" id="Combined-Shape" stroke="#C5C5C5" stroke-width="6"></path>
+                        <ellipse id="Oval" stroke="#979797" fill="#AEAEAE" cx="87.6375786" cy="155.255853" rx="7.84198113" ry="7.79698997"></ellipse>
+                    </g>
+                </g>
+                <path d="M90,233 C122.593178,243.376609 150.625259,261.800841 174.096243,288.272696 C197.567226,314.744551 233.201812,367.653653 281,447" id="Path" stroke="#F80000" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M36,275 C75.9089488,284.405064 108.477949,297.555614 133.707001,314.451651 C158.936053,331.347688 197.700386,374.863804 250,445" id="Path-Copy" stroke="#F80000" stroke-width="4" stroke-linecap="round" stroke-dasharray="10" transform="translate(143.000000, 360.000000) rotate(30.000000) translate(-143.000000, -360.000000) "></path>
+                <path d="M270.282609,454.717391 L205.717391,486.282609" id="Line" stroke="#F80000" stroke-width="3" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M205.717391,486.282609 L216.737573,484.234292 L214.102312,478.843986 L205.717391,486.282609 Z" stroke="#F80000" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

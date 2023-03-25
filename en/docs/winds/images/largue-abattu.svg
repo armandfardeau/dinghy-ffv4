@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="1200px" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Largue abattu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="123.974843" y="262.912375" width="8.05031447" height="75.5772575" rx="4.02515723"></rect>
+    </defs>
+    <g id="allure-portante" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Largue-abattu">
+            <g id="Group-2" transform="translate(380.000000, 50.000000)">
+                <g id="Group" transform="translate(313.542961, 833.176421) scale(-1, 1) rotate(210.000000) translate(-313.542961, -833.176421) translate(125.542961, 532.176421)">
+                    <g id="laser" transform="translate(120.000000, 0.000000)">
+                        <g>
+                            <path d="M127.950224,0.568309393 C128.067723,0.378869342 128.185303,0.189432877 128.302965,0 L128.302965,1.13737045 C181.526561,87.0702232 218.068985,173.741064 237.930236,261.149947 C257.87912,348.9445 261.218936,462.227851 247.949686,601 L127.597484,601 L7.95076337,601 C-5.31848755,462.227851 -1.97867103,348.9445 17.9702129,261.149947 C37.8314642,173.741064 74.3738879,87.0702232 127.597484,1.1374262 L127.597484,0 C127.715145,0.189432877 127.832725,0.378869342 127.950224,0.568309393 Z" id="Combined-Shape" stroke="#979797" fill="#D8D8D8"></path>
+                            <g id="Rectangle">
+                                <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <rect stroke="#979797" stroke-width="1" x="124.474843" y="263.412375" width="7.05031447" height="74.5772575" rx="3.52515723"></rect>
+                            </g>
+                            <path d="M127.793154,224.439675 L129.914475,226.560996 L125.671834,226.560996 L127.793154,224.439675 Z M202.349292,155.152765 L201.10554,155.151978 L203.228758,154.273299 L202.349292,155.152765 Z M53.142611,155.05836 L52.2647175,154.180466 L54.3841397,155.059145 L53.142611,155.05836 Z M127.793154,221.223622 L129.914475,223.344942 L125.671834,223.344942 L127.793154,221.223622 Z" id="Combined-Shape" stroke="#C5C5C5" stroke-width="6"></path>
+                            <ellipse id="Oval" stroke="#979797" fill="#AEAEAE" cx="128.201258" cy="228.138796" rx="11.4716981" ry="11.4571906"></ellipse>
+                        </g>
+                    </g>
+                    <g id="près" transform="translate(124.263954, 380.972539) scale(-1, 1) rotate(-20.000000) translate(-124.263954, -380.972539) translate(60.720437, 194.094499)" stroke="#616060" stroke-linecap="round" stroke-width="17">
+                        <path d="M0.43286347,0.552548522 C47.3907263,45.3291347 79.9302288,94.5037812 98.051371,148.076488 C116.172513,201.649194 125.739615,276.957032 126.752678,374" id="sail"></path>
+                    </g>
+                </g>
+                <path d="M321.327601,680.051591 L171,416" id="Line-3" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-3-decoration-1" d="M171,416 L173.736211,426.869827 L178.950418,423.901319 L171,416 Z" stroke="#00820E" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M322.273431,0.355695617 L322.273431,662.080825" id="Line-2" stroke="#001DAF" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-2-decoration-1" d="M322.273431,662.080825 L325.273431,651.280825 L319.273431,651.280825 L322.273431,662.080825 Z" stroke="#001DAF" stroke-width="12" stroke-linecap="square"></path>
+                <path d="M322.273431,0 L169,377" id="Line" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M169,377 L175.84664,368.125118 L170.288443,365.865373 L169,377 Z" stroke="#F80000" stroke-width="12" stroke-linecap="square"></path>
+                <text id="va" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#F80000">
+                    <tspan x="169" y="178">va</tspan>
+                </text>
+                <text id="vv" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#008500">
+                    <tspan x="152" y="560">vv</tspan>
+                </text>
+                <text id="vs" font-family="Helvetica-Bold, Helvetica" font-size="48" font-weight="bold" fill="#001DAF">
+                    <tspan x="366" y="344">vs</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

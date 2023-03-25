@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="615px" height="716px" viewBox="0 0 615 716" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>cunningham_no_action</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="331" width="238" height="11"></rect>
+        <polygon id="path-2" points="82.7325778 47.7345869 86.8113363 47.7345869 77 416 72 416"></polygon>
+    </defs>
+    <g id="cunningham" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cunningham_no_action">
+            <g id="Group" transform="translate(146.000000, 130.000000)">
+                <g id="pasborde" transform="translate(76.000000, 47.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#AEAEAE" stroke-width="1" x="0.5" y="331.5" width="237" height="10"></rect>
+                    </g>
+                    <polygon id="Path-3" stroke="#D8D8D8" fill="#D8D8D8" opacity="0.641021286" points="9.45058934 0.97247893 82.9166646 51.2448675 203.510376 329.572745 2.20619992 325.334877"></polygon>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#AEAEAE" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <path stroke="#AEAEAE" stroke-width="1" d="M83.2182183,48.2345869 L72.5147841,415.5 L76.5131436,415.5 L86.2978379,48.2345869 L83.2182183,48.2345869 Z"></path>
+                </g>
+                <path d="M0.295455055,412.526422 C1.26376192,426.105914 3.35821008,434.399295 6.57879952,437.406564 C9.79938896,440.413834 21.9728447,444.269952 43.0991666,448.974921 C87.3973213,452.910646 118.514553,454.942094 136.450862,455.069263 C154.387172,455.196433 216.366467,453.825047 322.388748,450.955105 L322.388748,424.764567 L0.295455055,412.526422 Z" id="Path-2" stroke="#D8D8D8" fill="#D8D8D8"></path>
+                <text id="Cunningham-choqué" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="107" y="19">Cunningham choqué</tspan>
+                </text>
+                <rect id="Rectangle-3" fill-opacity="0.249518795" fill="#F80000" x="108" y="364" width="109" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-3-Copy-4" fill-opacity="0.249518795" fill="#F80000" transform="translate(155.948385, 317.549038) rotate(-30.000000) translate(-155.948385, -317.549038) " x="101.448385" y="316.049038" width="109" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-3-Copy-7" fill-opacity="0.249518795" fill="#F80000" transform="translate(162.932495, 345.941037) rotate(-10.000000) translate(-162.932495, -345.941037) " x="108.432495" y="344.441037" width="109" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-3-Copy-5" fill-opacity="0.249518795" fill="#F80000" transform="translate(134.500000, 288.022694) rotate(-50.000000) translate(-134.500000, -288.022694) " x="80" y="286.522694" width="109" height="3" rx="1.5"></rect>
+                <rect id="Rectangle-3-Copy-6" fill-opacity="0.249518795" fill="#F80000" transform="translate(108.500000, 260.500000) rotate(-70.000000) translate(-108.500000, -260.500000) " x="54" y="259" width="109" height="3" rx="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
