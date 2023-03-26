@@ -7,7 +7,7 @@ title: "Weather forecast"
 
 ## The variables
 
-In meteorology, three variables are used: **pressure**, humidity** and temperature**. Air is a very bad thermal conductor and mixes badly. We speak of an air mass; a volume of air where the temperature and humidity are uniform.
+In meteorology, three variables are used: **pressure**, **humidity** and **temperature**. Air is a very bad thermal conductor and mixes badly. We speak of an air mass; a volume of air where the temperature and humidity are uniform.
 
 ## Pressure
 

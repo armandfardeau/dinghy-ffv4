@@ -75,38 +75,38 @@ When downwind, the boomvang plays a specific role since it allows the boom to be
 ## Le cunningham
 
 {{< hint info >}}
-{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="cunningham_details" >}}
-On reprend le cunningham pour effacer les plis horizontaux sur la voile.
+{{< details_extended class="collabsible" title="Explained to a beginner trainee..." id="cunningham_details" >}}
+We take the cunningham to erase the horizontal folds on the sail.
 {{< /details_extended >}}
 {{< /hint >}}
 
-Il exerce une tension verticale sur le guindant de la voile.
+It exerts a vertical tension on the luff of the sail.
 
-Son premier intérêt est donc de pouvoir corriger tension du guindant plus faible par rapport à la chute. Un bon repère est la présence caractéristique de plis en patte d'oie dans la voile.
-Afin de remédier à ces plis imperformants, il convient de reprendre le cunningham jusqu'à les effacer.
+Its first interest is therefore to be able to correct the lower luff tension in relation to the leech. A good indicator is the characteristic presence of crow's feet folds in the sail.
+In order to remedy these imperfect folds, the cunningham should be reworked until they are eliminated.
 
 {{< columns >}}
-{{< figure caption="Pas d'action sur le cunningham" src="../images/cunningham_no_action.svg" >}}
+{{< figure caption="No action on the cunningham" src="../images/cunningham_no_action.svg" >}}
 <--->
-{{< figure caption="Action sur le cunningham" src="../images/cunningham_action.svg" >}}
+{{< figure caption="Action on the cunningham" src="../images/cunningham_action.svg" >}}
 {{< /columns >}}
 
-Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles sont :
+But this is not the only interest of the cunningham. Its essential functions are :
 
-* Cintrer le mât en complément du hale-bas ou de l'écoute:
-  * Lorsque le mât est cintré, la tension verticale due au réglage du cunningham est légèrement déportée vers l'arrière du mât.
-  * Cette tension, par "effet d'arc", amplifie donc le cintre du mât et soulage sensiblement celle due au hale-bas et/ou à l'écoute
+* To bend the mast in addition to the vang or the sheet:
+  * When the mast is bent, the vertical tension due to the adjustment of the cunningham is slightly shifted towards the back of the mast.
+  * This tension, by "bow effect", amplifies the mast bend and relieves the tension due to the downhaul or the sheet.
 
-* Avancer le creux de la voile:
-  * Lorsque le vent forcit, le creux a tendance à se déplacer vers l'arrière, le cunningham permet, en ramenant du tissu vers l'avant, de recentrer le creux.
+* Move the sail's hollow forward:
+  * When the wind strengthens, the hollow tends to move backwards, the cunningham allows, by bringing fabric forward, to recenter the hollow.
 
-* Détendre la chute par une surtension du guindant:
-  * Cela permet à la partie supérieure de la voile de "s'effacer" dans la risée, diminuant ainsi la force aérodynamique. Ce vrillage constitue dans une certaine mesure une autorégulation des surventes par le gréement.
+* Relax the leech by over-tensioning the luff:
+  * This allows the upper part of the sail to "fade" into the wind, thus reducing the aerodynamic force. This twist is to some extent a self-regulation of the oversails by the rig.
 
 ## La bordure
 
 {{< hint info >}}
-{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="bordure_details" >}}
+{{< details_extended class="collabsible" title="Explained to a beginner trainee..." id="bordure_details" >}}
 La bordure permet de doser la puissance.
 
 On la choque jusqu'à 20 cm de creux dans la voile et on la reprend dès que l'on peine à maintenir le bateau à plat.
@@ -122,84 +122,83 @@ Cette limite peut s'objectiver en mesurant la distance maximale séparant la bô
 ## La patte d'oie
 
 {{< hint info >}}
-{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="patte-oie_details" >}}
-On reprend la patte d'oie jusqu'au contact de la barre.
+{{< details_extended class="collabsible" title="Explained to a beginner trainee..." id="patte-oie_details" >}}
+One takes again the crow's foot until the contact of the bar.
 {{< /details_extended >}}
 {{< /hint >}}
 
-En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
+In association with the vang, it compensates for the absence of a clew carriage by keeping the boom off-center upwind.
 
-Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement étarquée. A défaut, la bôme s'élève et rentre vers le centre du bateau ; ainsi lorsque le réglage de patte d'oie est détendu, la poulie guidée par celui-ci se trouve rehaussée. La tension verticale qu'exerce l'écoute, en rapprochant cette poulie à celle fixée sur l'extrémité arrière de la bôme est alors diminuée.
-Toutefois, un excès de tension diminue la sensibilité de la barre et gêne le passage de la poulie lors du virement de bord, en particulier dans le petit temps. Aussi, il y a intérêt à détendre légèrement la patte d'oie si ces symptômes apparaissent et perturbent la conduite du bateau. L'utilisation d'un bout en kevlar permet d'obtenir le même effet (bôme excentrée et basse) avec un étarquage moindre.
+To perform this role effectively, it is important that the bridle is strongly tensioned. Otherwise, the boom will rise and retract towards the center of the boat, so when the bridle adjustment is slackened, the block guided by it will be raised. The vertical tension exerted by the outhaul, by bringing this block closer to the one attached to the rear end of the boom, is then reduced.
+However, too much tension reduces the sensitivity of the tiller and hinders the passage of the block when tacking, especially in light airs. Therefore, it is a good idea to slightly relax the bridle if these symptoms appear and disturb the boat's handling. The use of a Kevlar rope allows to obtain the same effect (off-center and low boom) with a lower tension.
 
 {{< columns >}}
-{{< figure caption="Patte d'oie relachée" src="../images/patte_oie_relachee.svg" >}}
+{{< figure caption="Loose crow's feet" src="../images/patte_oie_relachee.svg" >}}
 <--->
-{{< figure caption="Patte d'oie reprise" src="../images/patte_oie_reprise.svg" >}}
+{{< figure caption="Crow's feet tighten" src="../images/patte_oie_reprise.svg" >}}
 {{< /columns >}}
 
-Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passage de la poulie, on la choque légèrement jusqu'à disparition du problème.
+To adjust the crow's foot, it is tightened to the maximum and if it hinders the passage of the pulley, it is slightly eased until the problem disappears.
 
 ## La dérive
 
 {{< hint info >}}
-{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="derive_details" >}}
-La dérive permet au voilier d'avancer le plus droit possible en générant une force opposé à la force du vent.
+{{< details_extended class="collabsible" title="Explained to a beginner trainee..." id="derive_details" >}}
+The daggerboard allows the sailboat to move forward as straight as possible by generating a force opposite to the force of the wind.
 
-* Pour régler au près:
+ For upwind steering:
 
-On la descend au maximum.
+It is lowered to the maximum.
 
-* Pour régler au travers:
+ To trim on the beam:
 
-On la relève de 10 cm.
+It is raised 10 cm.
 
-* Pour régler au portant:
+ To adjust downwind:
 
-On la relève de 20 cm.
+It is raised 20 cm.
 {{< /details_extended >}}
 {{< /hint >}}
 
-{{< figure caption="Réglage de la dérive" src="../images/derive.svg" >}}
+{{< figure caption="Daggerboard adjustement" src="../images/derive.svg" >}}
 
-Le laser présente une carène relativement plate et des appendices de faibles surfaces.
-Son plan antidérive est donc peu important en rapport avec sa longueur.
+The laser has a relatively flat hull and small appendages.
+Its anti-drift plane is therefore not very important in relation to its length.
 
-* Il est utile de placer un adhésif pour mémoriser la hauteur de la dérive.
-* Il est très utile de placer sur la dérive une poignée permettant de la relever facilement d'une main.
+* It is useful to place an adhesive tape to memorize the height of the daggerboard.
+* It is very useful to place a handle on the daggerboard allowing it to be raised easily with one hand.
 
-Les deux défauts les plus couramment observés chez les stagiaires:
+The two most common defects observed in trainees:
 
-* Relever trop de dérive aux allures portantes, lors de l'empannage, la bôme vient en butée sur la partie supérieure et, s'il y a du vent c'est le désalage.
-
-* Ne pas enfoncer la dérive à fond! Il faut utiliser toute la surface antidérive possible, ne vous privez pas de 2 centimètres salutaires.
+* Raising the daggerboard too much on downwind points of sail, when gybing, the boom comes to rest on the upper part and, if there is a wind, it is the desalination.
+* Not lowering the daggerboard all the way in! You must use all the anti-drift surface possible, don't deprive yourself of 2 centimeters.
 
 ## La sangle de rappel
 
 {{< hint info >}}
-{{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="sangle_de_rappel_details" >}}
-On la tend au maximum pour bénéficier du réglage le plus polyvalent.
+{{< details_extended class="collabsible" title="Explained to a beginner trainee..." id="sangle_de_rappel_details" >}}
+It is tighten up to the maximum to get the most versatile setting.
 {{< /details_extended >}}
 {{< /hint >}}
 
-De nombreux laseristes optent pour une sangle de rappel réglable. Ce réglage est très important car il permet de moduler le compromis confort/couple de rappel nécessaire en fonction de l'allure et des conditions de vent et de mer rencontrés.
+Many laserists opt for an adjustable abseiling strap. This adjustment is very important because it allows you to modulate the necessary comfort-torque compromise according to the speed and the wind and sea conditions encountered.
 
-Nous présentons le montage le plus courant:
+We present the most common setup:
 {{< columns >}}
-{{< figure caption="Réglage de la sangle de rappel" src="../images/sangle.jpg" >}}
+{{< figure caption="Adjustment of the abseiling strap" src="../images/sangle.jpg" >}}
 <--->
-{{< figure caption="Réglage de la sangle de rappel serré" src="../images/sangle_serre.jpg" >}}
+{{< figure caption="Adjustment of the tighten abseiling strap" src="../images/sangle_serre.jpg" >}}
 {{< /columns >}}
 
-Plus la sangle est serrée, moins le rappel est important, mais plus le retour dans le bateau est aisé.
+The tighter the strap, the lower the recall, but the easier the return to the boat.
 
-{{< figure caption="Position rappel" src="../images/position_sangle_rappel.svg" >}}
+{{< figure caption="Recall position" src="../images/position_sangle_rappel.svg" >}}
 
-Un repère de réglage utilisable est l'éloignement plus ou moins grand du liston par rapport à l'articulation du genou.
+A useful adjustment marker is the distance of the scroll from the knee joint.
 
-Par vent rafaleux, il peut être utile de bien tendre la sangle de rappel afin de gagner en polyvalence: il sera plus aisé de sortir et rentrer au rappel
+In gusty winds, it can be useful to tighten the abseiling strap in order to gain versatility: it will be easier to abseil out and in
 
-## Synthèse en vidéo
+## Video synthesis
 
 {{< youtubestart wprWARXm8QM 0 >}}
 

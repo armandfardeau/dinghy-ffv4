@@ -20,7 +20,7 @@ Going astern in a laser is relatively simple, just push the boom against the win
 
 ## Beach start
 
-**A beach start is always optional.
+{{< hint danger >}}A beach start is always optional.{{< /hint >}}
 
 In certain sea conditions, it is important to minimize arrivals and therefore not return because of an oversight. So, before leaving, check the condition of the boat and its crew/rider:
 
@@ -66,7 +66,7 @@ Be careful, the wind will often become almost zero near the beach.
 ### Wind parallel to the beach
 Arrive at a slow speed and luff gradually to reach the beach as close to the wind as possible.
 
-### Si les vagues sont grosses
-En cas deshore-break important (supérieur à 70cm env.), arriver dans la direction des vagues, choquer en grand et retirer la dérive (s'assurer qu'elle est bien accrochée). Jetez vous à l'eau et laissez vous dériver sur les mêtres restants. L'enjeu de la manoeuvre est de doser le timing, ni trop tard, ni trop tard.
+### If the waves are big
+In case of a big shore-break (more than 70cm), go in the direction of the waves, shock the daggerboard and remove it (make sure it is well attached). Throw yourself into the water and let yourself drift for the remaining meters. The challenge of the maneuver is to control the timing, neither too late nor too late.
 
 {{< navigation parent="/" next="/docs/chronologies/tacking_and_gybing" >}}

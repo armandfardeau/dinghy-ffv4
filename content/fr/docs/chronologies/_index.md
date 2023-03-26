@@ -20,7 +20,7 @@ La marche arrière en laser est relativement simple, il suffit de pousser la bô
 
 ## Départ de plage
 
-**Un départ est toujours optionnel.**
+{{< hint danger >}}Un départ est toujours optionnel.{{< /hint >}}
 
 Par certaines conditions de mer, il faut minimiser les arrivées et donc ne pas rentrer à cause d’un oubli. Ainsi, avant de partir, vérifier l’état du bateau et de son équipier/barreur :
 

@@ -1,9 +1,9 @@
 ---
-title: "oloffee to the buoy"
+title: "Oloffee at the buoy"
 weight: 3
 ---
 
-# L'oloffée à la bouée
+# Oloffee at the buoy
 
 ## Chronology
 {{< columns >}}

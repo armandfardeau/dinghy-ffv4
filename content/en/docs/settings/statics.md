@@ -1,19 +1,19 @@
 ---
-title: "Les réglages statiques"
+title: "Statics settings"
 weight: 2
 ---
-# Les réglages statiques
-Sur le laser, seul le choix de la voile (Standard, Radial ou 4.7) est un réglage statique, tout le reste est un réglage dynamique.
+# Statics settings
+On the laser, only the choice of sail (Standard, Radial or 4.7) is a static setting, everything else is a dynamic setting.
 
 {{< hint more >}}
-{{< details_extended class="collabsible" title="Pour en savoir plus..." id="static_settings_details" >}}
-Vous trouverez plus d'informations sur "Comment gréer un laser" en annexe.
+{{< details_extended class="collabsible" title="More informations..." id="static_settings_details" >}}
+You will find more information on "How to rig a laser" in the appendix.
 
-{{< button relref="/docs/annexes/laser_rigging" >}}Comment gréer un laser{{< /button >}}
+{{< button relref="/docs/annexes/laser_rigging" >}}How to rig a laser dinghy{{< /button >}}
 {{< /details_extended >}}
 {{< /hint >}}
 
-{{< figure src="../images/laser-47-standard-radial.jpg" caption="Différence entre les différentes voiles laser" >}}
+{{< figure src="../images/laser-47-standard-radial.jpg" caption="Difference between the different laser sails" >}}
 
 {{< columns >}}
 {{< figure src="../images/laser-47.jpeg" caption="Laser 4.7" >}}
@@ -23,6 +23,6 @@ Vous trouverez plus d'informations sur "Comment gréer un laser" en annexe.
 {{< figure src="../images/laser-standard.jpeg" caption="Laser standard" >}}
 {{< /columns >}}
 
-Sur d'autres supports de dériveur, il est possible de **prendre un ris** ("ariser la voile"). This consists of reducing the surface area of a sail by folding it in part: the objective is to adapt the sail surface to the wind force when it strengthens and to lower the center of velic thrust. A sailboat that carries the canvas of time is more maneuverable, safer and often faster than a sailboat that carries too much.
+On other dinghy supports, it is possible to **reef the sail**. This consists of reducing the surface area of a sail by folding it in part: the objective is to adapt the sail surface to the wind force when it strengthens and to lower the center of velic thrust. A sailboat that carries the canvas of time is more maneuverable, safer and often faster than a sailboat that carries too much.
 
 {{< navigation parent="/docs/settings" next="/docs/settings/dynamics" >}}

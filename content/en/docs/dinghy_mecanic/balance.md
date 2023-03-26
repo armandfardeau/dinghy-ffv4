@@ -112,4 +112,4 @@ If in light weather, it is better to have a little heel, it is to help the sails
 |     Move weight forward      | longitudinal balance |      Move weight backward      |
 |      Increase boat list      |   lateral balance    |   Increase boat counter-list   |
 
-{{< navigation previous="docsdinghy_mecanicstrengths" parent="docsdinghy_mecanic" next="docsdinghy_mecanicdirect-indirect-links" >}}
+{{< navigation previous="/docs/dinghy_mecanic/strengths" parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/direct-indirect-links" >}}

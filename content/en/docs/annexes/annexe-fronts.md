@@ -73,8 +73,8 @@ Main clouds :
 There are several types of cold fronts.
 A cold front is a boundary between two air masses, the cold air being located behind the boundary in the direction of movement, engages under a mass of warm air by pushing it. This front marks a zone of spatial variation on the earth's surface ra
 
-### Front froid stable
-Principaux nuages :
+### Stable cold front
+Main clouds:
 
 - Cirrus
 - Cirrostratus
@@ -83,10 +83,10 @@ Principaux nuages :
 - Nimbostratus
 - Stratocumulus
 
-{{< figure caption="Front froid stable" src="../images/FrontFroidStable.png" >}}
+{{< figure caption="Stable cold front" src="../images/FrontFroidStable.png" >}}
 
-### Front froid instable
-Principaux nuages :
+### Unstable cold front
+Main clouds:
 
 - Cirrus
 - Cirrostratus
@@ -94,38 +94,38 @@ Principaux nuages :
 - Altostratus
 - Cumulonimbus
 
-{{< figure caption="Front froid instable" src="../images/FrontFroidInsSta.png" >}}
+{{< figure caption="Unstable cold front" src="../images/FrontFroidInsSta.png" >}}
 
-### Front froid anabatique ou anafront
-L'air froid va repousser très activement l'air chaud antérieur et le soulever sur une grande profondeur le long de la pente frontale qui est inclinée fortement. Les précipitations se produisent alors essentiellement en arrière de la trace au sol du front froid. Le courant jet d'altitude est sensiblement parallèle à la pente frontale et à une certaine distance à l'arrière de celui-ci en altitude et constitue la limite arrière du mouvement vertical.
+## Anabatic cold front or anafront
+The cold air will very actively push back the preceding warm air and lift it to a great depth along the frontal slope, which is strongly inclined. Precipitation then occurs mainly behind the ground track of the cold front. The upper jet stream is roughly parallel to the frontal slope and some distance back from it aloft and is the rearward limit of vertical motion.
 {{< figure caption="Front anafront" src="../images/FrontAnafront.png" >}}
 
-### Front froid catabatique ou catafront
-Au contraire, dans un catafront froid, une intrusion d'air sec en altitude vient couper les ascendances dans l'air chaud, ce qui provoque la dissolution des nuages a ces niveaux. Dans ce cas, l'essentiel des nuages et des précipitations apparaît à l'avant de la trace frontale au sol. Le courant jet d'altitude sera plutôt perpendiculaire à la pente frontale.
+## Catabatic cold front or catafront
+On the contrary, in a cold catafront, an intrusion of dry air in altitude comes to cut the ascents in the warm air, which causes the dissolution of clouds at these levels. In this case, most of the clouds and precipitation appear in front of the frontal trace on the ground. The upper jet stream will be rather perpendicular to the frontal slope.
 {{< figure caption="Front catafront" src="../images/FrontCatafront.png" >}}
 
-### Front froid secondaire
-Il arrive qu'un air très froid en provenance du pôle (goutte froide) soulève l'air froid postérieur de la perturbation et forme un second front froid. Ce soulèvement augmente l'instabilité et génère des averses parfois fortes mais aussi des cumulonimbus pouvant se transformer en ligne de grain.
-{{< figure caption="Front froid secondaire" src="../images/FrontSecondaire.png" >}}
+## Secondary cold front
+It happens that a very cold air from the pole (cold drop) lifts the cold air behind the disturbance and forms a second cold front. This lifting increases the instability and generates sometimes heavy showers but also cumulonimbus which can be transformed into squall line.
+{{< figure caption="Secondary cold front" src="../images/FrontSecondaire.png" >}}
 
-## Front occlus
-Un front occlus ou occlusion est le moment où le front froid, plus rapide, a rejoint le front chaud dans la circulation d'une perturbation. Lorsque le front froid atteint le front chaud, l'air chaud devient de plus en plus pincé ou coincé entre les deux fronts. Il sera soulevé en altitude et le système devient occlus.
-Il peut y avoir deux types de fronts occlus :
+## Occluded front
+An occluded front or occlusion is when the faster cold front has joined the warm front in the circulation of a disturbance. As the cold front reaches the warm front, the warm air becomes increasingly pinched or trapped between the two fronts. It will be lifted aloft and the system becomes occluded.
+There can be two types of occluded fronts:
 
-### Occlusion froide
+## Cold occlusion
 
-Lorsque la partie frontale de l'air froid est plus froide et plus dense que la masse d’air frais en avant du front chaud. Ainsi elle s’insinue non seulement sous la masse frontale chaude mais également sous la masse d’air frais en avant du front chaud, forçant ces deux éléments à se soulever, on a alors une occlusion à caractère de front froid. La base du creux d'air chaud en altitude est derrière l'occlusion en surface.
+When the frontal part of the cold air is colder and denser than the fresh air mass in front of the warm front. Thus it insinuates itself not only under the warm frontal mass but also under the fresh air mass in front of the warm front, forcing these two elements to rise, we then have a cold front occlusion. The base of the upper warm air trough is behind the occlusion at the surface.
 
-{{< figure caption="Front occlus froid" src="../images/FrontOcclusFroid.png" >}}
+{{< figure caption="Cold occluded front" src="../images/FrontOcclusFroid.png" >}}
 
-### Occlusion chaude
+## Warm occlusion
 
-Lorsque la situation est inverse, la partie frontale de l'air froid est moins froide que la masse d’air en avant du front chaud. Le front froid monte le long de la surface frontale chaude, et est rejeté en altitude par l'air plus froid antérieur. On a alors une occlusion à caractère de front chaud. La base précède le front de surface.
-Dans les pays qui utilisent les termes "front supérieur ou en altitude", plutôt que trowal, on précise que le front occlus est froid ou chaud.
+When the situation is reversed, the frontal portion of the cold air is less cold than the air mass ahead of the warm front. The cold front rises along the warm frontal surface, and is rejected aloft by the colder air in front. We then have an occlusion with a warm front character. The base precedes the surface front.
+In countries that use the term "upper or upper front", rather than trowal, it is specified that the occluded front is cold or warm.
 
-{{< figure caption="Front occlus chaud" src="../images/FrontOcclusChaud.png" >}}
+{{< figure caption="Warm occluded front" src="../images/FrontOcclusChaud.png" >}}
 
-### Front stationnaire
-Les fronts stationnaires se forment quand deux masses d'air ayant des caractéristiques différentes se rencontrent mais n'ont pas de circulation l'une vers l'autre. Elles se trouvent à glisser l'une par rapport à l'autre sous la circulation atmosphérique en altitude. Ces fronts peuvent rester immobiles pendant plusieurs jours ; ensuite ils peuvent soit se désagréger (se transformant en lignes de cisaillement), soit se transformer en front chaud ou en front froid, en fonction d'un changement dans le flux en altitude. Dû au fait que les deux masses d'air qu'ils séparent glissent l'une par rapport à l'autre, il y a peu de mouvement vertical le long des fronts stationnaires. Ils sont donc généralement associés à du temps partiellement nuageux, ou nuageux, et des précipitations faibles.
+## Stationary front
+Stationary fronts form when two air masses with different characteristics meet but do not flow toward each other. They find themselves sliding past each other under the upper atmospheric circulation. These fronts can remain stationary for several days; then they can either break up (becoming shear lines) or become a warm front or a cold front, depending on a change in the upper flow. Due to the fact that the two air masses they separate slide relative to each other, there is little vertical movement along stationary fronts. They are therefore usually associated with partly cloudy or cloudy weather and light precipitation.
 
 {{< navigation parent="/" >}}

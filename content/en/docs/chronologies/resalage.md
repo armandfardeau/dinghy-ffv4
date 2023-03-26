@@ -45,7 +45,7 @@ When sailing downwind, you must avoid "hanging on" and react quickly to avoid ma
 ## Making the hat
 Hopping means that the boat is completely overturned, a situation to be avoided. The risk is that the daggerboard will slip into the water, making the righting process more complex.
 {{< columns >}}
-{{< figure caption="Hat" src="../images/hat.jpg" >}}
+{{< figure caption="Hat" src="../images/chapeau.jpg" >}}
 <--->
 If you make hat, it takes a lot of force to extract the sail to the water suction, think about shocking as soon as possible.
 {{< /columns >}}
