@@ -1,9 +1,9 @@
 ---
-title: "isobaric map"
+title: "Isobaric map"
 weight: 7
 ---
 
-# The isobaric map
+# Isobaric map
 
 ## Presentation
 

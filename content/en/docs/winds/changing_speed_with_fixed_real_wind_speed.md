@@ -26,7 +26,7 @@ To keep the right trim: tuck in or drop out.
 ## Downwind point of sail
 
 {{< columns >}}
-{{< figure caption="Vectors" src="../images/large.svg" >}}
+{{< figure caption="Vectors" src="../images/largue.svg" >}}
 <--->
 {{< figure caption="Vectors" src="../images/largue-abattu.svg" >}}
 {{< /columns >}}

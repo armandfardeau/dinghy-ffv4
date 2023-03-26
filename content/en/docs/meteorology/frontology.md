@@ -49,7 +49,7 @@ Stationary fronts form when two air masses with different characteristics meet b
 
 ## Creating a disturbance
 
-{{< figure caption="Creating a disruption" src="../images/disruption.png" >}}
+{{< figure caption="Creating a disruption" src="../images/perturbation.png" >}}
 **Step 1 and 2:** warm air from the south and cold air from the north meet. The air masses do not mix, the system begins to roll up: this is the birth of the warm and cold fronts.
 
 **Stage 3:** the system begins to turn counterclockwise. The warm air is trapped by the cold air.

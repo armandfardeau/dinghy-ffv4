@@ -20,7 +20,7 @@ Two air masses of different properties (warm and cold) meet. They do not mix. Th
 {{< /tab >}}
 {{< tab "Orographic uplift" >}}
 {{< columns >}}
-{{< figure caption="Orographic uplift" src="../images/orographic-cooling.png" >}}
+{{< figure caption="Orographic uplift" src="../images/orographique-cooling.png" >}}
 <--->
 An air mass encounters a mountain and is forced to rise. The air cools and condensation can occur.
 {{< /columns >}}

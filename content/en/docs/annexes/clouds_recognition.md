@@ -43,13 +43,13 @@ The different cloud genera themselves encompass several subcategories that furth
 
 ## Altocumulus (Ac)
 {{< figure caption="Altocumulus consists of layers or sheets of white or gray clouds, and can indicate an approaching front and a change in weather" src="../images/Altocumulus.jpg" >}}
-{{< figure caption="Les bancs d'altocumulus classiques s'épaississent souvent pour devenir un nimbostratus" src="../images/Altocumulus_2.jpg" >}}
+{{< figure caption="The classic altocumulus banks often thicken to become a nimbostratus" src="../images/Altocumulus_2.jpg" >}}
 
 ## Nimbostratus (Ns)
-{{< figure caption="Le nimbostratus est associé à des chutes continues de pluie, de neige ou de grêles" src="../images/Nimbostratus.jpg" >}}
+{{< figure caption="Nimbostratus are associated with continuous rain, snow or hail" src="../images/Nimbostratus.jpg" >}}
 
 ## Cirrus (Ci)
-{{< figure caption="Un cirrus a la forme d'un ensemble de filaments blancs et délicats ou de bancs et bandes étroites" src="../images/Cirrus.jpg" >}}
-{{< figure caption="Les cirrus peuvent avoir des contours flous" src="../images/Cirrus_2.jpg" >}}
+{{< figure caption="A cirrus cloud has the shape of a set of white and delicate filaments or of banks and narrow bands" src="../images/Cirrus.jpg" >}}
+{{< figure caption="Cirrus clouds can have blurred contours" src="../images/Cirrus_2.jpg" >}}
 
 {{< navigation parent="/" >}}

@@ -7,27 +7,27 @@ weight: 1
 
 ## Definitions
 
-* Tide**e: daily oscillation of the sea whose level rises and falls alternately in the same place, caused by the attraction of the Moon and the Sun.
+* **Tide**: daily oscillation of the sea whose level rises and falls alternately in the same place, caused by the attraction of the Moon and the Sun.
 
-* Flow or Float**: rising tide.
+* **Flow or Float**: rising tide.
 
-* Full tide**: high tide.
+* **Full tide**: high tide.
 
-* Rising or ebb**: falling tide.
+* **Rising or ebb**: falling tide.
 
-* Slack water**: time when the sea level is stable. Slack water**: high tide, low tide.
+* **Slack water**: time when the sea level is stable. Slack water**: high tide, low tide.
 
-* Tidal coefficient**: a quantity that indicates the relative importance of a tide. Expressed in hundredths.
+* **Tidal coefficient**: a quantity that indicates the relative importance of a tide. Expressed in hundredths.
 
-* Spring tides**: tides with a high amplitude (coefficient higher than 70). The attraction of the Sun is combined with that of the Moon.
+* **Spring tides**: tides with a high amplitude (coefficient higher than 70). The attraction of the Sun is combined with that of the Moon.
 
-* Dead waters**: tides with low amplitude (coefficient lower than 70). The attractions of the Moon and the Sun are opposed.
+* **Dead waters**: tides with low amplitude (coefficient lower than 70). The attractions of the Moon and the Sun are opposed.
 
-* Foreshore**: land and beaches covered and uncovered by the tide.
+* **Foreshore**: land and beaches covered and uncovered by the tide.
 
-* Amplitude or tidal range**: maximum amplitude between high and low water for a given tide. The foreshore corresponds to the area on which the tidal range of the highest known tide occurs.
+* **Amplitude or tidal range**: maximum amplitude between high and low water for a given tide. The foreshore corresponds to the area on which the tidal range of the highest known tide occurs.
 
-* SHOM**: French Navy Hydrographic and Oceanographic Service. Official organization with authority in France for the edition of nautical charts and tidal directory.
+* **SHOM**: French Navy Hydrographic and Oceanographic Service. Official organization with authority in France for the edition of nautical charts and tidal directory.
 
 ## Reference coefficients
 The reference coefficients are:
