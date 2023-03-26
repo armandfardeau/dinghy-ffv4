@@ -5,8 +5,12 @@ weight: 1
 
 # 💨 Les vents
 
-Le vent « météorologique » n’est pas le vent que l’on a lorsque notre dériveur avance. Le vent que l’on touche, appelé vent apparent, sera fonction de la vitesse du bateau, du courant et du vent météorologie.
-Pour représenter le vent , on utilise un outil mathématique : le vecteur . Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous servir.
+Le vent *météorologique* n’est pas le vent que l’on a lorsque notre dériveur avance.
+Le vent que l’on touche, appelé vent apparent, sera fonction de la vitesse du bateau, du courant et du vent météorologie.
+
+Pour représenter le vent , on utilise un outil mathématique: le vecteur.
+
+Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous servir.
 
 ## Le vecteur
 
@@ -22,23 +26,39 @@ Pour représenter le vent , on utilise un outil mathématique : le vecteur . T
 
 ## Définitions
 
-{{< tabs "définitions" >}}
+### Nature du vent
+
+{{< tabs "définitions-nature" >}}
 {{< tab "Vent réel" >}}
-Vent ressentit lorsqu’on est totalement immobile : sans courant. C’est le vent météorologique de surface. Il est noté **vr**.
+Vent ressentit lorsqu’on est totalement immobile : sans courant. C’est le vent météorologique de surface.
+
+Il est noté **vr**.
 {{< /tab >}}
 {{< tab "Vent courant" >}}
-Le déplacement des masses d’eau (marées,courant, ...) est représenté par un vent opposé à la vitesse de déplacement de la masse d’eau. Il est noté **vc**.
+Le déplacement des masses d’eau (marées,courant, ...) est représenté par un vent opposé à la vitesse de déplacement de la masse d’eau.
+
+Il est noté **vc**.
 {{< /tab >}}
 {{< tab "Vent surface" >}}
-Somme (vectorielle) du vent réel et du vent courant. C’est le vent que l’on perçoit lorsqu’on est arrête ́sur l’eau. Il est noté **vs**.
+Somme (vectorielle) du vent réel et du vent courant. C’est le vent que l’on perçoit lorsqu’on est arrête ́sur l’eau.
+
+Il est noté **vs**.
 {{< /tab >}}
 {{< tab "Vent vitesse" >}}
-Dû au déplacement d’un mobile, il crée un vent «vitesse» qui est égale à sa vitesse de même direction et de sens opposé à son déplacement. Il est noté **vv**.
+Dû au déplacement d’un mobile, il crée un vent «vitesse» qui est égale à sa vitesse de même direction et de sens opposé à son déplacement.
+
+Il est noté **vv**.
 {{< /tab >}}
 {{< tab "Vent apparent" >}}
-Vent que l’on sent au visage sur un bateau en mouvement. Il est la somme du vent vitesse et du
-vent surface. Il est noté **va**.
+Vent que l’on sent au visage sur un bateau en mouvement. Il est la somme du vent vitesse et du vent surface.
+
+Il est noté **va**.
 {{< /tab >}}
+{{< /tabs >}}
+
+### Comportement du vent
+
+{{< tabs "définitions-comportement" >}}
 {{< tab "Vent qui adonne" >}}
 Changement de sens du vent **favorable** au voilier
 {{< /tab >}}
