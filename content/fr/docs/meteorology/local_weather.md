@@ -1,8 +1,13 @@
 ---
 title: "Météorologie locale"
 weight: 8
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/isobaric_map"
+  - "/docs/meteorology"
+  - "/docs/meteorology/waves_and_swell"
 ---
-
 # Météorologie locale
 
 ## La brise thermique côtière
@@ -163,5 +168,3 @@ Il est dangereux de naviguer sous un cumulonimbus car il peut y avoir de fortes 
 Juste avant le passage d’un front froid et après son passage (dans la traîne).
 {{< /details>}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/isobaric_map" parent="/docs/meteorology" next="/docs/meteorology/waves_and_swell" >}}

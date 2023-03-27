@@ -1,10 +1,12 @@
 ---
-title: "Dinghy Mechanics"
+title: ⚖️ Dinghy Mechanics
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/dinghy_mecanic/flows"
 ---
-
-# ⚖️ Dinghy Mechanics
-
 The objective of this chapter is to understand the main mechanisms that allow a dinghy to sail.
 
 The mechanics of the dinghy is actually a complex science requiring significant mathematical knowledge. Important "shortcuts" will be made in order to get to the point.
@@ -19,5 +21,3 @@ A sail is a surface in 3 dimensions.
 A profile is a section of the sail along the mast.
 {{< figure caption="Profile of a sail" src="images/sail-profile.png" >}}
 The profile of the sail changes with height but also with trim.
-
-{{< navigation parent="/" next="/docs/dinghy_mecanic/flows" >}}

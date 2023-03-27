@@ -1,9 +1,13 @@
 ---
 title: "Les masses d'air"
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/wind"
+  - "/docs/meteorology"
+  - "/docs/meteorology/clouds"
 ---
-
-# Les masses d'air
 Voici les principales masses d’air que l’on retrouve en Europe de l’Ouest et qui façonnent la météorologie que nous avons.
 
 ## Définition d’une masse d’air stable et instable
@@ -57,5 +61,3 @@ Lorsque le sol est chauffé par le Soleil, les couches les plus proches du sol s
  Dans le cas contraire, l'air en ascension devient plus froid que l'air environnant, le mouvement ascendant va s'interrompre et l'atmosphère est alors stable.
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/wind" parent="/docs/meteorology" next="/docs/meteorology/clouds" >}}

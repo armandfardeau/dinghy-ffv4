@@ -1,10 +1,12 @@
 ---
 weight: 1
-title: "Méteo"
+title: "🌦 Méteo"
+display_reading_time: true
+display_share_buttons: true
+navigation:
+ - "/"
+ - "/docs/meteorology/general_circulation"
 ---
-
-# 🌦 Météo
-
 ## Les variables
 
 En météorologie, on utilise trois variables : **la pression**, **l’humidité** et **la température**. L’air étant un très mauvais conducteur thermique, il se mélange mal. On parle de masse d’air ; volume d’air où la température et l’humidité sont uniformes.
@@ -56,7 +58,7 @@ Deux masses d’air ayant des propriétés (températures et humidités) dif
 {{< figure caption="Diagramme de Mollier" src="images/mollier-diagrams.png" >}}
 {{< /columns >}}
 
-# L’atmosphère
+## L’atmosphère
 {{< columns >}}
 {{< figure caption="Digramme atmosphère" src="images/atmosphere.png" >}}
 <--->
@@ -80,5 +82,3 @@ Les caractéristiques de la troposphère sont :
 
 - Epaisseur variable autour de 12km. Varie en fonction de la saison et du lieu : 8 km aux pôles jusqu'à 15 km à l’équateur.
 - Baisse régulière de la température : 6,5 ° C par km.
-
-{{< navigation parent="/" next="/docs/meteorology/general_circulation" >}}

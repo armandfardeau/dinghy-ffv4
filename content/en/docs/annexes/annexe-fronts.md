@@ -1,10 +1,11 @@
 ---
 title: "Appendix: the fronts"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# Annex: the fronts
-
 [Source: lavionnaire.fr](https://www.lavionnaire.fr/)
 
 ## Definition
@@ -127,5 +128,3 @@ In countries that use the term "upper or upper front", rather than trowal, it is
 
 ## Stationary front
 Stationary fronts form when two air masses with different characteristics meet but do not flow toward each other. They find themselves sliding past each other under the upper atmospheric circulation. These fronts can remain stationary for several days; then they can either break up (becoming shear lines) or become a warm front or a cold front, depending on a change in the upper flow. Due to the fact that the two air masses they separate slide relative to each other, there is little vertical movement along stationary fronts. They are therefore usually associated with partly cloudy or cloudy weather and light precipitation.
-
-{{< navigation parent="/" >}}

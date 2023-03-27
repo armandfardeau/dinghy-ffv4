@@ -1,10 +1,12 @@
 ---
-title: "Speed change at fixed true wind"
+title: Change of speed with real wind fixed
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+- "/docs/meteorology"
+- "/docs/winds/gust_of_wind"
 ---
-
-# Change of speed with real wind fixed
-
 ## Adjusting the sails in case of speed change
 
 We consider a steady current wind and a steady true wind.
@@ -52,5 +54,3 @@ Overall, the fastest point of sail is the right full.
 
 The boat does not come up any better than 30° from the wind and downwind its speed is about 60% of the true wind.
 {{< /columns >}}
-
-{{< navigation parent="/docs/meteorology" next="/docs/winds/gust_of_wind" >}}

@@ -1,10 +1,10 @@
 ---
-title: "Les vents"
+title: "💨 Les vents"
 weight: 1
+navigation:
+  - "/"
+  - "/docs/winds/changing_speed_with_fixed_real_wind_speed"
 ---
-
-# 💨 Les vents
-
 Le vent *météorologique* n’est pas le vent que l’on a lorsque notre dériveur avance.
 Le vent que l’on touche, appelé vent apparent, sera fonction de la vitesse du bateau, du courant et du vent météorologie.
 
@@ -66,5 +66,3 @@ Changement de sens du vent **favorable** au voilier
 Changement de sens du vent **défavorable** au voilier
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< navigation parent="/" next="/docs/winds/changing_speed_with_fixed_real_wind_speed" >}}

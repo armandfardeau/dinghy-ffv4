@@ -1,10 +1,7 @@
 ---
-title: "Flows"
+title: The flows
 weight: 1
 ---
-
-# The flows
-
 A flow is the movement of a fluid. A streamline is the materialization of the movement of the fluid in a flow.
 
 There are 2 types of flows:
@@ -56,10 +53,13 @@ At a certain angle of incidence, about 15 to 20°, depending on the characterist
 
 {{< columns >}}
 {{< figure caption="Profil normal" src="../images/profil_normal.jpg" >}}
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic"
+  - "/docs/dinghy_mecanic/strengths"
 <--->
 {{< figure caption="Profil décroché" src="../images/profil_stall.jpg" >}}
 {{< /columns >}}
 Une voile correctement bordé génère une portance permettant le déplacement.
 Une voile bordée en excès génère un écoulement turbulent, la portance est alors inférieure à la trainée, le bateau n'avance plus.
-
-{{< navigation parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/strengths" >}}

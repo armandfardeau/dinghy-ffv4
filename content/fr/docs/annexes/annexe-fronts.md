@@ -1,10 +1,11 @@
 ---
 title: "Annexe: les fronts"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# Annexe: les fronts
-
 [Source: lavionnaire.fr](https://www.lavionnaire.fr/)
 
 ## Définition
@@ -127,5 +128,3 @@ Dans les pays qui utilisent les termes "front supérieur ou en altitude", plutô
 
 ### Front stationnaire
 Les fronts stationnaires se forment quand deux masses d'air ayant des caractéristiques différentes se rencontrent mais n'ont pas de circulation l'une vers l'autre. Elles se trouvent à glisser l'une par rapport à l'autre sous la circulation atmosphérique en altitude. Ces fronts peuvent rester immobiles pendant plusieurs jours ; ensuite ils peuvent soit se désagréger (se transformant en lignes de cisaillement), soit se transformer en front chaud ou en front froid, en fonction d'un changement dans le flux en altitude. Dû au fait que les deux masses d'air qu'ils séparent glissent l'une par rapport à l'autre, il y a peu de mouvement vertical le long des fronts stationnaires. Ils sont donc généralement associés à du temps partiellement nuageux, ou nuageux, et des précipitations faibles.
-
-{{< navigation parent="/" >}}

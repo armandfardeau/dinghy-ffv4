@@ -1,8 +1,13 @@
 ---
-title: "waves and the swell"
+title: The waves and the swell
 weight: 9
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/local_weather"
+  - "/docs/meteorology"
+  - "/docs/meteorology/weather_report"
 ---
-# The waves and the swell
 
 # Definitions
 
@@ -35,5 +40,3 @@ When waves do not break, there is almost no horizontal displacement of water ove
 
 Be careful when the wind and waves are opposite the current. This raises a chop that will quickly become dangerous.
 When calculating a tide, take waves/swells into account.
-
-{{< navigation previous="/docs/meteorology/local_weather" parent="/docs/meteorology" next="/docs/meteorology/weather_report" >}}

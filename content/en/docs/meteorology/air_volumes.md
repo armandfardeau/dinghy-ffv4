@@ -1,9 +1,14 @@
 ---
-title: "Air masses"
+title: Air masses
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/wind"
+  - "/docs/meteorology"
+  - "/docs/meteorology/clouds"
 ---
 
-# Air masses
 Here are the main air masses found in Western Europe that shape the weather we have.
 
 ## Definition of a stable and unstable air mass
@@ -57,5 +62,3 @@ If the pocket of warm air cools less quickly than the surrounding air, this parc
 In the opposite case, the rising air becomes colder than the surrounding air, the upward movement will stop and the atmosphere is then stable.
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/wind" parent="/docs/meteorology" next="/docs/meteorology/clouds" >}}

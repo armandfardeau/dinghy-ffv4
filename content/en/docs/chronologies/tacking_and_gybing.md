@@ -1,10 +1,11 @@
 ---
-title: "Tacking and gybing"
+title: Tacking and gybing
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+  - "/docs/chronologies"
+  - "/docs/chronologies/abattee"
 ---
-
-# Tacking and gybing
-
 Tacking and gybing are the basic dinghy maneuvers. We differentiate between classic maneuvers and rocking maneuvers. Tilting is an exaggeration of what is done naturally in strong winds. All you have to do is reproduce this movement.
 
 ## Tacking
@@ -64,5 +65,3 @@ The tilt gybe allows you to maintain speed in a light wind.
 5. Pull the sheet to prevent it from getting stuck in the transom (flushing) while passing back over the sail.
 6. Se replacer rapidement de l'autre côté et remettre le bateau à plat d'un coup.
 7. Changer de mains
-
-{{< navigation parent="/docs/chronologies" next="/docs/chronologies/abattee" >}}

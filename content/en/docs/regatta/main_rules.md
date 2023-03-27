@@ -1,10 +1,13 @@
 ---
-title: "Main rules"
+title: Main rules
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/regatta"
+  - "/docs/regatta/getting_off_to_a_good_start"
+  - "/docs/regatta/flags"
 ---
-
-# Main rules
-
 ## Helm privileges
 
 ### Rule 10 - Starboard tack priority
@@ -53,5 +56,3 @@ A yacht when acquiring the right of way must allow time and space for the other 
 ### Rule 42 - Propulsion rule
 
 Any means of propulsion other than wind and water are prohibited.
-
-{{< navigation parent="/docs/regatta" previous="/docs/regatta/getting_off_to_a_good_start" next="/docs/regatta/flags" >}}

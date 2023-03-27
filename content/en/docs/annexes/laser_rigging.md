@@ -3,7 +3,6 @@ title: "Appendix: Rigging a laser"
 weight: 2
 ---
 
-# Appendix: Rigging a laser
 {{< youtubestart W70wB8JJH4E 98 >}}
 
 ## Prepare the sail

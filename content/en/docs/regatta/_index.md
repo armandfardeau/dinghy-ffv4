@@ -1,10 +1,12 @@
 ---
-title: "Regatta"
+title: 🏁 The regatta
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "getting_off_to_a_good_start"
 ---
-
-# 🏁 The regatta
-
 A regatta is a speed race between several boats on a closed course.
 There are two main categories of sailing regattas: the "fleet regatta", the most common, and the "match racing", where only two boats compete. We will not deal with the latter.
 
@@ -83,5 +85,3 @@ En résumé :
 
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< navigation parent="/" next="getting_off_to_a_good_start" >}}

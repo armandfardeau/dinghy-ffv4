@@ -1,10 +1,10 @@
 ---
 title: "Changement de vitesse à vent réel fixé"
 weight: 2
+navigation:
+  - "/docs/meteorology"
+  - "/docs/winds/gust_of_wind"
 ---
-
-# Changement de vitesse à vent réel fixé
-
 ## Réglage des voiles en cas de changement de vitesse
 
 On considére un vent courant et un vent réel stables.
@@ -52,5 +52,3 @@ Dans l'ensemble, l'allure la plus rapide est le bon plein.
 
 Le bateau ne remonte pas mieux qu’à 30° du vent et au vent arrière sa vitesse est d'environ 60% du vent réel.
 {{< /columns >}}
-
-{{< navigation parent="/docs/meteorology" next="/docs/winds/gust_of_wind" >}}

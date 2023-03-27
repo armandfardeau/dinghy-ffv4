@@ -1,10 +1,13 @@
 ---
 title: "Le vent"
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/general_circulation"
+  - "/docs/meteorology"
+  - "/docs/meteorology/air_volumes"
 ---
-
-# Le vent
-
 ## Équilibre des vents
 {{< columns >}}
 Le vent est un flux d’air. Il se déplace globalement des hautes pressions vers les basses pressions. Plus la différence (gradient) de pression est importante (pour une distance donnée), plus le vent est fort.
@@ -73,5 +76,3 @@ L’échelle de Beaufort est fonction de la force du vent. Anciennement, c’e�
 Force 6
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/general_circulation" parent="/docs/meteorology" next="/docs/meteorology/air_volumes" >}}

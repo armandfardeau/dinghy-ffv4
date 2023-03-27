@@ -1,8 +1,13 @@
 ---
-title: "Mast grabbing"
+title: Taking the mast
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/resalage"
+  - "/docs/chronologies"
+  - "/docs/chronologies/dematage"
 ---
-# Taking the mast
 
 In some cases (crew too light and tired, need to go fast...) it is necessary to help a boat to resalt by lifting its mast from the water.
 
@@ -16,5 +21,3 @@ Poorly executed, it can become dangerous. Before attempting it, be sure you know
 - Once you have the masthead in hand, visualize the trajectory of the mast when it leaves: it must not get stuck.
 - Give an upward impulse.
 - As soon as the boat has resurfaced move away a little, it is possible to stabilize it by holding it by the nose in the case of the laser.
-
-{{< navigation previous="/docs/chronologies/resalage" parent="/docs/chronologies" next="/docs/chronologies/dematage" >}}

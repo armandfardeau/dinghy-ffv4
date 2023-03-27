@@ -1,10 +1,13 @@
 ---
 title: "Les réglages dynamiques"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/settings/statics"
+  - "/docs/settings"
+  - "/docs/settings/positions"
 ---
-
-# Les réglages dynamiques
-
 ## L'écoute
 
 {{< hint info >}}
@@ -202,5 +205,3 @@ Par vent rafaleux, il peut être utile de bien tendre la sangle de rappel afin d
 ## Synthèse en vidéo
 
 {{< youtubestart wprWARXm8QM 0 >}}
-
-{{< navigation previous="/docs/settings/statics" parent="/docs/settings" next="/docs/settings/positions" >}}

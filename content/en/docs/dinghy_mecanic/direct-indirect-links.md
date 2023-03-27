@@ -1,10 +1,12 @@
 ---
-title: "Direct and indirect links"
+title: Direct and indirect links
 weight: 4
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic/balance"
+  - "/docs/dinghy_mecanic"
 ---
-
-# Direct and indirect links
-
 ## Direct links
 {{< mermaid >}}
 stateDiagram
@@ -75,5 +77,3 @@ Weight --> Propulsion
 {{< figure caption="Tilt-turn" src="../images/virement-bascule.jpeg" >}}
 
 The tilt tack and gybe are the first application of weight as indirect links, by making the boat heel, we force its direction by limiting the drag of the rudder
-
-{{< navigation previous="/docs/dinghy_mecanic/balance" parent="/docs/dinghy_mecanic" >}}

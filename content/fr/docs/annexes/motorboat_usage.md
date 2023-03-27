@@ -1,10 +1,11 @@
 ---
 title: "Du bon usage d’un bateau à moteur"
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# Du bon usage d’un bateau à moteur
-
 ## Avant de démarrer le moteur
 ### Faire un check-up du bateau
 
@@ -47,4 +48,3 @@ Le démarrage du moteur se fait toujours avant de lâcher le coffre ou de remont
 
 **Rangez le bateau avant de le quitter : il sera toujours prêt**
 
-{{< navigation parent="/" >}}

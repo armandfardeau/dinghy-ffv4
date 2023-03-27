@@ -1,9 +1,13 @@
 ---
 title: "Les vagues et la houle"
 weight: 9
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/local_weather"
+  - "/docs/meteorology"
+  - "/docs/meteorology/weather_report"
 ---
-# Les vagues et la houle
-
 # Définitions
 
 - Houle : mer du vent qui a quitté son aire génératrice
@@ -35,5 +39,3 @@ Lorsque les vagues ne déferlent pas, il n’y a quasiment pas de déplacement
 
 Attention quand le vent et les vagues sont opposés au courant. Cela lève un clapot qui va vite devenir dangereux.
 Lors d’un calcul de marée, tenir compte des vagues/houle.
-
-{{< navigation previous="/docs/meteorology/local_weather" parent="/docs/meteorology" next="/docs/meteorology/weather_report" >}}

@@ -1,10 +1,13 @@
 ---
-title: "Clouds"
+title: Clouds
 weight: 4
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/air_volumes"
+  - "/docs/meteorology"
+  - "/docs/meteorology/frontology"
 ---
-
-# Clouds
-
 A cloud is composed of water or ice droplets. The air is completely saturated.
 
 ## Types of cooling
@@ -73,5 +76,3 @@ La couche cirro.
 Vertically developing clouds are of the **cumuliform** family and are **unstable** in nature, layer developing clouds are of the **stratiform** family and are **stable** in nature.
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/air_volumes" parent="/docs/meteorology" next="/docs/meteorology/frontology" >}}

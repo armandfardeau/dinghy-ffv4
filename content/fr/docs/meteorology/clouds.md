@@ -1,10 +1,13 @@
 ---
 title: "Les nuages"
 weight: 4
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/air_volumes"
+  - "/docs/meteorology"
+  - "/docs/meteorology/frontology"
 ---
-
-# Les nuages
-
 Un nuage est composé de gouttelettes d’eau ou de glace. L’air y est totalement saturé.
 
 ## Types de refroidissement
@@ -73,5 +76,3 @@ La couche cirro.
 Les nuages à développement vertical sont de la famille des **cumuliformes** et sont de nature **instable**, les nuages à développement en couche sont de la famille des **stratiformes** et sont de nature **stable**.
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/air_volumes" parent="/docs/meteorology" next="/docs/meteorology/frontology" >}}

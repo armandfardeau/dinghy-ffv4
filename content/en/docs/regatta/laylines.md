@@ -1,10 +1,12 @@
 ---
-title: "Laylines"
+title: Laylines
 weight: 4
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/regatta"
+  - "/docs/regatta/flags"
 ---
-
-# Laylines
-
 ## The frame
 During a regatta you can imagine a diamond between the windward and the leeward buoy: the frame.
 
@@ -46,5 +48,3 @@ This frame allows us to define the placement of the racers in relation to the bu
 ### Downwind in a shifting wind
 
 {{< youtubestart 5tn4abu7bW8 26 >}}
-
-{{< navigation parent="/docs/regatta" previous="/docs/regatta/flags" >}}

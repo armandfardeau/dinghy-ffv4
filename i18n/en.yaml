@@ -1,3 +1,9 @@
+- id: share_buttons_title
+  translation: Share this page on social networks
+- id: reading_time_singular
+  translation: "Reading time: {{ . }} minute approximately"
+- id: reading_time_plural
+  translation: "Reading time: {{ . }} minutes approximately"
 - id: Add an issue
   translation: Report an incorrect element
 - id: level_1_title

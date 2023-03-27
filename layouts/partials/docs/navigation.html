@@ -1,0 +1,11 @@
+{{ if .Page.Params.Navigation }}
+    <nav>
+        {{ range .Page.Params.navigation }}
+            {{ with $.Site.GetPage . }}
+            <a class="book-btn" href="{{ .RelPermalink }}">
+                <span>{{ .Title }}</span>
+            </a>
+            {{ end }}
+        {{ end }}
+    </nav>
+{{ end }}

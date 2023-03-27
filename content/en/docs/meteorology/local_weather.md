@@ -1,10 +1,7 @@
 ---
-title: "Local weather"
+title: Local weather
 weight: 8
 ---
-
-# Local weather
-
 ## The coastal thermal breeze
 
 The coastal thermal breezes are related to the interaction water / land: the thermal capacities of water and land are very different, they will therefore heat and cool at different speeds.
@@ -147,6 +144,12 @@ Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
 ### Grain non précipitant
 {{< columns >}}
 {{< figure caption="Grain non précipitant" src="../images/non_raining_grain.png" >}}
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/isobaric_map"
+  - "/docs/meteorology"
+  - "/docs/meteorology/waves_and_swell"
 <--->
 {{< figure caption="Les vents du grain non précipitant" src="../images/non_raining_grain_wind.png" >}}
 {{< /columns >}}
@@ -164,5 +167,3 @@ Il est dangereux de naviguer sous un cumulonimbus car il peut y avoir de fortes 
 Juste avant le passage d’un front froid et après son passage (dans la traîne).
 {{< /details>}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/isobaric_map" parent="/docs/meteorology" next="/docs/meteorology/waves_and_swell" >}}

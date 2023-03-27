@@ -1,10 +1,12 @@
 ---
-title: "Chronologies"
+title: "🔂 Chronologies"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/chronologies/tacking_and_gybing"
 ---
-
-# 🔂 Chronologies
-
 ## La cape
 
 Pour s'arrêter à la cape en laser il faut:
@@ -68,5 +70,3 @@ Arriver avec une vitesse faible et lofer progressivement pour tangenter la plage
 
 ### Si les vagues sont grosses
 En cas deshore-break important (supérieur à 70cm env.), arriver dans la direction des vagues, choquer en grand et retirer la dérive (s'assurer qu'elle est bien accrochée). Jetez vous à l'eau et laissez vous dériver sur les mêtres restants. L'enjeu de la manoeuvre est de doser le timing, ni trop tard, ni trop tard.
-
-{{< navigation parent="/" next="/docs/chronologies/tacking_and_gybing" >}}

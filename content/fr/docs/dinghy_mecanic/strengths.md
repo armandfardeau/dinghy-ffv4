@@ -1,10 +1,13 @@
 ---
 title: "Les forces"
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic/flows"
+  - "/docs/dinghy_mecanic"
+  - "/docs/dinghy_mecanic/balance"
 ---
-
-# Les forces
-
 ## Force aérodynamique / force vélique
 
 ### Composante de la force vélique
@@ -52,5 +55,3 @@ Le poids est la masse du bateau et de ses équipiers soumis à la gravité te
 
 - Le poids est vertical et s’applique au centre de gravité ({{< katex >}}CG{{< /katex >}}) du système: bateau + équipage.
 - La poussée d’Archimède s’applique au centre de carène ({{< katex >}}CC{{< /katex >}}): centre de gravité des parties immergées.
-
-{{< navigation previous="/docs/dinghy_mecanic/flows" parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/balance" >}}

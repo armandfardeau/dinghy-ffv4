@@ -1,9 +1,11 @@
 ---
 title: "Annexe: Mouiller son bateau de sécurité"
 weight: 6
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# Annexe: Mouiller son bateau de sécurité
 
 Pour mouiller votre bateau, vous disposez généralement de deux mouillages :
 
@@ -31,6 +33,6 @@ Chronologie sommaire du mouillage de bateau de sécurité:
 
 {{< figure caption="Mouillage en cas de vent parallèle" src="../images/vent-parallele.png" >}}
 
-{{< navigation parent="/" >}}
+
 
 

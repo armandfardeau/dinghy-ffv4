@@ -1,10 +1,11 @@
 ---
-title: "Balisage et carte"
+title: "🗺 Balisage et carte"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# 🗺 Balisage et carte
-
 ## Marques latérales
 Les marques latérales servent à baliser les chenaux réservées aux voiliers et aux bateaux. **Leur sens est toujours données pour un véhicule venant du large vers le port.**
 
@@ -97,5 +98,3 @@ Du fait de notre activité (voile légère avec très peu de tirant d’eau)
 {{< figure caption="Alignement à l'entrée du port de Concarneau" src="images/alignement-concarneau.png" >}}
 
 Soyez critiques avec vos alignements: ils peuvent être difficile à tenir (alignement en arrière, vent refusant), ou bien invisible depuis le ras de l'eau.
-
-{{< navigation parent="/" >}}

@@ -1,10 +1,13 @@
 ---
 title: "La carte isobarique"
 weight: 7
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/weather_associated_with_a_perturbation"
+  - "/docs/meteorology"
+  - "/docs/meteorology/local_weather"
 ---
-
-# La carte isobarique
-
 ## Présentation
 
 La carte isobarique représente la situation barométrique actuelle ou prévue avec la position des fronts. Il existe plusieurs types de cartes : la carte de surface (qui représente la pression au niveau de la mer) et les cartes d’altitudes (représentant l’altitude géopotentielle à une pression donnée), cependant les cartes d’altitude sont plus complexes à interpréter. Une carte isobarique de surface peut être pointée, c'est-à-dire avec des relevés de vent et pression.
@@ -65,5 +68,3 @@ Front chaud - Front froid - Front occlus - Anticyclone - Dépression
 {{< /details>}}
 
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/weather_associated_with_a_perturbation" parent="/docs/meteorology" next="/docs/meteorology/local_weather" >}}

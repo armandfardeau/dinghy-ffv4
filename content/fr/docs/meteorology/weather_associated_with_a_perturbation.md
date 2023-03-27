@@ -1,8 +1,13 @@
 ---
 title: "Temps associé à une perturbation"
 weight: 6
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/frontology"
+  - "/docs/meteorology"
+  - "/docs/meteorology/isobaric_map"
 ---
-
 # Temps associé à une perturbation
 
 ## Vue satellite d'une dépression
@@ -57,5 +62,3 @@ La situation s'améliorera alors pour céder sa place au ciel de traîne avec qu
 Plusieurs présentations sont possibles
 {{< /details>}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/frontology" parent="/docs/meteorology" next="/docs/meteorology/isobaric_map" >}}

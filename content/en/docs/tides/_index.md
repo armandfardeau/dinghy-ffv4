@@ -1,10 +1,12 @@
 ---
-title: "Tides"
+title: 🌊 The tides
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/tides/water_height_calculation"
 ---
-
-# 🌊 The tides
-
 ## Definitions
 
 * **Tide**: daily oscillation of the sea whose level rises and falls alternately in the same place, caused by the attraction of the Moon and the Sun.
@@ -66,5 +68,3 @@ Situation A is **syzygy** while situation B is **quadrature**.
 
 **The quadrature** is the position of the stars such that their actions **cancel**, that is to say an Earth-Moon-Sun set at right angle. This corresponds to the **dead period**.
 {{< /columns >}}
-
-{{< navigation parent="/" next="/docs/tides/water_height_calculation" >}}

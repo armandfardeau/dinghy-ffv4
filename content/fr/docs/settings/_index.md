@@ -1,6 +1,11 @@
 ---
 title: "Les réglages"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/settings/statics"
 ---
 # 🛠 Les réglages
 
@@ -13,5 +18,3 @@ On peut décomposer selon trois types de réglages:
 * La position de l’équipage: qui dépend également des conditions et de l’allure
 
 Il n’y a pas de réglages universels.
-
-{{< navigation parent="/" next="/docs/settings/statics" >}}

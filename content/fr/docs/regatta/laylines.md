@@ -1,10 +1,12 @@
 ---
 title: "Notions de cadre"
 weight: 4
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/regatta"
+  - "/docs/regatta/flags"
 ---
-
-# Notions de cadre
-
 ## Le cadre
 Lors d'une régate on peut imaginer un losange entre la bouée au vent et la bouée sous le vent: le cadre.
 
@@ -46,5 +48,3 @@ Ce cadre nous permet de définir le placement des coureurs par rapport à la bou
 ### Au vent arrière dans un vent qui bascule
 
 {{< youtubestart 5tn4abu7bW8 26 >}}
-
-{{< navigation parent="/docs/regatta" previous="/docs/regatta/flags" >}}

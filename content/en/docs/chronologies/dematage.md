@@ -1,10 +1,13 @@
 ---
-title: "Towing under sail after a dismasting"
+title: Towing after a dismasting
 weight: 6
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/mast_grabbing"
+  - "/docs/chronologies"
+  - "/docs/chronologies/man_overboard"
 ---
-
-# Towing after a dismasting
-
 It happens that the dinghy dismasts, it can happen because of a mast breakage (on the laser at the sleeve) or because of a mast foot breakage. In any case, it is impressive and should not be taken lightly.
 
 ## Preparation of the tow
@@ -31,5 +34,3 @@ Start the tow:
 - If the wind is strong, sail at reduced speed. The equipment is not designed to withstand this kind of repeated effort.
 - As a general rule, all the maneuvers are unchanged, you must take more space to do them and be more frank on the restarts.
 - In case of beach arrival in the rollers, unhook the front trailer and the towed boat finish with the paddle.
-
-{{< navigation previous="/docs/chronologies/mast_grabbing" parent="/docs/chronologies" next="/docs/chronologies/man_overboard" >}}

@@ -1,9 +1,13 @@
 ---
 title: "L'oloffée à la bouée"
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/abattee"
+  - "/docs/chronologies"
+  - "/docs/chronologies/resalage"
 ---
-
-# L'oloffée à la bouée
 
 ## Chronologie
 {{< columns >}}
@@ -30,5 +34,3 @@ Penser à serrer la bouée à la manière d'un pilote de Formule 1 : avec une en
 Sur cette vidéo on peut voir la stratégie du passage à la bouée sous le vent, on constate que le placement et l'angle du virage sont primordiaux pour à la fois conserver la vitesse et disposer d'air frais.
 
 {{< youtubestart N8UwkLrcwJ8 4 >}}
-
-{{< navigation previous="/docs/chronologies/abattee" parent="/docs/chronologies" next="/docs/chronologies/resalage" >}}

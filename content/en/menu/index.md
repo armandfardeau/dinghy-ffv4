@@ -50,7 +50,7 @@ headless: true
   - [Flags in regattas]({{<relref"/docs/regatta/flags">}})
   - [Laylines]({{<relref"/docs/regatta/laylines">}})
 
-- **➡️ Annexes**
+- **➡️ Appendix**
   - [Self-evaluation]({{<relref"/docs/annexes/self-evaluation">}})
   - [How to rig a laser]({{<relref"/docs/annexes/laser_rigging">}})
   - [Recognize clouds]({{<relref"/docs/annexes/clouds_recognition">}})

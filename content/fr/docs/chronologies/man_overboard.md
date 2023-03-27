@@ -1,10 +1,12 @@
 ---
 title: "Homme à la mer"
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/dematage"
+  - "/docs/chronologies"
 ---
-
-# Homme à la mer
-
 ## Généralités
 Récupérer un HLM n’a rien d’anodin quelles que soient les circonstances.
 
@@ -47,5 +49,3 @@ Durant toute la manoeuvre, on évite d'empanner pour prévenir tout suraccident.
 - Si l’HLM est conscient, préparez un bout de resalage afin de lui donner si vous n’arrivez pas à le récupérer.
 - Pour le remonter, il faut souvent l’aider. Un HLM pèse son poids plus le poids de ses habits mouillés : s'aider de son gilet qui doit permettre de le saisir par les bretelles.
 - Une fois à bord : faites un bilan « santé » : froid, peur, ... Ne pas hésiter à rentrer ou faire une pause.
-
-{{< navigation previous="/docs/chronologies/dematage" parent="/docs/chronologies" >}}

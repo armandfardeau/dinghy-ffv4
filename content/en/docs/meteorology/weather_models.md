@@ -1,10 +1,12 @@
 ---
-title: "Modèles méteo"
+title: Modèles méteo
 weight: 9
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/weather_report"
+  - "/docs/meteorology"
 ---
-
-# Modèles méteo
-
 Meteorological models are tools that allow us to predict the evolution of weather in the future.
 
 They are based on complex mathematical calculations that take into account current conditions and wind and wave forecasts.
@@ -140,5 +142,3 @@ On the other hand the directions are similar.
 {{< figure caption="Modèle Arôme 1,3KM" src="../images/arome-windy-previ.png" >}}
 {{< /columns >}}
 It can be assumed that the presence of an onshore wind (southwest wind) has influenced the forecast of the GFS model, which does not take into account the attenuation of the coast as accurately.
-
-{{< navigation previous="/docs/meteorology/weather_report" parent="/docs/meteorology" >}}

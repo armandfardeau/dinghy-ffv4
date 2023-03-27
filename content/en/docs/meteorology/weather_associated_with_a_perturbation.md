@@ -1,10 +1,13 @@
 ---
-title: "Time associated with a disturbance"
+title: Time associated with a disturbance
 weight: 6
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/frontology"
+  - "/docs/meteorology"
+  - "/docs/meteorology/isobaric_map"
 ---
-
-# Time associated with a disturbance
-
 ## Satellite view of a depression
 {{< columns >}}
 {{< figure caption="Cold front" src="../images/satellite-view-depression.jpg" >}}
@@ -57,5 +60,3 @@ The situation will then improve to give way to the trailing sky with some squall
 Several layouts are possible
 {{< /details>}}
 {{< /hint_with_class>}}
-
-{{< navigation previous="/docs/meteorology/frontology" parent="/docs/meteorology" next="/docs/meteorology/isobaric_map" >}}

@@ -1,10 +1,12 @@
 ---
-title: "Mécanique du dériveur"
+title: "⚖️ Mécanique du Dériveur"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/dinghy_mecanic/flows"
 ---
-
-# ⚖️ Mécanique du Dériveur
-
 L’objectif de ce chapitre est de comprendre les mécanismes principaux qui permettent à un dériveur de naviguer à la voile.
 
 La mécanique du voilier est en réalité une science complexe demandant des connaissances mathématiques importantes. Des « raccourcis » importants seront faits afin d’aller à l’essentiel.
@@ -19,5 +21,3 @@ Une voile est une surface en 3 dimensions.
 On appelle profil, une coupe de la voile le long du mât.
 {{< figure caption="Profil d'une voile" src="images/sail-profile.png" >}}
 Le profil de la voile évolue en fonction de la hauteur mais aussi en fonction des réglages.
-
-{{< navigation parent="/" next="/docs/dinghy_mecanic/flows" >}}
