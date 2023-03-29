@@ -1,6 +1,11 @@
 ---
 weight: 1
 title: "General circulation"
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology"
+  - "/docs/meteorology/wind"
 ---
 
 # General Circulation
@@ -52,5 +57,3 @@ This force tends to move the particle to its right in the northern hemisphere (a
 {{< figure caption="Atmospheric cells" src="../images/north-cells.png" >}}
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation parent="/docs/meteorology" next="/docs/meteorology/wind" >}}

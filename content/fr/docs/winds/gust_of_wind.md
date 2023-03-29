@@ -1,9 +1,10 @@
 ---
 title: "Passage d’une risée"
 weight: 3
+navigation:
+  - "/docs/winds/changing_speed_with_fixed_real_wind_speed"
+  - "/docs/winds"
 ---
-# Passage d’une risée
-
 Une risée est une augmentation du vent réel. Ce tableau peut être pris à l’opposé pour le passage d’une molle (mais on essaye de les éviter). Un vent qui forcit (en restant stable en direction) fait adonner le vent apparent. L’objectif du bateau est de faire la route la plus directe.
 
 {{< tabs "Passage d’une risée" >}}
@@ -40,5 +41,3 @@ Variable en direction:
 {{< /columns >}}
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< navigation previous="/docs/winds/changing_speed_with_fixed_real_wind_speed" parent="/docs/winds" >}}

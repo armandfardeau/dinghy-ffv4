@@ -1,10 +1,12 @@
 ---
-title: "Chronologies"
+title: "🔂 Chronologies"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/chronologies/tacking_and_gybing"
 ---
-
-# 🔂 Chronologies
-
 ## The cape
 
 To stop at the cape with a laser, you must:
@@ -68,5 +70,3 @@ Arrive at a slow speed and luff gradually to reach the beach as close to the win
 
 ### If the waves are big
 In case of a big shore-break (more than 70cm), go in the direction of the waves, shock the daggerboard and remove it (make sure it is well attached). Throw yourself into the water and let yourself drift for the remaining meters. The challenge of the maneuver is to control the timing, neither too late nor too late.
-
-{{< navigation parent="/" next="/docs/chronologies/tacking_and_gybing" >}}

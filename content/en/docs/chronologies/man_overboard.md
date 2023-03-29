@@ -1,10 +1,12 @@
 ---
-title: "Man overboard"
+title: Man overboard
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/dematage"
+  - "/docs/chronologies"
 ---
-
-# Man overboard
-
 ## General
 Recovering a HLM is not a trivial task under any circumstances.
 
@@ -47,5 +49,3 @@ During the entire maneuver, gybing is avoided to prevent over-accidents.
 - If the HLM is conscious, prepare a piece of resalage to give him if you can't get him back.
 - Reassembling it often requires help. A HLM weighs its own weight plus the weight of its wet clothes: help it with its vest which should allow you to grab it by the shoulder straps.
 - Once on board: do a "health" check: cold, fear, ... Do not hesitate to return or take a break.
-
-{{< navigation previous="/docs/chronologies/dematage" parent="/docs/chronologies" >}}

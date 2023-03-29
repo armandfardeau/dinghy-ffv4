@@ -1,0 +1,7 @@
+<div class="bottom">
+    {{ partial "docs/navigation" . }}
+
+    {{ if .Params.display_share_buttons }}
+    {{ partial "docs/share-buttons.html" . }}
+    {{ end }}
+</div>

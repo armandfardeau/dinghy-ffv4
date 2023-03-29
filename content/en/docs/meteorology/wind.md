@@ -1,10 +1,13 @@
 ---
-title: "Wind"
+title: The wind
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/general_circulation"
+  - "/docs/meteorology"
+  - "/docs/meteorology/air_volumes"
 ---
-
-# The wind
-
 ## Balance of the winds
 {{< columns >}}
 Wind is a flow of air. It moves globally from high pressure to low pressure. The greater the difference (gradient) in pressure (for a given distance), the stronger the wind.
@@ -73,5 +76,3 @@ The Beaufort scale is a function of wind strength. In the past, it was an observ
 Force 6
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation previous="/docs/meteorology/general_circulation" parent="/docs/meteorology" next="/docs/meteorology/air_volumes" >}}

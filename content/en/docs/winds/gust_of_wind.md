@@ -1,8 +1,7 @@
 ---
-title: "Wind Gusts"
+title: Passing a reef
 weight: 3
 ---
-# Passing a reef
 
 A reef is an increase in the actual wind. This chart can be taken the other way around for the passage of a squall (but we try to avoid them). A strengthening wind (while remaining stable in direction) makes the apparent wind increase. The boat's objective is to take the most direct route.
 
@@ -31,6 +30,11 @@ Increasing force:
 
 * We **keep** the setting and **lower**.
 
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/winds/changing_speed_with_fixed_real_wind_speed"
+  - "/docs/winds"
 <--->
 Variable in direction:
 
@@ -40,5 +44,3 @@ Variable in direction:
 {{< /columns >}}
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< navigation previous="/docs/winds/changing_speed_with_fixed_real_wind_speed" parent="/docs/winds" >}}

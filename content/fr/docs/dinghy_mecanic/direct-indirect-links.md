@@ -1,10 +1,12 @@
 ---
 title: "Liaisons directes et indirectes"
 weight: 4
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic/balance"
+  - "/docs/dinghy_mecanic"
 ---
-
-# Liaisons directes et indirectes
-
 ## Liaisons directes
 {{< mermaid >}}
 stateDiagram
@@ -75,5 +77,3 @@ stateDiagram
 {{< figure caption="Virement bascule" src="../images/virement-bascule.jpeg" >}}
 
 Le virement bascule et l'empannage sont la première application du poids comme liaisons indirectes, en faisant giter le bateau, on force sa direction en limitant la trainée du safran
-
-{{< navigation previous="/docs/dinghy_mecanic/balance" parent="/docs/dinghy_mecanic" >}}

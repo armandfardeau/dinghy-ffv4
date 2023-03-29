@@ -1,9 +1,12 @@
 ---
 title: "Circulation générale"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology"
+  - "/docs/meteorology/wind"
 ---
-
-# Circulation générale
 
 ## Explication des différences de température sur la terre
 
@@ -52,5 +55,3 @@ Cette force tend à déplacer la particule vers sa droite dans l’hémisphe�
 {{< figure caption="Cellules atmosphère" src="../images/north-cells.png" >}}
 {{< /details >}}
 {{< /hint_with_class >}}
-
-{{< navigation parent="/docs/meteorology" next="/docs/meteorology/wind" >}}

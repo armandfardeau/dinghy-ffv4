@@ -1,10 +1,13 @@
 ---
-title: "Regatta flags"
+title: Regatta flags
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/regatta"
+  - "/docs/regatta/main_rules"
+  - "laylines"
 ---
-
-# Regatta flags
-
 The race committee symbolizes one end of the starting line - on land or at sea. The orange flag indicates that the line is anchored. A buoy establishes the other end.
 
 From one regatta to another, the duration of the starting procedure may vary. Most often, it is a countdown in minutes.
@@ -63,4 +66,3 @@ If several unidentifiable boats steal the start, the flag "First substitute" is 
 
 It is associated with two short sound signals.
 {{< /columns >}}
-{{< navigation parent="/docs/regatta" previous="/docs/regatta/main_rules" next="laylines" >}}

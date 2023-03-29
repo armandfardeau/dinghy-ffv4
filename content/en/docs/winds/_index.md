@@ -1,10 +1,12 @@
 ---
-title: "Winds"
+title: 💨 The winds
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/winds/changing_speed_with_fixed_real_wind_speed"
 ---
-
-# 💨 The winds
-
 The *meteorological* wind is not the wind we have when our dinghy is moving forward. The wind we touch, called apparent wind, will depend on the boat speed, the current and the meteorological wind.
 To represent the wind, we use a mathematical tool: the vector. Here are some of the characteristics of the vector that we'll use.
 
@@ -62,5 +64,3 @@ Change in wind direction **favorable** to the sailboat.
 Change in wind direction **unfavorable** to the sailboat
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< navigation parent="/" next="/docs/winds/changing_speed_with_fixed_real_wind_speed" >}}

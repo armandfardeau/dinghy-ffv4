@@ -1,10 +1,11 @@
 ---
 title: "Appendix: Recognizing clouds"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# Appendix: Recognizing clouds"
-
 A distinction is made between layered or stratiform clouds and ball or cumuliform clouds.
 
 On the altitude side, the names of the highest clouds are composed with the prefix "**cirro**", those of medium altitude with the prefix "**alto**":
@@ -51,5 +52,3 @@ The different cloud genera themselves encompass several subcategories that furth
 ## Cirrus (Ci)
 {{< figure caption="A cirrus cloud has the shape of a set of white and delicate filaments or of banks and narrow bands" src="../images/Cirrus.jpg" >}}
 {{< figure caption="Cirrus clouds can have blurred contours" src="../images/Cirrus_2.jpg" >}}
-
-{{< navigation parent="/" >}}

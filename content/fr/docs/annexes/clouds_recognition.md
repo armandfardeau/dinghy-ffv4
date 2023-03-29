@@ -1,10 +1,11 @@
 ---
 title: "Annexe: Reconnaître les nuages"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# Annexe: Reconnaître les nuages"
-
 On distingue les nuages en couche ou stratiformes et les nuages en boule ou cumuliforme.
 
 Côté altitude, les noms des nuages les plus élevés se composent avec le préfixe « **cirro** », ceux d'altitude moyenne avec le préfixe « **alto** » :
@@ -52,4 +53,4 @@ Les différents genres de nuages englobent eux-mêmes plusieurs sous-catégories
 {{< figure caption="Un cirrus a la forme d'un ensemble de filaments blancs et délicats ou de bancs et bandes étroites" src="../images/Cirrus.jpg" >}}
 {{< figure caption="Les cirrus peuvent avoir des contours flous" src="../images/Cirrus_2.jpg" >}}
 
-{{< navigation parent="/" >}}
+

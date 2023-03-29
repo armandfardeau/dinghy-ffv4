@@ -1,10 +1,13 @@
 ---
-title: "Frontology"
+title: Frontology
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/clouds"
+  - "/docs/meteorology"
+  - "/docs/meteorology/weather_associated_with_a_perturbation"
 ---
-
-# Frontology
-
 ## The front
 A front is a region of the troposphere constituting a dynamic and thermal transition zone between two air masses with different characteristics (Source: Météo-France).
 
@@ -58,5 +61,3 @@ Stationary fronts form when two air masses with different characteristics meet b
 
 ## Disturbance seen from above
 {{< figure caption="Perturbation seen from above" src="../images/perturbation-skyview.jpg" >}}
-
-{{< navigation previous="/docs/meteorology/clouds" parent="/docs/meteorology" next="/docs/meteorology/weather_associated_with_a_perturbation" >}}

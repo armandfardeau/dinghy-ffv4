@@ -1,10 +1,13 @@
 ---
 title: "Les pavillons de régates"
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/regatta"
+  - "/docs/regatta/main_rules"
+  - "laylines"
 ---
-
-# Les pavillons de régates
-
 Le comité de course symbolise une des extrémités de la ligne de départ - à terre ou en mer. Le pavillon orange indique que la ligne est mouillée. Une bouée établit l'autre extrémité.
 
 D'une régate à l'autre, la durée de la procédure de départ peut varier. Le plus souvent, c'est un décompte en minutes.
@@ -63,4 +66,3 @@ Si plusieurs bateaux non identifiables volent le départ, le pavillon "Premier s
 
 Il est associé de deux signaux sonore court.
 {{< /columns >}}
-{{< navigation parent="/docs/regatta" previous="/docs/regatta/main_rules" next="laylines" >}}

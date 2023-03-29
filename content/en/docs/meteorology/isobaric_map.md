@@ -1,10 +1,13 @@
 ---
-title: "Isobaric map"
+title: Isobaric map
 weight: 7
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/weather_associated_with_a_perturbation"
+  - "/docs/meteorology"
+  - "/docs/meteorology/local_weather"
 ---
-
-# Isobaric map
-
 ## Presentation
 
 The isobaric map represents the current or forecasted barometric situation with the position of the fronts. There are several types of maps: the surface map (which represents the pressure at sea level) and the altitude maps (representing the geopotential altitude at a given pressure), however the altitude maps are more complex to interpret. A surface isobaric map can be plotted, that is, with wind and pressure readings.
@@ -64,5 +67,3 @@ Warm front - Cold front - Occluded front - High - Low
 {{< /details>}}
 
 {{< /hint_with_class>}}
-
-{{< navigation previous="/docs/meteorology/weather_associated_with_a_perturbation" parent="/docs/meteorology" next="/docs/meteorology/local_weather" >}}

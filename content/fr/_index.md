@@ -2,9 +2,9 @@
 title: Cours théorique Niveau 4 FFV
 type: docs
 BookToC: false
+display_reading_time: false
+display_share_buttons: true
 ---
-# Cours théorique Niveau 4 FFV
-
 {{< figure caption="Laséristes en compétition au portugal" src="images/laser-solo.jpg" >}}
 
 Table des matières :

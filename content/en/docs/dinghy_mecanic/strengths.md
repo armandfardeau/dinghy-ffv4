@@ -1,10 +1,13 @@
 ---
-title: "Forces"
+title: Forces
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic/flows"
+  - "/docs/dinghy_mecanic"
+  - "/docs/dinghy_mecanic/balance"
 ---
-
-# Forces
-
 ## Aerodynamic force / velocity force
 
 ### Component of the velocity force
@@ -52,5 +55,3 @@ The weight is the mass of the boat and its crew subjected to the earth's gravity
 
 - The weight is vertical and applies to the center of gravity ({{< katex >}}CG{{< /katex >}}) of the system: boat + crew.
 - The buoyancy is applied at the center of buoyancy ({{< katex >}}CC{{< /katex >}}): center of gravity of the immersed parts.
-
-{{< navigation previous="/docs/dinghy_mecanic/flows" parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/balance" >}}

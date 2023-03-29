@@ -1,0 +1,8 @@
+{{ $seconds := mul (div (countwords .Content) 100) 25 }}
+{{ $count := math.Round (div $seconds 60) }}
+
+{{ if gt $count 2 }}
+    {{ i18n "reading_time_plural" $count }}
+{{ else }}
+    {{ i18n "reading_time_singular" $count }}
+{{ end }}

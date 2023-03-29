@@ -1,8 +1,13 @@
 ---
-title: "Weather Report"
+title: The weather report
 weight: 9
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/waves_and_swell"
+  - "/docs/meteorology"
+  - "/docs/meteorology/weather_models"
 ---
-# The weather report
 
 In order to help the sailor know what the weather will be like, each country is required to have a weather service. MétéoFrance issues weather reports on a regular basis (see MétéoFranceMarine Guide).
 
@@ -25,5 +30,3 @@ It is also available on the Internet. The structure is always the same:
 - Date and time of the next bulletin
 
 When taking a written bulletin, since the flow is important, consider a pre-filled sheet and use abbreviations.
-
-{{< navigation previous="/docs/meteorology/waves_and_swell" parent="/docs/meteorology" next="/docs/meteorology/weather_models" >}}

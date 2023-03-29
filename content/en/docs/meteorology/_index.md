@@ -1,10 +1,12 @@
 ---
 weight: 1
-title: "Weather forecast"
+title: "🌦 Weather forecast"
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/meteorology/general_circulation"
 ---
-
-# 🌦 Weather forecast
-
 ## The variables
 
 In meteorology, three variables are used: **pressure**, **humidity** and **temperature**. Air is a very bad thermal conductor and mixes badly. We speak of an air mass; a volume of air where the temperature and humidity are uniform.
@@ -56,7 +58,7 @@ Two air masses with different properties (temperatures and humidities) do not mi
 {{< figure caption="Mollier diagram" src="images/mollier-diagrams.png" >}}
 {{< /columns >}}
 
-# The atmosphere
+## The atmosphere
 {{< columns >}}
 {{< figure caption="Digram atmosphere" src="images/atmosphere.png" >}}
 <--->
@@ -80,5 +82,3 @@ The characteristics of the troposphere are :
 
 - Variable thickness around 12km. Varies according to the season and location: 8 km at the poles to 15 km at the equator.
 - Regular drop in temperature: 6.5 ° C per km.
-
-{{< navigation parent="/" next="/docs/meteorology/general_circulation" >}}

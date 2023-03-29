@@ -1,0 +1,8 @@
+<div class="top">
+    {{ if .Params.title }}
+    <h1 id="{{ .Title | anchorize }}">{{ .Title }}</h1>
+    {{ end }}
+    {{ if .Params.display_reading_time }}
+        <span class="reading_time">{{ partial "docs/reading_time.html" . }}</span>
+    {{ end }}
+</div>
