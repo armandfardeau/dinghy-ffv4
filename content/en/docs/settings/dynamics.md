@@ -1,10 +1,13 @@
 ---
-title: "Dynamic settings"
+title: The dynamic settings
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/settings/statics"
+  - "/docs/settings"
+  - "/docs/settings/positions"
 ---
-
-# The dynamic settings
-
 ## Listening
 
 {{< hint info >}}
@@ -201,5 +204,3 @@ In gusty winds, it can be useful to tighten the abseiling strap in order to gain
 ## Video synthesis
 
 {{< youtubestart wprWARXm8QM 0 >}}
-
-{{< navigation previous="/docs/settings/statics" parent="/docs/settings" next="/docs/settings/positions" >}}

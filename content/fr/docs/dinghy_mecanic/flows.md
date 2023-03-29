@@ -1,10 +1,12 @@
 ---
 title: "Les écoulements"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic"
+  - "/docs/dinghy_mecanic/strengths"
 ---
-
-# Les écoulements
-
 Un écoulement est le déplacement d’un fluide. Une ligne de courant est la matérialisation du déplacement du fluide dans un écoulement.
 
 Il existe 2 types d’écoulements:
@@ -61,5 +63,3 @@ En situation normale, l'écoulement de l'air est « attaché » sur les deux fac
 {{< /columns >}}
 Une voile correctement bordé génère une portance permettant le déplacement.
 Une voile bordée en excès génère un écoulement turbulent, la portance est alors inférieure à la trainée, le bateau n'avance plus.
-
-{{< navigation parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/strengths" >}}

@@ -1,10 +1,13 @@
 ---
 title: "L'abattée à la bouée"
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/tacking_and_gybing"
+  - "/docs/chronologies"
+  - "/docs/chronologies/oloffee"
 ---
-
-# L'abattée à la bouée
-
 ## Chronologie
 {{< columns >}}
 {{< figure caption="Abattée à la bouée" src="../images/abattee.png" >}}
@@ -30,5 +33,3 @@ Penser à serrer la bouée à la manière d'un pilote de Formule 1 : avec une en
 Sur cette vidéo on peut voir la stratégie du passage à la bouée au vent, on constate que le placement et l'angle du virage sont primordiaux pour à la fois conserver la vitesse et disposer d'air frais.
 
 {{< youtubestart DhiWPdatgOQ 6 >}}
-
-{{< navigation previous="/docs/chronologies/tacking_and_gybing" parent="/docs/chronologies" next="/docs/chronologies/oloffee" >}}

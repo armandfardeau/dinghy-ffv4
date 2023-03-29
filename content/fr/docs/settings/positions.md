@@ -1,10 +1,12 @@
 ---
 title: "Position de l'équipage"
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/settings/dynamics"
+  - "/docs/settings"
 ---
-
-# Position de l'équipage
-
 La position de l'équipage est fondalement importante pour la performance du dériveur. Il est donc important de bien la
 régler.
 
@@ -15,5 +17,3 @@ régler.
 |        Travers         |         Centré         |      A plat       |
 |        Portant         |     vers l'arrière     |    Contre gité    |
 | Portant  (petit temps) |     vers l'arrière     |      A plat       |
-
-{{< navigation previous="/docs/settings/dynamics" parent="/docs/settings" >}}

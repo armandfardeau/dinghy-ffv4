@@ -1,10 +1,7 @@
 ---
-title: "Appendix: Anchoring your safety boat"
+title: "Dinghy: Anchoring your safety boat"
 weight: 6
 ---
-
-# Dinghy: Anchoring your safety boat
-
 To anchor your boat, you generally have two moorings:
 
 - A main anchor, heavy, at the front, consisting of an anchor with its chain and line, a line struck at the front of the boat.
@@ -25,10 +22,12 @@ Brief chronology of the safety boat anchorage:
 
 {{< columns >}}
 {{< figure caption="Sea wind anchorage" src="../images/vent-mer.png" >}}
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 <--->
 {{< figure caption="Anchorage by land wind" src="../images/vent-terre.png" >}}
 {{< /columns >}}
 
 {{< figure caption="Anchoring in a parallel wind" src="../images/vent-parallele.png" >}}
-
-{{< navigation parent="/" >}}

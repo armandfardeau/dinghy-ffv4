@@ -1,3 +1,9 @@
+- id: share_buttons_title
+  translation: Partager sur les réseaux sociaux
+- id: reading_time_singular
+  translation: "Temps de lecture: {{ . }} minute environ"
+- id: reading_time_plural
+  translation: "Temps de lecture: {{ . }} minutes environ"
 - id: Add an issue
   translation: Signaler un élément incorrect
 - id: level_1_title

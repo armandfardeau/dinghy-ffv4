@@ -1,10 +1,12 @@
 ---
-title: "La régate"
+title: "🏁 La régate"
 weight: 1
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
+  - "/docs/regatta/getting_off_to_a_good_start"
 ---
-
-# 🏁 La régate
-
 Une régate est une course de vitesse entre plusieurs bateaux, sur un parcours fermé.
 Il existe deux grandes catégories de régates à la voile : la « régate en flotte », la plus répandue, et le « match racing », où seulement deux navires s'affrontent. Nous ne traiterons pas de ce dernier.
 
@@ -83,5 +85,3 @@ En résumé :
 
 {{< /tab >}}
 {{< /tabs >}}
-
-{{< navigation parent="/" next="/docs/regatta/getting_off_to_a_good_start" >}}

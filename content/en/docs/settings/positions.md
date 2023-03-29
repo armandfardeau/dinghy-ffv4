@@ -1,10 +1,12 @@
 ---
-title: "Position of the crew"
+title: Position of the crew
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/settings/dynamics"
+  - "/docs/settings"
 ---
-
-# Position of the crew
-
 The crew position is fundamentally important for the performance of the dinghy. It is therefore important to set it
 correctly.
 
@@ -15,5 +17,3 @@ correctly.
 |         Beam Reaching          |       Centered       |         Flat          |
 |       Breeze on the back       |       Backward       |    Counter-heeled     |
 | Breeze on the back (light air) |       Backward       |         Flat          |
-
-{{< navigation previous="/docs/settings/dynamics" parent="/docs/settings" >}}

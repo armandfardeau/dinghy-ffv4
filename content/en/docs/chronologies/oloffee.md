@@ -1,13 +1,16 @@
 ---
-title: "Oloffee at the buoy"
+title: Oloffee at the buoy
 weight: 3
 ---
-
-# Oloffee at the buoy
-
 ## Chronology
 {{< columns >}}
 {{< figure caption="Oloffee at the Buoy" src="../images/oloffee.png" >}}
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/abattee"
+  - "/docs/chronologies"
+  - "/docs/chronologies/resalage"
 <--->
 
 1. Descent:
@@ -30,5 +33,3 @@ Remember to tighten the buoy like a Formula 1 driver: with a too tight turn entr
 On this video we can see the strategy of the passage to the leeward buoy, we can see that the placement and the angle of the turn are essential to both maintain speed and have fresh air.
 
 {{< youtubestart N8UwkLrcwJ8 4 >}}
-
-{{< navigation previous="/docs/chronologies/abattee" parent="/docs/chronologies" next="/docs/chronologies/resalage" >}}

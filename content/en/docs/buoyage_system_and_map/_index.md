@@ -1,10 +1,7 @@
 ---
-title: "Wayfinding and map"
+title: 🗺 Markup and map
 weight: 1
 ---
-
-# 🗺 Markup and map
-
 ## Lateral marks
 The side markers are used to mark the channels reserved for sailboats and boats. **Their direction is always given for a vehicle coming from the open sea to the harbor.
 

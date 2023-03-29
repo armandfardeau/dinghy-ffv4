@@ -1,10 +1,13 @@
 ---
 title: "Les équilibres"
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic/strengths"
+  - "/docs/dinghy_mecanic"
+  - "/docs/dinghy_mecanic/direct-indirect-links"
 ---
-
-# Les équilibres
-
 ## Les équilibres statiques
 
 ### Le centre de gravité
@@ -111,5 +114,3 @@ Si par petit temps, mieux vaut un peu de gîte, c’est pour aider les voiles à
 |       Abaisser la dérive       |         Dérive         |      Relever la dérive       |
 |        Avancer le poids        | Assiette longitudinale |      Reculer les poids       |
 |       Donner de la gîte        |   Assiette latérale    |   Donner de la contre-gîte   |
-
-{{< navigation previous="/docs/dinghy_mecanic/strengths" parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/direct-indirect-links" >}}

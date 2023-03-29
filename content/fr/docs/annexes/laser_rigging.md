@@ -1,9 +1,9 @@
 ---
 title: "Annexe: Gréer un laser"
 weight: 2
+display_reading_time: true
+display_share_buttons: true
 ---
-
-# Annexe: Gréer un laser
 {{< youtubestart W70wB8JJH4E 98 >}}
 
 ## Préparer la voile
@@ -60,4 +60,4 @@ weight: 2
 * À terre, le hale-bas est toujours choqué et la bordure reprise pour retirer de la puissance à la voile, cela permettra de limiter l'usure prématurée de la voile
 * Descendre le safran et la dérive qu'en eau sûre, il est aisé de les endommager
 
-{{< navigation parent="/" >}}
+

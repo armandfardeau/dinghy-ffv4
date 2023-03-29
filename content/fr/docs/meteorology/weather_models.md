@@ -1,10 +1,12 @@
 ---
 title: "Modèles méteo"
 weight: 9
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/weather_report"
+  - "/docs/meteorology"
 ---
-
-# Modèles méteo
-
 Les modèles météorologiques sont des outils qui permettent de prédire l'évolution du temps dans le futur.
 
 Ils sont basés sur des calculs mathématiques complexes qui prennent en compte les conditions actuelles et les prévisions de vent et de vagues.
@@ -140,5 +142,3 @@ En revanche les directions sont similaires.
 {{< figure caption="Modèle Arôme 1,3KM" src="../images/arome-windy-previ.png" >}}
 {{< /columns >}}
 On peut supposer que la présence d'un vent de terre (vent de sud-ouest) a influencé la prévision du modèle GFS qui ne prend pas en compte aussi précisement l'atténuation de la côte.
-
-{{< navigation previous="/docs/meteorology/weather_report" parent="/docs/meteorology" >}}

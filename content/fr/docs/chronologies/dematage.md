@@ -1,9 +1,13 @@
 ---
 title: "Remorquage à la voile après un démâtage"
 weight: 6
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies/mast_grabbing"
+  - "/docs/chronologies"
+  - "/docs/chronologies/man_overboard"
 ---
-
-# Remorquage à la voile après un démâtage
 
 Il arrive que le dériveur démâte, cela peut arriver suite à une casse du mat (sur le laser au niveau du manchon) ou d'une casse du pied de mat. Dans tous les cas, c'est impressionnant et ne doit pas être pris à la légère.
 
@@ -31,5 +35,3 @@ Commencer le remorquage :
 - Si le vent est fort : naviguer à vitesse réduite. Le matériel n’est pas fait pour encaisser ce genre d'efforts à répétitions.
 - En règle générale, toutes les manœuvres sont inchangées, il faut prendre plus d’espace pour les faire et être plus franc sur les relances.
 - En cas d’arrivée de plage dans les rouleaux, décrocher la remorque avant et le bateau remorqué finir à la pagaie.
-
-{{< navigation previous="/docs/chronologies/mast_grabbing" parent="/docs/chronologies" next="/docs/chronologies/man_overboard" >}}

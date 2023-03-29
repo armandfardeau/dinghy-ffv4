@@ -1,10 +1,11 @@
 ---
-title: "proper use of a motorboat"
+title: The proper use of a motorboat
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/"
 ---
-
-# The proper use of a motorboat
-
 ## Before starting the engine
 ### Do a check-up of the boat
 
@@ -46,5 +47,3 @@ weight: 5
 The engine should always be started before releasing the boot or raising the main anchor. Even for an intervention, and especially in this case, be rigorous in the check-up and stowage of the boat: if you leave with an unstowed boat, you run the risk of being impeded during your intervention.
 
 **Tidy up the boat before leaving it: it will always be ready**.
-
-{{< navigation parent="/" >}}

@@ -1,10 +1,7 @@
 ---
-title: "Sea level calculation"
+title: Calculation of the water level
 weight: 2
 ---
-
-# Calculation of the water level
-
 The interest for the sailor is to know if there is enough water to sail. Even with a shallow draft, it is good to know where you can pass or not. This can allow you to make a short cut or to manage a sensitive channel.
 
 It is imperative to remain critical of the calculations and verify them empirically. A frequent error is the inversion between rising and falling tide.

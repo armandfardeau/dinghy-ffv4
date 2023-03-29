@@ -1,6 +1,12 @@
 ---
 title: "Principales règles"
 weight: 2
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/regatta"
+  - "/docs/regatta/getting_off_to_a_good_start"
+  - "/docs/regatta/flags"
 ---
 
 # Principales règles
@@ -53,5 +59,3 @@ Un voilier lorsqu'il acquiert la priorité doit laisser le temps et la place à 
 ### Règle 42 - Règle de propulsion
 
 Tout moyens de propulsion en dehors du vent et de l'eau sont interdits.
-
-{{< navigation parent="/docs/regatta" previous="/docs/regatta/getting_off_to_a_good_start" next="/docs/regatta/flags" >}}

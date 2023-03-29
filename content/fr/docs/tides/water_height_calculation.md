@@ -1,10 +1,9 @@
 ---
 title: "Calcul de la hauteur d'eau"
 weight: 2
+navigation:
+  - "/docs/tides"
 ---
-
-# Calcul de la hauteur d'eau
-
 L’intérêt pour le marin est de savoir si on a assez d’eau pour naviguer. Même avec un faible tirant d’eau, il est bon de savoir ou l’on peut passer ou pas. Cela peut permettre de faire du rase cailloux ou bien encore de gérer une passe sensible.
 
 Il faut impérativement rester critique face aux calculs et les vérifier empiriquement. Une erreur fréquente est l'inversion entre marée montante et descendante.
@@ -145,5 +144,3 @@ La pression atmosphérique modifie la hauteur de la mer:
 * Enlever 10cm pour 10hPa en conditionanti dépressionnaire
 
 Un vent de mer fort et constant peut entraîner une hausse du niveau de la mer jusqu'à un mètre.
-
-{{< navigation parent="/docs/tides" >}}

@@ -1,10 +1,13 @@
 ---
-title: "Balances"
+title: The balances
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/dinghy_mecanic/strengths"
+  - "/docs/dinghy_mecanic"
+  - "/docs/dinghy_mecanic/direct-indirect-links"
 ---
-
-# The balances
-
 ## Static balances
 
 ### The center of gravity
@@ -111,5 +114,3 @@ If in light weather, it is better to have a little heel, it is to help the sails
 |     Decrease daggerboard     |     Daggerboard      |      Increase daggerboard      |
 |     Move weight forward      | longitudinal balance |      Move weight backward      |
 |      Increase boat list      |   lateral balance    |   Increase boat counter-list   |
-
-{{< navigation previous="/docs/dinghy_mecanic/strengths" parent="/docs/dinghy_mecanic" next="/docs/dinghy_mecanic/direct-indirect-links" >}}

@@ -1,10 +1,12 @@
 ---
 title: "Virement et Empannage"
 weight: 3
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/chronologies"
+  - "/docs/chronologies/abattee"
 ---
-
-# Virement et Empannage
-
 Le virement et l'empannage sont les manoeuvres élémentaires du dériveur. On différencie les manoeuvres classiques et les manoeuvres bascules. La bascule consiste en l'exagération de ce qui se fait naturellement par vent fort. Il vous suffit de reproduire ce mouvement.
 
 ## Virement
@@ -64,5 +66,3 @@ L'empannage bascule permet de conserver de la vitesse dans un vent léger.
 5. Tirer sur l'écoute pour éviter qu'elle ne se coince dans le tableau arrière (chasse d'eau) tout en repassant sur l'autre bord.
 5. Se replacer rapidement de l'autre côté et remettre le bateau à plat d'un coup.
 6. Changer de mains
-
-{{< navigation parent="/docs/chronologies" next="/docs/chronologies/abattee" >}}

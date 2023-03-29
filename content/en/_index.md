@@ -3,7 +3,6 @@ title: Theoretical course Level 4 FFV
 type: docs
 BookToC: false
 ---
-# Theoretical course Level 4 FFV
 
 {{< figure caption="Lasers in competition in Portugal" src="images/laser-solo.jpg" >}}
 

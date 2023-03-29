@@ -1,8 +1,13 @@
 ---
 title: "Frontologie"
 weight: 5
+display_reading_time: true
+display_share_buttons: true
+navigation:
+  - "/docs/meteorology/clouds"
+  - "/docs/meteorology"
+  - "/docs/meteorology/weather_associated_with_a_perturbation"
 ---
-
 # Frontologie
 
 ## Le front
@@ -58,5 +63,3 @@ Les fronts stationnaires se forment quand deux masses d’air ayant des caracté
 
 ## Perturbation vue du haut
 {{< figure caption="Perturbation vue du haut" src="../images/perturbation-skyview.jpg" >}}
-
-{{< navigation previous="/docs/meteorology/clouds" parent="/docs/meteorology" next="/docs/meteorology/weather_associated_with_a_perturbation" >}}
