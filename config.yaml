@@ -45,7 +45,7 @@ menu:
 
 params:
   images:
-   - "/images/laser-solo.jpg"
+   - "/static/opengraph.png"
   description: "Site regroupant les ressources théoriques pour préparer le passage du niveau 4 de la fédération française de voile"
   gSearchConsole: "mdCc1B8vLVV2Pra03Jc3C9_e3GEGg8CuxJv2IlHFSwU"
   gAdClient: "ca-pub-1575081840371733"
