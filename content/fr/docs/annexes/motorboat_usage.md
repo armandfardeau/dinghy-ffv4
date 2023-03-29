@@ -47,4 +47,3 @@ navigation:
 Le démarrage du moteur se fait toujours avant de lâcher le coffre ou de remonter le mouillage principal. Même pour une intervention, et surtout dans ce cas, soyez rigoureux dans le check-up et le rangement du bateau : si vous partez avec un bateau non rangé, vous prenez le risque d’être gêné lors de votre intervention.
 
 **Rangez le bateau avant de le quitter : il sera toujours prêt**
-

@@ -32,7 +32,3 @@ Chronologie sommaire du mouillage de bateau de sécurité:
 {{< /columns >}}
 
 {{< figure caption="Mouillage en cas de vent parallèle" src="../images/vent-parallele.png" >}}
-
-
-
-

@@ -59,5 +59,3 @@ display_share_buttons: true
 
 * À terre, le hale-bas est toujours choqué et la bordure reprise pour retirer de la puissance à la voile, cela permettra de limiter l'usure prématurée de la voile
 * Descendre le safran et la dérive qu'en eau sûre, il est aisé de les endommager
-
-

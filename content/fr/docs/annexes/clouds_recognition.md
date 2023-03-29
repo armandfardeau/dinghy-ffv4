@@ -52,5 +52,3 @@ Les différents genres de nuages englobent eux-mêmes plusieurs sous-catégories
 ## Cirrus (Ci)
 {{< figure caption="Un cirrus a la forme d'un ensemble de filaments blancs et délicats ou de bancs et bandes étroites" src="../images/Cirrus.jpg" >}}
 {{< figure caption="Les cirrus peuvent avoir des contours flous" src="../images/Cirrus_2.jpg" >}}
-
-
