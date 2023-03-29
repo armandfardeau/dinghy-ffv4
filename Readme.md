@@ -1,4 +1,4 @@
-![CI-CD](https://github.com/armandfardeau/dinghy-ffv4/actions/workflows/ci_cd.yml/badge.svg?branch=master)
+![CI-CD](https://github.com/armandfardeau/dinghy-ffv4/actions/workflows/ci_cd.yml/badge.svg?branch=main)
 ![Version](https://img.shields.io/github/v/tag/armandfardeau/dinghy-ffv4?color=32c753&label=Version&logo=Version&logoColor=2b3236&sort=semver)
 
 This project is done with Hugo cms and aims to help prepare the passage of level 4 of the French sailing federation.
