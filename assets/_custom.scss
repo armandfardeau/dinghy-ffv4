@@ -69,10 +69,12 @@ figure {
   justify-content: space-between;
   align-items: center;
   flex-direction: row;
+  flex-wrap: wrap;
 
   .reading_time {
     font-style: italic;
     font-size: 0.875rem;
+    max-width: 40%;
   }
 }
 
