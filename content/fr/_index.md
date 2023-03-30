@@ -20,6 +20,6 @@ Table des matières :
 
 Ce cours théorique s'inspire du travail d'Antoine Rogues pour l'[ex niveau 5 ffv en catamaran](http://glenans.arogues.org/niveau5.pdf).
 
-Ce support ne saurait remplacer un apprentissage auprès de moniteurs compétents, il est le fruit d'opinions qui doivent être critiquées, remises en question et enrichies de vos expériences.
+Ce support ne saurait remplacer un apprentissage auprès de monitrices et moniteurs compétents, il est le fruit d'opinions qui doivent être critiquées, remises en question et enrichies de vos expériences.
 
 Remerciements chaleureux à ceux qui ont contribué à ce guide.
