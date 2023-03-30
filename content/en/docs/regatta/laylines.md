@@ -4,8 +4,8 @@ weight: 4
 display_reading_time: true
 display_share_buttons: true
 navigation:
-  - "/docs/regatta"
   - "/docs/regatta/flags"
+  - "/docs/regatta"
 ---
 ## The frame
 During a regatta you can imagine a diamond between the windward and the leeward buoy: the frame.

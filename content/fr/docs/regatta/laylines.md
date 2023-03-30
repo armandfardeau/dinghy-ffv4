@@ -4,8 +4,8 @@ weight: 4
 display_reading_time: true
 display_share_buttons: true
 navigation:
-  - "/docs/regatta"
   - "/docs/regatta/flags"
+  - "/docs/regatta"
 ---
 ## Le cadre
 Lors d'une régate on peut imaginer un losange entre la bouée au vent et la bouée sous le vent: le cadre.
