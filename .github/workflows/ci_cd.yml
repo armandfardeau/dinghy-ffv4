@@ -14,6 +14,7 @@ jobs:
       - name: Run linter
         run: mdl -r ~MD033,~MD007,~MD013,~MD022,~MD036,~MD029,~MD022,~MD002,~MD032,~MD047 content/**/*.md
   bump_version:
+    needs: [ lint ]
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
@@ -26,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WITH_V: true
   deploy:
-    needs: [ lint, bump_version ]
+    needs: [ bump_version ]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
