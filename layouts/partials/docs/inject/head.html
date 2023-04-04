@@ -7,5 +7,19 @@
         crossorigin="anonymous"></script>
 {{ end }}
 
+{{ if .Site.Params.hotjarSiteId }}
+<!-- Hotjar Tracking Code for Dinghy-FFV4 -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:{{ .Site.Params.hotjarSiteId }},hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+{{ end }}
+
 {{- $dJS := resources.Get "details.js" | resources.ExecuteAsTemplate "details.js" . | resources.Minify | resources.Fingerprint }}
 <script defer src="{{ $dJS.RelPermalink }}" integrity="{{ $dJS.Data.Integrity }}"></script>
