@@ -1,3 +1,5 @@
+- id: bottom_navigation
+  translation: "Already finished? Try:"
 - id: share_buttons_title
   translation: Share this page on social networks
 - id: reading_time_singular

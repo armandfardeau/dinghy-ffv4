@@ -1,11 +1,14 @@
 {{ if .Page.Params.Navigation }}
+<div class="nav-wrapper">
+    <h5>{{ i18n "bottom_navigation" }}</h5>
     <nav>
         {{ range .Page.Params.navigation }}
-            {{ with $.Site.GetPage . }}
-            <a class="book-btn" href="{{ .RelPermalink }}">
-                <span>{{ .Title }}</span>
-            </a>
-            {{ end }}
+        {{ with $.Site.GetPage . }}
+        <a class="book-btn" href="{{ .RelPermalink }}">
+            <span>{{ .Title }}</span>
+        </a>
+        {{ end }}
         {{ end }}
     </nav>
+</div>
 {{ end }}
