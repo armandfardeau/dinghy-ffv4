@@ -1,8 +1,13 @@
 <div class="top">
-    {{ if .Params.title }}
-    <h1 id="{{ .Title | anchorize }}">{{ .Title }}</h1>
-    {{ end }}
+    <div class="intro">
+        {{ if .Params.title }}
+        <h1 id="{{ .Title | anchorize }}">{{ .Title }}</h1>
+        {{ end }}
+        {{ if .Params.subtitle }}
+        <p>{{ .Params.subtitle }}</p>
+        {{ end }}
+    </div>
     {{ if .Params.display_reading_time }}
-        <span class="reading_time">{{ partial "docs/reading_time.html" . }}</span>
+    <span class="reading_time">{{ partial "docs/reading_time.html" . }}</span>
     {{ end }}
 </div>

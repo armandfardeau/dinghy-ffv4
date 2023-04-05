@@ -1,5 +1,6 @@
 ---
 title: Cours théorique Niveau 4 FFV
+subtitle: "Vous voulez progresser en voile légère ? C'est par ici! 👇"
 type: docs
 BookToC: false
 display_reading_time: false

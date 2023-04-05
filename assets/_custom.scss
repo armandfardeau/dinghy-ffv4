@@ -66,16 +66,22 @@ figure {
 
 .top {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   flex-direction: row;
   flex-wrap: wrap;
   margin-bottom: 2rem;
 
+  .intro{
+    display: flex;
+    flex-direction: column;
+  }
+
   .reading_time {
     font-style: italic;
     font-size: 0.875rem;
     max-width: 40%;
+    text-align: center;
   }
 }
 
@@ -209,6 +215,21 @@ figure {
       color: $white;
       background-color: rgba($blue, 0.5);
       transform: scale(1.05);
+    }
+  }
+}
+
+
+.book-header {
+  .book-brand{
+    a{
+      color: $black;
+    }
+  }
+  label {
+    img {
+      height: 32px;
+      width: auto;
     }
   }
 }
