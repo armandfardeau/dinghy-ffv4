@@ -170,3 +170,45 @@ figure {
     }
   }
 }
+
+.home_menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  align-items: stretch;
+
+  .book-btn {
+    font-weight: bold;
+    font-size: .875rem;
+    color: $blue;
+    line-height: 2rem;
+    border: 1px solid $blue;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    display: flex !important;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem !important;
+    transition: .2s ease-in-out;
+
+    margin-top: 1rem;
+
+    &:first-of-type {
+      margin: 0 0 0 0;
+    }
+
+    @media (max-width: 576px) {
+      line-height: 1.2rem !important;
+    }
+
+    &:hover {
+      color: $white;
+      background-color: rgba($blue, 0.5);
+      transform: scale(1.05);
+    }
+  }
+}
