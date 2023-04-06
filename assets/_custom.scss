@@ -3,6 +3,22 @@
 // @import "plugins/numbered";
 // @import "plugins/scrollbars";
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+.markdown {
+  h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+}
 
 .book-columns {
   align-items: center;
@@ -72,7 +88,7 @@ figure {
   flex-wrap: wrap;
   margin-bottom: 2rem;
 
-  .intro{
+  .intro {
     display: flex;
     flex-direction: column;
   }
@@ -221,11 +237,12 @@ figure {
 
 
 .book-header {
-  .book-brand{
-    a{
+  .book-brand {
+    a {
       color: $black;
     }
   }
+
   label {
     img {
       height: 32px;
