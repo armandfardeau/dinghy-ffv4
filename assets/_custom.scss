@@ -139,6 +139,10 @@ figure {
 
         &:first-of-type {
           margin: 0 1rem 0 0;
+          &::before {
+            content: "⬅️";
+            margin-right: 0.5rem;
+          }
         }
 
         &:nth-child(2) {
@@ -147,6 +151,10 @@ figure {
 
         &:last-of-type {
           margin: 0 0 0 0;
+          &::after {
+            content: "➡️";
+            margin-left: 0.5rem;
+          }
         }
 
         @media (max-width: 576px) {
