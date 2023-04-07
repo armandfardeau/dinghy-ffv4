@@ -31,7 +31,7 @@ Une fois le front chaud passé, on entre dans le secteur chaud, la zone d'air do
 {{< columns >}}
 L'air froid se déplace vers un air plus chaud.
 Le front froid est donc un front de descente car il fait se soulèver l'air au contact de la masse froide.
-IL est de courte distance et il est facile de noter avec précision le moment de son passage.
+Il est de courte distance et il est facile de noter avec précision le moment de son passage.
 Il est propice à donner de fortes rafales de vent.
 L'air chaud créé un nuage d'élévation. (Nuage de type Cumulonimbus **Cb**)
 <--->
