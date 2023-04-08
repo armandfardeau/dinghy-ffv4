@@ -19,7 +19,7 @@ Le vent est un flux d’air. Il se déplace globalement des hautes pressions ve
 
 ## Influence de la force de Coriolis
 {{< columns >}}
-{{< figure caption="Carte isobarique" src="../images/isobaric-map.jpg" >}}
+{{< figure caption="Carte isobarique" src="../images/isobaric-map-coriolis.jpg" >}}
 <--->
 Le vent se déplace parallèlement aux isobares (sans tenir compte des frottements): c’est le vent géostrophique : équilibre entre les forces de pression et la force de Coriolis.
 

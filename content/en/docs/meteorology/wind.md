@@ -19,7 +19,7 @@ Wind is a flow of air. It moves globally from high pressure to low pressure. The
 
 ## Influence of the Coriolis force
 {{< columns >}}
-{{< figure caption="Isobaric map" src="../images/isobaric-map.jpg" >}}
+{{< figure caption="Isobaric map" src="../images/isobaric-map-coriolis.jpg" >}}
 <--->
 The wind moves parallel to the isobars (without taking friction into account): this is the geostrophic wind: balance between the pressure forces and the Coriolis force.
 

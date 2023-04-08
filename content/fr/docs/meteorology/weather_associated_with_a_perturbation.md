@@ -44,7 +44,7 @@ L'air chaud créé un nuage d'élévation. (Nuage de type Cumulonimbus **Cb**)
 {{< columns >}}
 {{< figure caption="Passage des fronts" src="../images/fronts-passage.jpg" >}}
 <--->
-{{< figure caption="Perturbation" src="../images/perturbation.gif" >}}
+{{< figure caption="Perturbation" src="../images/perturbation_fronts.gif" >}}
 {{< /columns >}}
 Plusieurs présentations sont possibles
 {{< /details>}}

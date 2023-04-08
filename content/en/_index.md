@@ -8,7 +8,6 @@ BookToC: false
 
 Table of Contents :
 
-Table des matières :
 {{< wrapper "home_menu" >}}
     {{< button_link title="🌦 Weather forecast" relref="/docs/meteorology" class="book-btn" >}}
     {{< button_link title="💨 The winds" relref="/docs/winds" class="book-btn" >}}
