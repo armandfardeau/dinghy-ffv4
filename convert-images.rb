@@ -16,5 +16,5 @@ raise "Duplicate images found #{duplicates}" if duplicates.any?
 images.each do |path_without_extension, extensions|
   next if File.exist?("#{path_without_extension}.webp")
 
-  system("convert #{path_without_extension}.#{extensions.first} #{path_without_extension}.webp")
+  system("convert #{path_without_extension}.#{extensions.first} -quality 50 #{path_without_extension}.webp")
 end
