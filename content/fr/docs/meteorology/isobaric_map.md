@@ -12,7 +12,7 @@ navigation:
 
 La carte isobarique représente la situation barométrique actuelle ou prévue avec la position des fronts. Il existe plusieurs types de cartes : la carte de surface (qui représente la pression au niveau de la mer) et les cartes d’altitudes (représentant l’altitude géopotentielle à une pression donnée), cependant les cartes d’altitude sont plus complexes à interpréter. Une carte isobarique de surface peut être pointée, c'est-à-dire avec des relevés de vent et pression.
 
-{{< figure caption="carte isobarique" src="../images/carte-isobarique.png" >}}
+{{< figure caption="carte isobarique" src="images/meteorology/carte-isobarique.png" >}}
 
 1. Isobare. Il indique une pression de 1020 hPa.
 2. Gradient de pression. L’espace entre deux Isobares.
@@ -36,7 +36,7 @@ Attention: la réalité est souvent bien plus complexe
 
 ## Déterminer la vitesse du vent
 
-{{< figure caption="carte-isobarique" src="../images/force-du-vent.png" >}}
+{{< figure caption="carte-isobarique" src="images/meteorology/force-du-vent.png" >}}
 
 1. Commençons par récupérer une carte météo avec les pressions. Par exemple sur [metoffice](https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure).
 2. Choisir une zone pour laquelle vous souhaitez estimer le vent. Je vous propose de partir au large de l’Espagne au niveau de l’étoile violette en 1 sur le schéma.
@@ -47,7 +47,7 @@ Attention: la réalité est souvent bien plus complexe
 
 ## Déterminer la direction du vent
 
-{{< figure caption="carte isobarique" src="../images/direction-du-vent.png" >}}
+{{< figure caption="carte isobarique" src="images/meteorology/direction-du-vent.png" >}}
 
 1. On commence par tracer la tangente au niveau d’un isobare. Regardez en 1 sur le schéma la droite bleue.
 2. Ensuite on trace la direction du vent : à 20° de la tangente du côté des basses pressions (donc vers le côté de l’isobare à 1008 hPa). Regardez la droite rouge en 2 sur le schéma.
@@ -61,7 +61,7 @@ Attention c’est 20° au-dessus de la mer, et 40° au-dessus de la terre.
 
 Front chaud - Front froid - Front occlus - Anticyclone - Dépression
 
-{{< figure caption="carte isobarique" src="../images/isobaric-map.gif" >}}
+{{< figure caption="carte isobarique" src="images/meteorology/isobaric-map.gif" >}}
 
 {{< details title="Réponse">}}
 **A**. Dépression - **B**. Anticyclone - **C**. Front froid - **D**. Front occlus - **E**. Front chaud / 1. vitesse: Environ 40 kts - direction: Ouest / 2. vitesse: Environ 10 Kts - direction: Nord-Ouest / Il s'agit d'une carte d'analyse.

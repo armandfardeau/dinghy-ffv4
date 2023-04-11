@@ -13,7 +13,7 @@ navigation:
 ## Explanation of temperature differences on earth
 
 {{< columns >}}
-{{< figure caption="Earth-sun diagram" src="../images/cell-sun.jpeg" >}}
+{{< figure caption="Earth-sun diagram" src="images/meteorology/cell-sun.jpeg" >}}
 <--->
 The sun provides almost all of our energy.
 
@@ -30,7 +30,7 @@ This creates convection cells.
 
 On a planetary scale, there are several convection cells that govern meteorology. There are three main ones:
 {{< columns >}}
-{{< figure caption="Meteorological cell diagram" src="../images/cell-earth.png" >}}
+{{< figure caption="Meteorological cell diagram" src="images/meteorology/cell-earth.png" >}}
 <--->
 
 - Hadley cell
@@ -39,7 +39,7 @@ On a planetary scale, there are several convection cells that govern meteorology
 
 {{< /columns >}}
 {{< columns >}}
-{{< figure caption="Coriolis diagram" src="../images/coriolis.png" >}}
+{{< figure caption="Coriolis diagram" src="images/meteorology/coriolis.png" >}}
 <--->
 However, the direction of motion of these air masses is modified by the presence of the Coriolis force. The latter is due to the rotation of the Earth on its axis: any particle moving in a fluid (air or water for example) undergoes it.
 
@@ -54,6 +54,6 @@ This force tends to move the particle to its right in the northern hemisphere (a
 {{< hint_with_class question warning >}}
 **Make a diagram of the different cells in the northern hemisphere:**
 {{< details title="Answer" >}}
-{{< figure caption="Atmospheric cells" src="../images/north-cells.png" >}}
+{{< figure caption="Atmospheric cells" src="images/meteorology/north-cells.png" >}}
 {{< /details >}}
 {{< /hint_with_class >}}

@@ -13,7 +13,7 @@ During a regatta you can imagine a diamond between the windward and the leeward 
 This frame designates the limit course from which we make excess course. Within the frame, not all routes are equal, indeed, when tacking we lose some time and speed.
 
 {{< columns >}}
-{{< figure caption="The frame designates the most direct route for the least number of maneuvers" src="../images/cadre.jpg" >}}
+{{< figure caption="The frame designates the most direct route for the least number of maneuvers" src="images/regatta/cadre.jpg" >}}
 <--->
 If you want to reach the windward buoy with a single tack, the route taken will be the edge of the frame.
 {{< /columns>}}
@@ -23,7 +23,7 @@ If you want to reach the windward buoy with a single tack, the route taken will 
 The wind is rarely stable and sometimes it changes direction a bit during the race: we say it tilts.
 
 {{< columns >}}
-{{< figure caption="When the wind shifts, the frame warps" src="../images/bascule.jpg" >}}
+{{< figure caption="When the wind shifts, the frame warps" src="images/regatta/bascule.jpg" >}}
 <--->
 This tilt changes the frame we saw earlier. This can cause us to be out of frame, meaning we travel more road or are better placed in the new frame.
 {{< /columns>}}
@@ -35,9 +35,9 @@ Watching the tilts is one of the major elements of strategy in regatta.
 This frame allows us to define the placement of the racers in relation to the buoy and therefore to define who is better placed.
 
 {{< columns >}}
-{{< figure caption="B is better placed on the frame" src="../images/b-winning.jpg" >}}
+{{< figure caption="B is better placed on the frame" src="images/regatta/b-winning.jpg" >}}
 <--->
-{{< figure caption="Both sailboats are equal" src="../images/equality.jpg" >}}
+{{< figure caption="Both sailboats are equal" src="images/regatta/equality.jpg" >}}
 {{< /columns>}}
 
 ## Strategies

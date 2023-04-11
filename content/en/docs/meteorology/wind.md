@@ -13,13 +13,13 @@ navigation:
 Wind is a flow of air. It moves globally from high pressure to low pressure. The greater the difference (gradient) in pressure (for a given distance), the stronger the wind.
 <--->
 
-{{< figure caption="Pressure difference" src="../images/pressure-difference.png" >}}
+{{< figure caption="Pressure difference" src="images/meteorology/pressure-difference.png" >}}
 
 {{< /columns >}}
 
 ## Influence of the Coriolis force
 {{< columns >}}
-{{< figure caption="Isobaric map" src="../images/isobaric-map-coriolis.jpg" >}}
+{{< figure caption="Isobaric map" src="images/meteorology/isobaric-map-coriolis.jpg" >}}
 <--->
 The wind moves parallel to the isobars (without taking friction into account): this is the geostrophic wind: balance between the pressure forces and the Coriolis force.
 
@@ -33,7 +33,7 @@ The deviation due to friction is of the order of 15° on the sea and 30° on lan
 
 Consequence: for a person placed with his back to the wind, the high pressures are to his right and the low pressures to his left (Buys-Ballot law).
 
-{{< figure caption="Buys-Ballot law" src="../images/buys-ballot-law.png" >}}
+{{< figure caption="Buys-Ballot law" src="images/meteorology/buys-ballot-law.png" >}}
 
 The legal unit of wind is the m/s. However, in sailing we use the knot (kt).
 1 kt = 1 nm/h = 1.852 km/h.
@@ -54,18 +54,18 @@ On the map it is materialized with the help of barbules that allow to estimate t
 
 The barbules are always on the lower pressure side of the staff.
 <--->
-{{< figure caption="Wind barb" src="../images/wind-barbul.png" >}}
+{{< figure caption="Wind barb" src="images/meteorology/wind-barbul.png" >}}
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}
 **Make a barbule diagram of a wind staff to describe a wind coming from the northeast and 25 kts in speed:**
 {{< details title="Answer">}}
-{{< figure caption="25 knots" src="../images/25kts.png" >}}
+{{< figure caption="25 knots" src="images/meteorology/25kts.png" >}}
 {{< /details>}}
 {{< /hint_with_class >}}
 
 ## Beaufort Scale
-{{< figure caption="Beaufort Scale" src="../images/beaufort.png" >}}
+{{< figure caption="Beaufort Scale" src="images/meteorology/beaufort.png" >}}
 
 The Beaufort scale is a function of wind strength. In the past, it was an observation scale (according to the sea state). The scale is not linear.
 

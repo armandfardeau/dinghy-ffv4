@@ -18,9 +18,9 @@ What happens when a dinghy accelerates and when it slows down?
 ## Close-up speed
 
 {{< columns >}}
-{{< figure caption="Vectors" src="../images/pres-serre.svg" >}}
+{{< figure caption="Vectors" src="images/winds/pres-serre.svg" >}}
 <--->
-{{< figure caption="Vectors" src="../images/pres-abattu.svg" >}}
+{{< figure caption="Vectors" src="images/winds/pres-abattu.svg" >}}
 {{< /columns >}}
 Upwind, if you accelerate, the apparent wind increases and refuses.
 To keep the right trim: tuck in or drop out.
@@ -28,14 +28,14 @@ To keep the right trim: tuck in or drop out.
 ## Downwind point of sail
 
 {{< columns >}}
-{{< figure caption="Vectors" src="../images/largue.svg" >}}
+{{< figure caption="Vectors" src="images/winds/largue.svg" >}}
 <--->
-{{< figure caption="Vectors" src="../images/largue-abattu.svg" >}}
+{{< figure caption="Vectors" src="images/winds/largue-abattu.svg" >}}
 {{< /columns >}}
 Downwind, if you speed up, the apparent wind increases and refuses.
 The faster the dinghy, you can have a very luffy apparent wind downwind.
 {{<columns >}}
-{{< figure caption="Vectors" src="../images/vent-arriere.svg" >}}
+{{< figure caption="Vectors" src="images/winds/vent-arriere.svg" >}}
 <--->
 The faster you go downwind, the weaker the apparent wind.
 {{< /columns >}}
@@ -47,7 +47,7 @@ This curve is constructed by plotting the boat's speed according to the angle to
 These are the theoretical maximum speed values, and reaching them will depend on the trainee's level.
 
 {{< columns >}}
-{{< figure caption="Standard Laser solo speed polar" src="../images/laser-polar.jpg" >}}
+{{< figure caption="Standard Laser solo speed polar" src="images/winds/laser-polar.jpg" >}}
 <--->
 The maximum speed is obtained for 105°-110° for 30 kts of wind.
 Overall, the fastest point of sail is the right full.

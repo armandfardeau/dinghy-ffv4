@@ -35,7 +35,7 @@ Inconvénient : on dérive plus vite que lui ! En tenir compte
 - Il faut pouvoir récupérer l’HLM en «tendant» le bras. Il s’agit donc de le viser. Attention si vous loffez ou abattez sur lui : le rayon de virage n’est pas nul.
 
 {{< columns >}}
-{{< figure caption="La manouevre de la ralingue" src="../images/hlm.png" >}}
+{{< figure caption="La manouevre de la ralingue" src="images/chronologies/hlm.png" >}}
 <--->
 Durant toute la manoeuvre, on évite d'empanner pour prévenir tout suraccident.
 

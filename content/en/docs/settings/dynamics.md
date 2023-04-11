@@ -32,10 +32,10 @@ The sheeting action has two distinct effects:
 * When the boom is almost at the transom angle and we continue to trim, the sheet exerts a vertical tension bringing the boom block in contact with the bridle block. This tension is reflected in the leech of the sail, between the clew and the head, causing the mast to bend. (effect 2)
 
 {{< columns >}}
-{{< figure caption="Adjusting the sheet" src="../images/ecoute_effet_1.svg" >}}
+{{< figure caption="Adjusting the sheet" src="images/settings/ecoute_effet_1.svg" >}}
 <--->
-{{< figure caption="Mainline adjustment" src="../images/ecoute_effet_2.svg" >}}
-{{< figure caption="Mainline Setting" src="../images/effet_ecoute_vue_dessus.svg" >}}
+{{< figure caption="Mainline adjustment" src="images/settings/ecoute_effet_2.svg" >}}
+{{< figure caption="Mainline Setting" src="images/settings/effet_ecoute_vue_dessus.svg" >}}
 {{< /columns >}}
 
 This mast hanger resorbs the luff circle and flattens the sail. The tension exerted between the masthead and the clew of the sail "closes the leech", i.e. prevents it from twisting.
@@ -63,16 +63,16 @@ Its action is close to the effect 2 of the sheet. By bringing its 2 insertions t
 * it allows to keep a given profile of the sail when varying the sail-ship angle by action on the sheet, this is an essential condition for the efficient regulation of the overpower.
 
 {{< columns >}}
-{{< figure caption="The action of the boom vang" src="../images/halebas.svg" >}}
+{{< figure caption="The action of the boom vang" src="images/settings/halebas.svg" >}}
 <--->
-{{< figure caption="The action of the halebas view_arriere" src="../images/halebas_vue_arriere.svg" >}}
+{{< figure caption="The action of the halebas view_arriere" src="images/settings/halebas_vue_arriere.svg" >}}
 {{< /columns >}}
 When downwind, the boomvang plays a specific role since it allows the boom to be held down when counter-heeling, thus conserving power, and generating stability by avoiding the "Accordion" effect.
 
 {{< columns >}}
-{{< figure caption="The laser downwind" src="../images/laser-portant.jpg" >}}
+{{< figure caption="The laser downwind" src="images/settings/laser-portant.jpg" >}}
 <--->
-{{< figure caption="The action of the halebas downwind" src="../images/halebas_portant.svg" >}}
+{{< figure caption="The action of the halebas downwind" src="images/settings/halebas_portant.svg" >}}
 {{< /columns >}}
 
 ## Le cunningham
@@ -89,9 +89,9 @@ Its first interest is therefore to be able to correct the lower luff tension in 
 In order to remedy these imperfect folds, the cunningham should be reworked until they are eliminated.
 
 {{< columns >}}
-{{< figure caption="No action on the cunningham" src="../images/cunningham_no_action.svg" >}}
+{{< figure caption="No action on the cunningham" src="images/settings/cunningham_no_action.svg" >}}
 <--->
-{{< figure caption="Action on the cunningham" src="../images/cunningham_action.svg" >}}
+{{< figure caption="Action on the cunningham" src="images/settings/cunningham_action.svg" >}}
 {{< /columns >}}
 
 But this is not the only interest of the cunningham. Its essential functions are :
@@ -120,7 +120,7 @@ Le réglage de bordure permet de doser le creux général que l'on donne à la v
 
 Cette limite peut s'objectiver en mesurant la distance maximale séparant la bôme de la voile sur une perpendiculaire aux deux. De nombreux laseristes considèrent qu'elle est atteinte lorsque le pouce et l'auriculaire, écartés au maximum, joignent ces deux points (soit environ 20 cm).
 
-{{< figure caption="Réglage de la bordure" src="../images/bordure.svg" >}}
+{{< figure caption="Réglage de la bordure" src="images/settings/bordure.svg" >}}
 
 ## La patte d'oie
 
@@ -136,9 +136,9 @@ To perform this role effectively, it is important that the bridle is strongly te
 However, too much tension reduces the sensitivity of the tiller and hinders the passage of the block when tacking, especially in light airs. Therefore, it is a good idea to slightly relax the bridle if these symptoms appear and disturb the boat's handling. The use of a Kevlar rope allows to obtain the same effect (off-center and low boom) with a lower tension.
 
 {{< columns >}}
-{{< figure caption="Loose crow's feet" src="../images/patte_oie_relachee.svg" >}}
+{{< figure caption="Loose crow's feet" src="images/settings/patte_oie_relachee.svg" >}}
 <--->
-{{< figure caption="Crow's feet tighten" src="../images/patte_oie_reprise.svg" >}}
+{{< figure caption="Crow's feet tighten" src="images/settings/patte_oie_reprise.svg" >}}
 {{< /columns >}}
 
 To adjust the crow's foot, it is tightened to the maximum and if it hinders the passage of the pulley, it is slightly eased until the problem disappears.
@@ -163,7 +163,7 @@ It is raised 20 cm.
 {{< /details_extended >}}
 {{< /hint >}}
 
-{{< figure caption="Daggerboard adjustement" src="../images/derive.svg" >}}
+{{< figure caption="Daggerboard adjustement" src="images/settings/derive.svg" >}}
 
 The laser has a relatively flat hull and small appendages.
 Its anti-drift plane is therefore not very important in relation to its length.
@@ -188,14 +188,14 @@ Many laserists opt for an adjustable abseiling strap. This adjustment is very im
 
 We present the most common setup:
 {{< columns >}}
-{{< figure caption="Adjustment of the abseiling strap" src="../images/sangle.jpg" >}}
+{{< figure caption="Adjustment of the abseiling strap" src="images/settings/sangle.jpg" >}}
 <--->
-{{< figure caption="Adjustment of the tighten abseiling strap" src="../images/sangle_serre.jpg" >}}
+{{< figure caption="Adjustment of the tighten abseiling strap" src="images/settings/sangle_serre.jpg" >}}
 {{< /columns >}}
 
 The tighter the strap, the lower the recall, but the easier the return to the boat.
 
-{{< figure caption="Recall position" src="../images/position_sangle_rappel.svg" >}}
+{{< figure caption="Recall position" src="images/settings/position_sangle_rappel.svg" >}}
 
 A useful adjustment marker is the distance of the scroll from the knee joint.
 

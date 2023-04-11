@@ -56,7 +56,7 @@ Sail --> Balance
 If several sails are present, it is possible to play with the balance of the two around the mast:
 the headsail will allow to bring down and the mainsail will allow to luff.
 
-{{< figure caption="Dinghy at the head" src="../images/gite.jpg" >}}
+{{< figure caption="Dinghy at the head" src="images/dinghy_mecanic/gite.jpg" >}}
 
 To get this dinghy back to flat, you can either ease the sail or increase the recall.
 
@@ -74,6 +74,6 @@ Weight --> Propulsion
     * Since the weight has an action on the direction, it has one on the propulsion.
     * Depending on the placement, the weight allows a better upwind or downwind ride
 
-{{< figure caption="Tilt-turn" src="../images/virement-bascule.jpeg" >}}
+{{< figure caption="Tilt-turn" src="images/dinghy_mecanic/virement-bascule.jpeg" >}}
 
 The tilt tack and gybe are the first application of weight as indirect links, by making the boat heel, we force its direction by limiting the drag of the rudder

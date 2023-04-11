@@ -4,14 +4,30 @@
 {{- end -}}
 
 <picture>
-    <source srcset="{{ strings.TrimSuffix (path.Ext (.Get "src")) (.Get "src") }}.webp" type="image/webp" />
-    <img src="{{ .Get "src" }}"
-    {{- if or (.Get "alt") (.Get "caption") }}
-    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-    {{- end -}}
-    {{- with .Get "width" }} width="{{ . }}"{{ end -}}
-    {{- with .Get "height" }} height="{{ . }}"{{ end -}}
-    /><!-- Closing img tag -->
+{{ $alt := (.Get "caption") }}
+{{ if strings.HasSuffix (.Get "src") ".svg" }}
+<img src="{{ (resources.Get (.Get "src")).RelPermalink }}" alt="{{ $alt }}" />
+{{ else }}
+{{ with resources.Get (.Get "src") }}
+<source srcset="{{ (.Resize "200x webp q100").RelPermalink }}" type="image/webp" media="(max-width: 200px)" />
+<source srcset="{{ (.Resize "200x q100").RelPermalink }}" media="(max-width: 200px)" />
+
+<source srcset="{{ (.Resize "400x webp q100").RelPermalink }}" type="image/webp" media="(max-width: 400px)" />
+<source srcset="{{ (.Resize "400x q100").RelPermalink }}" media="(max-width: 400px)" />
+
+<source srcset="{{ (.Resize "600x webp q100").RelPermalink }}" type="image/webp" media="(max-width: 600px)" />
+<source srcset="{{ (.Resize "600x q100").RelPermalink }}" media="(max-width: 600px)" />
+
+<source srcset="{{ (.Resize "800x webp q100").RelPermalink }}" type="image/webp" media="(max-width: 800px)" />
+<source srcset="{{ (.Resize "800x q100").RelPermalink }}" media="(max-width: 800px)" />
+
+<source srcset="{{ (.Resize "1200x webp q100").RelPermalink }}" type="image/webp" media="(max-width: 1200px)" />
+<source srcset="{{ (.Resize "1200x q100").RelPermalink }}" media="(max-width: 1200px)" />
+
+<source srcset="{{ (.Resize (printf "%s%s" (string .Width) "x webp q100")).RelPermalink }}" type="image/webp" />
+<img src="{{ .RelPermalink }}" alt="{{ $alt }}"/>
+{{ end }}
+{{ end }}
 </picture>
 
 

@@ -16,28 +16,28 @@ Pour saturer de l’air (à pression quasi- constante), il faut le refroidir. I
 {{< tabs "cooling" >}}
 {{< tab "Frontal" >}}
 {{< columns >}}
-{{< figure caption="Refroidissement frontal" src="../images/frontal-cooling.png" >}}
+{{< figure caption="Refroidissement frontal" src="images/meteorology/frontal-cooling.png" >}}
 <--->
 Deux masses d’air de propriété différentes (chaude et froide) se rencontrent. Elles ne se mélangent pas. La plus chaude est forcée de monter (c’est la plus légère). En montant, elle se refroidit et se condense.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Soulèvement orographique" >}}
 {{< columns >}}
-{{< figure caption="Soulèvement orographique" src="../images/orographique-cooling.png" >}}
+{{< figure caption="Soulèvement orographique" src="images/meteorology/orographique-cooling.png" >}}
 <--->
 Une masse d’air rencontre une montagne et est forcée à s’élever. L’air se refroidit et il peut y avoir condensation.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Convection" >}}
 {{< columns >}}
-{{< figure caption="Refroidissement Convectif" src="../images/convection-cooling.png" >}}
+{{< figure caption="Refroidissement Convectif" src="images/meteorology/convection-cooling.png" >}}
 <--->
  Le sol chauffe l’air à son contact le forçant à s’élever. En montant, il se refroidit et se condense (figure de gauche).
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Refroidissement par la base" >}}
 {{< columns >}}
-{{< figure caption="Refroidissement par la base" src="../images/base-cooling.png" >}}
+{{< figure caption="Refroidissement par la base" src="images/meteorology/base-cooling.png" >}}
 <--->
 De l’air chaud et humide arrive sur une surface plus froide.
 {{< /columns >}}
@@ -48,7 +48,7 @@ De l’air chaud et humide arrive sur une surface plus froide.
 
 On reconnait un nuage grâce à sa forme et à son altitude (voir [Reconnaître les nuages]({{<relref"/docs/annexes/clouds_recognition">}}) pour les photos).
 {{< columns >}}
-{{< figure caption="Les différents types de nuages" src="../images/clouds.png" >}}
+{{< figure caption="Les différents types de nuages" src="images/meteorology/clouds.png" >}}
 <--->
 
 - Etage supérieur (5000 m et plus) : **cirro**.

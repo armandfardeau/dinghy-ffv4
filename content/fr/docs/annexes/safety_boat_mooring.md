@@ -26,9 +26,9 @@ Chronologie sommaire du mouillage de bateau de sécurité:
 - Assurer le mouillage arrière sur la plage de manière à le récupérer aisément (**Attention aux marées**). Laisser du mou au mouillage arrière afin que le bateau de sécurité puisse se placer face au vent.
 
 {{< columns >}}
-{{< figure caption="Mouillage par vent de mer" src="../images/vent-mer.png" >}}
+{{< figure caption="Mouillage par vent de mer" src="images/annexes/vent-mer.png" >}}
 <--->
-{{< figure caption="Mouillage par vent de terre" src="../images/vent-terre.png" >}}
+{{< figure caption="Mouillage par vent de terre" src="images/annexes/vent-terre.png" >}}
 {{< /columns >}}
 
-{{< figure caption="Mouillage en cas de vent parallèle" src="../images/vent-parallele.png" >}}
+{{< figure caption="Mouillage en cas de vent parallèle" src="images/annexes/vent-parallele.png" >}}

@@ -23,7 +23,7 @@ Be careful with the following points:
 ## The twelfths method
 
 {{< columns >}}
-{{< figure caption="Tidal sine curve" src="../images/tide-sinusoidale.png" >}}
+{{< figure caption="Tidal sine curve" src="images/tides/tide-sinusoidale.png" >}}
 <--->
 The tidal cycle in France is 2 tides per day, it can be represented by a sinusoidal.
 
@@ -59,7 +59,7 @@ We will make a graph with the time in second on the abscissa and the water heigh
 * Amplitude: 6.40m - 3.10m = **3.30m**
 
 {{< columns >}}
-{{< figure caption="Tide calculation using a graduated paper and the twelfths method" src="../images/tide-calculation.png" >}}
+{{< figure caption="Tide calculation using a graduated paper and the twelfths method" src="images/tides/tide-calculation.png" >}}
 <--->
 
 * 6h06: **3,10m**

@@ -18,7 +18,7 @@ If it does not move vertically, or only slightly, it is said to be stable. Thus,
 temperature is higher than that of its environment. As soon as its temperature reaches that of its environment, it stops rising.
 
 ## Air masses in the Northern Hemisphere
-{{< figure caption="Air masses" src="../images/air-volumes.png" >}}
+{{< figure caption="Air masses" src="images/meteorology/air-volumes.png" >}}
 
 {{< tabs "air-volumes" >}}
 {{< tab "Arctic" >}}

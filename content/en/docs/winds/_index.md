@@ -13,7 +13,7 @@ To represent the wind, we use a mathematical tool: the vector. Here are some of 
 ## The vector
 
 {{< columns >}}
-{{< figure caption="Vectors" src="images/vectors.png" >}}
+{{< figure caption="Vectors" src="images/winds/vectors.png" >}}
 <--->
 
 - The length of the vector is proportional to the strength of the wind

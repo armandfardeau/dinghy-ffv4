@@ -12,9 +12,9 @@ There are 2 types of flows:
 The sails of a sports dinghy are most effective when the flow is laminar. It is highlighted by the penons and favors.
 
 {{< columns >}}
-{{< figure caption="Penons" src="../images/penon.jpg" >}}
+{{< figure caption="Penons" src="images/dinghy_mecanic/penon.jpg" >}}
 <--->
-{{< figure caption="Favors" src="../images/faveur.jpeg" >}}
+{{< figure caption="Favors" src="images/dinghy_mecanic/faveur.jpeg" >}}
 {{< /columns >}}
 
 The flow remains laminar up to about 40 degrees of incidence, i.e. a broad reach / wide reach gait (depending on the speed of the dinghy).
@@ -34,7 +34,7 @@ Bernoulli states that within an incompressible flow, the total pressure remains 
 
 What we are interested in is understanding how a sail, immersed in a flow (the speed of the boat), can move the boat forward.
 
-{{< figure caption="Sail lift" src="../images/bernoulli.jpg" >}}
+{{< figure caption="Sail lift" src="images/dinghy_mecanic/bernoulli.jpg" >}}
 
 The sail surface (curve) deflects the flow. From a certain distance, the flow is no longer disturbed.
 
@@ -52,14 +52,14 @@ In a normal situation, the airflow is "attached" to both sides of the wing, top 
 At a certain angle of incidence, about 15 to 20°, depending on the characteristics of the wing - profile, aspect ratio, etc. - and the number of
 
 {{< columns >}}
-{{< figure caption="Profil normal" src="../images/profil_normal.jpg" >}}
+{{< figure caption="Profil normal" src="images/dinghy_mecanic/profil_normal.jpg" >}}
 display_reading_time: true
 display_share_buttons: true
 navigation:
   - "/docs/dinghy_mecanic"
   - "/docs/dinghy_mecanic/strengths"
 <--->
-{{< figure caption="Profil décroché" src="../images/profil_stall.jpg" >}}
+{{< figure caption="Profil décroché" src="images/dinghy_mecanic/profil_stall.jpg" >}}
 {{< /columns >}}
 Une voile correctement bordé génère une portance permettant le déplacement.
 Une voile bordée en excès génère un écoulement turbulent, la portance est alors inférieure à la trainée, le bateau n'avance plus.

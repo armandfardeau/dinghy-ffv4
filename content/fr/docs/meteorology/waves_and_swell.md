@@ -17,7 +17,7 @@ navigation:
 
 # Formation
 {{< columns >}}
-{{< figure caption="Naissance de la houle et des vagues" src="../images/waves-birth.jpg" >}}
+{{< figure caption="Naissance de la houle et des vagues" src="images/meteorology/waves-birth.jpg" >}}
 <--->
 
 1. Création des vagues sur la totalité des mers du globe
@@ -32,7 +32,7 @@ Exemple: on prend une série de 100 vagues. Sur ces 100 vagues on ne retient qu
 
 # Energie de la vague
 {{< columns >}}
-{{< figure caption="Déplacement d'onde" src="../images/wave-energy.png" >}}
+{{< figure caption="Déplacement d'onde" src="images/meteorology/wave-energy.png" >}}
 <--->
 Lorsque les vagues ne déferlent pas, il n’y a quasiment pas de déplacement horizontal d’eau sur un espace de temps court. Ce sont des ondes (déplacement d’énergie).
 {{< /columns >}}

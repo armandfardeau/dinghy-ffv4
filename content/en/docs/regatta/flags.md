@@ -17,7 +17,7 @@ The race committee will conduct the starting procedure using flags and sound sig
 ## Typical 5 minute procedure (simplified)
 
 {{< columns >}}
-{{< figure caption="Starting Procedure" src="../images/regatta-start.png" >}}
+{{< figure caption="Starting Procedure" src="images/regatta/regatta-start.png" >}}
 <--->
 Opening Line (**- 10 min**):
 
@@ -51,7 +51,7 @@ Start (**- 0 min**):
 
 ### Individual recall
 {{< columns >}}
-{{< figure caption="Individual recall flag" src="../images/x-ray.svg" >}}
+{{< figure caption="Individual recall flag" src="images/regatta/x-ray.svg" >}}
 <--->
 The "X" flag (x-ray) is sent if one or more **identifiable** boats steal the start.
 
@@ -60,7 +60,7 @@ An associated short sound signal is mandatory.
 
 ### General Recall
 {{< columns >}}
-{{< figure caption="General Recall \"First Substitute\" flag" src="../images/premier-substitut.svg" >}}
+{{< figure caption="General Recall \"First Substitute\" flag" src="images/regatta/premier-substitut.svg" >}}
 <--->
 If several unidentifiable boats steal the start, the flag "First substitute" is sent.
 

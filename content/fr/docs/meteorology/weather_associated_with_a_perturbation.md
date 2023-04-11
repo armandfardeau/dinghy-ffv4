@@ -10,14 +10,14 @@ navigation:
 ---
 ## Passage d’une perturbation « type » sur les côtes Bretonnes
 ### Schéma du passage d'une perturbation
-{{< figure caption="Passage des fronts" src="../images/fronts-passage.jpg" >}}
+{{< figure caption="Passage des fronts" src="images/meteorology/fronts-passage.jpg" >}}
 Pour un observateur placé sur la droite du schéma, le plafond nuageux va s'affaisser et devenir de plus en plus sombre s'accompagnant de forte pluie.
 Puis dans un second temps se dégager et laisser place à un ciel peuplé de stratocumulus ou de stratus ainsi que quelques averses.
 Ce répit sera de courte durée et cédera sa place à des vents forts ainsi que de violentes averses au passage du cumulonimbus. Des orages sont possibles.
 La situation s'améliorera alors pour céder sa place au ciel de traîne avec quelques grains et éclaircies.
 
 {{< columns >}}
-{{< figure caption="Passage d'un front chaud animé" src="../images/hot_front_animated.gif" >}}
+{{< figure caption="Passage d'un front chaud animé" src="images/meteorology/hot_front_animated.gif" >}}
 <--->
 L'air chaud se déplace vers un air plus froid.
 Le front chaud est donc un front de remontée car l'air se dépose à la surface de la masse froide.
@@ -35,23 +35,23 @@ Il est de courte distance et il est facile de noter avec précision le moment de
 Il est propice à donner de fortes rafales de vent.
 L'air chaud créé un nuage d'élévation. (Nuage de type Cumulonimbus **Cb**)
 <--->
-{{< figure caption="Passage d'un front froid animé" src="../images/cold_front_animated.gif" >}}
+{{< figure caption="Passage d'un front froid animé" src="images/meteorology/cold_front_animated.gif" >}}
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}
 **Reproduisez le schéma de l'arrivée d'une perturbation**
 {{< details title="Réponse" >}}
 {{< columns >}}
-{{< figure caption="Passage des fronts" src="../images/fronts-passage.jpg" >}}
+{{< figure caption="Passage des fronts" src="images/meteorology/fronts-passage.jpg" >}}
 <--->
-{{< figure caption="Perturbation" src="../images/perturbation_fronts.gif" >}}
+{{< figure caption="Perturbation" src="images/meteorology/perturbation_fronts.gif" >}}
 {{< /columns >}}
 Plusieurs présentations sont possibles
 {{< /details>}}
 {{< /hint_with_class >}}
 
 ### Vue de haut
-{{< figure caption="Schéma dépression vue de haut" src="../images/sky-view-depression.jpg" >}}
+{{< figure caption="Schéma dépression vue de haut" src="images/meteorology/sky-view-depression.jpg" >}}
 Les nuages associés à la dépression sont dans l'ordre:
 
 1. Les Cirrus (**CI**) et Cirostatus (**CS**)
@@ -64,9 +64,9 @@ Les nuages associés à la dépression sont dans l'ordre:
 
 ## Vue satellite d'une dépression
 {{< columns >}}
-{{< figure caption="Front froid" src="../images/satellite-view-depression.jpg" >}}
+{{< figure caption="Front froid" src="images/meteorology/satellite-view-depression.jpg" >}}
 <--->
-{{< figure caption="Perturbation vue du haut" src="../images/perturbation-skyview.jpg" >}}
+{{< figure caption="Perturbation vue du haut" src="images/meteorology/perturbation-skyview.jpg" >}}
 {{< /columns >}}
 
 Très souvent, la structure nuageuse d’une perturbation permet de distinguer plusieurs parties. La tête se situe en avant de la perturbation.
@@ -77,7 +77,7 @@ Assez souvent, le centre dépressionnaire peut s’isoler sur les photographies
 
 {{< hint_with_class question warning >}}
 **Pour chaque lettre indiquez l'élément correspondant:**
-{{< figure caption="Question sur la dépression" src="../images/depression-question.jpg" >}}
+{{< figure caption="Question sur la dépression" src="images/meteorology/depression-question.jpg" >}}
 {{< details title="Réponse">}}
 **A:** Front chaud / **B:** Front froid / **C:** Point triple / **D:** Front Occlus / **E:** Centre dépressionaire
 {{< /details>}}

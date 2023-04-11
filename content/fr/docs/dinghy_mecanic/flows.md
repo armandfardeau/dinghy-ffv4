@@ -17,9 +17,9 @@ Il existe 2 types d’écoulements:
 Les voiles d’un dériveur de sport sont le plus efficaces lorsque l’écoulement est laminaire. Il est mis en évidence par les penons et les faveurs.
 
 {{< columns >}}
-{{< figure caption="Penons" src="../images/penon.jpg" >}}
+{{< figure caption="Penons" src="images/dinghy_mecanic/penon.jpg" >}}
 <--->
-{{< figure caption="Faveurs" src="../images/faveur.jpeg" >}}
+{{< figure caption="Faveurs" src="images/dinghy_mecanic/faveur.jpeg" >}}
 {{< /columns >}}
 
 L’écoulement reste laminaire jusqu'à une quarantaine de degrés d’incidence, soit une allure de largue / grand largue (dépendamment de la vitesse du dériveur).
@@ -39,7 +39,7 @@ Bernoulli énonce qu’au sein d’un écoulement incompressible, la pression 
 
 Ce qui nous intéresse est de comprendre comment une voile, immergée dans un écoulement (la vitesse du bateau), peut faire avancer ce dernier.
 
-{{< figure caption="Portance de la voile" src="../images/bernoulli.jpg" >}}
+{{< figure caption="Portance de la voile" src="images/dinghy_mecanic/bernoulli.jpg" >}}
 
  La surface de la voile (courbe) dévie l’écoulement. A partir d’une certaine distance, l’écoulement n’est plus perturbé.
 
@@ -57,9 +57,9 @@ En situation normale, l'écoulement de l'air est « attaché » sur les deux fac
 À une certaine valeur de l'angle d'incidence, de l'ordre de 15 à 20°, selon les caractéristiques de l'aile — profil, allongement, etc. — et le nombre de Reynolds, il se produit un décollement de l'écoulement aérodynamique à l'extrados de l'aile entraînant une chute de portance plus ou moins brusque : c'est à ce moment que la voile décroche.
 
 {{< columns >}}
-{{< figure caption="Profil normal" src="../images/profil_normal.jpg" >}}
+{{< figure caption="Profil normal" src="images/dinghy_mecanic//profil_normal.jpg" >}}
 <--->
-{{< figure caption="Profil décroché" src="../images/profil_stall.jpg" >}}
+{{< figure caption="Profil décroché" src="images/dinghy_mecanic//profil_stall.jpg" >}}
 {{< /columns >}}
 Une voile correctement bordé génère une portance permettant le déplacement.
 Une voile bordée en excès génère un écoulement turbulent, la portance est alors inférieure à la trainée, le bateau n'avance plus.

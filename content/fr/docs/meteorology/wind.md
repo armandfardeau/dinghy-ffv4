@@ -13,13 +13,13 @@ navigation:
 Le vent est un flux d’air. Il se déplace globalement des hautes pressions vers les basses pressions. Plus la différence (gradient) de pression est importante (pour une distance donnée), plus le vent est fort.
 <--->
 
-{{< figure caption="Différence de pression" src="../images/pressure-difference.png" >}}
+{{< figure caption="Différence de pression" src="images/meteorology/pressure-difference.png" >}}
 
 {{< /columns >}}
 
 ## Influence de la force de Coriolis
 {{< columns >}}
-{{< figure caption="Carte isobarique" src="../images/isobaric-map-coriolis.jpg" >}}
+{{< figure caption="Carte isobarique" src="images/meteorology/isobaric-map-coriolis.jpg" >}}
 <--->
 Le vent se déplace parallèlement aux isobares (sans tenir compte des frottements): c’est le vent géostrophique : équilibre entre les forces de pression et la force de Coriolis.
 
@@ -33,7 +33,7 @@ aux frottements est de l’ordre de 15° sur mer et 30° sur terre.
 
 Conséquence: pour une personne placée dos au vent, les hautes pressions sont à sa droite et les basses pressions à sa gauche (loi de Buys-Ballot).
 
-{{< figure caption="loi de Buys-Ballot" src="../images/buys-ballot-law.png" >}}
+{{< figure caption="loi de Buys-Ballot" src="images/meteorology/buys-ballot-law.png" >}}
 
 L’unité légale du vent est le m/s. Cependant, en voile on utilise le nœud (kt).
 1 kt = 1 nm/h = 1,852 km/h.
@@ -54,18 +54,18 @@ Sur la carte il est matérialisé à l'aide de barbules qui permettent d'estimer
 
 Les barbules se retrouvent toujours du côté des pressions les plus basses de la hampe.
 <--->
-{{< figure caption="Barbule de vent" src="../images/wind-barbul.png" >}}
+{{< figure caption="Barbule de vent" src="images/meteorology/wind-barbul.png" >}}
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}
 **Faites un schéma à l'aide de barbule d'une hampe de vent pour décrire un vent provenant du Nord-Est et de 25 kts de vitesse:**
 {{< details title="Réponse">}}
-{{< figure caption="25 noeuds" src="../images/25kts.png" >}}
+{{< figure caption="25 noeuds" src="images/meteorology/25kts.png" >}}
 {{< /details >}}
 {{< /hint_with_class >}}
 
 ## Échelle de Beaufort
-{{< figure caption="Echelle de Beaufort" src="../images/beaufort.png" >}}
+{{< figure caption="Echelle de Beaufort" src="images/meteorology/beaufort.png" >}}
 
 L’échelle de Beaufort est fonction de la force du vent. Anciennement, c’était une échelle d’observation (en fonction de l’état de la mer). L’échelle n’est pas linéaire.
 

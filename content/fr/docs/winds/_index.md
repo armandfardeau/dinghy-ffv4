@@ -15,7 +15,7 @@ Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous s
 ## Le vecteur
 
 {{< columns >}}
-{{< figure caption="Vecteurs" src="images/vectors.png" >}}
+{{< figure caption="Vecteurs" src="images/winds/vectors.png" >}}
 <--->
 
 - La longueur du vecteur est proportionnelle à la force du vent

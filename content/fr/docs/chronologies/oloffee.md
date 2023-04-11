@@ -11,7 +11,7 @@ navigation:
 
 ## Chronologie
 {{< columns >}}
-{{< figure caption="Oloffée à la bouée" src="../images/oloffee.png" >}}
+{{< figure caption="Oloffée à la bouée" src="images/chronologies/oloffee.png" >}}
 <--->
 
 1. Descente :

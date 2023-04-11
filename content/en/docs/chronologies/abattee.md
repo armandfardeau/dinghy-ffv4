@@ -4,7 +4,7 @@ weight: 3
 ---
 ## Chronology
 {{< columns >}}
-{{< figure caption="Slaughtered at the Buoy" src="../images/abattee.png" >}}
+{{< figure caption="Slaughtered at the Buoy" src="images/chronologies/abattee.png" >}}
 display_reading_time: true
 display_share_buttons: true
 navigation:
