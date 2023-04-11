@@ -26,7 +26,7 @@ The key word in resurfacing is temporization: you must be quick, but not hurry.
 An upwind desalination often occurs during a gust of wind, you must luff or ease off to avoid it.
 
 {{< columns >}}
-{{< figure caption="Desalting upwind" src="../images/dessalage_pres.jpg" >}}
+{{< figure caption="Desalting upwind" src="images/chronologies/dessalage_pres.jpg" >}}
 <--->
 Upwind, with effective regulation you can avoid getting wet.
 {{< /columns >}}
@@ -36,13 +36,13 @@ Downwind, desalting is often the result of a rhythmic roll, too much counter-hee
 {{< columns >}}
 When sailing downwind, you must avoid "hanging on" and react quickly to avoid making a hat.
 <--->
-{{< figure caption="Desalting downwind" src="../images/dessalage_portant.jpg" >}}
+{{< figure caption="Desalting downwind" src="images/chronologies/dessalage_portant.jpg" >}}
 {{< /columns >}}
 
 ## Making the hat
 Hopping means that the boat is completely overturned, a situation to be avoided. The risk is that the daggerboard will slip into the water, making the righting process more complex.
 {{< columns >}}
-{{< figure caption="Hat" src="../images/chapeau.jpg" >}}
+{{< figure caption="Hat" src="images/chronologies/chapeau.jpg" >}}
 display_reading_time: true
 display_share_buttons: true
 navigation:

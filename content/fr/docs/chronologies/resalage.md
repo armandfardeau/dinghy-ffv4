@@ -32,7 +32,7 @@ Le maître mot du ressalage est la temporisation: il faut être rapide, mais pas
 Le dessalage au près se produit souvent pendant une risée, il faut loffer ou choquer pour l'éviter.
 
 {{< columns >}}
-{{< figure caption="Déssalage au près" src="../images/dessalage_pres.jpg" >}}
+{{< figure caption="Déssalage au près" src="images/chronologies/dessalage_pres.jpg" >}}
 <--->
 Au près, avec une régulation efficace on peut éviter de se mouiller.
 {{< /columns >}}
@@ -42,13 +42,13 @@ Au portant, le déssalage est souvent le fruit d'un roulis rythmique, d'une cont
 {{< columns >}}
 Au portant, il faut éviter de "s'accrocher" et réagir rapidement pour éviter de faire chapeau.
 <--->
-{{< figure caption="Déssalage au portant" src="../images/dessalage_portant.jpg" >}}
+{{< figure caption="Déssalage au portant" src="images/chronologies/dessalage_portant.jpg" >}}
 {{< /columns >}}
 
 ## Faire chapeau
 Faire chapeau signifie que le bateau est complêtement retourné, c'est une situation à éviter. Le risque étant que la dérive glisse dans l'eau, le redressement s'en trouvera complexifié.
 {{< columns >}}
-{{< figure caption="Chapeau" src="../images/chapeau.jpg" >}}
+{{< figure caption="Chapeau" src="images/chronologies/chapeau.jpg" >}}
 <--->
 Si vous faites chapeau, il faut beaucoup de force pour extraire la voile à la succion de l'eau, penser à choquer dès que possible.
 {{< /columns >}}

@@ -55,12 +55,12 @@ L’humidité est la quantité de vapeur d’eau (eau à l’état gazeux) c
 {{< columns >}}
 Deux masses d’air ayant des propriétés (températures et humidités) différentes ne se mélangent pas ou peu. Selon la température de la masse d’air, la quantité de vapeur d’eau maximale admissible avant saturation varie. Cette variation est représentée par le diagramme de Mollier. Enfin, le point de rosée est la température pour laquelle la masse d’air doit être refroidie (à pression constante) pour qu’elle sature (humidité relative à 100 %).
 <--->
-{{< figure caption="Diagramme de Mollier" src="images/mollier-diagrams.png" >}}
+{{< figure caption="Diagramme de Mollier" src="images/meteorology/mollier-diagrams.png" >}}
 {{< /columns >}}
 
 ## L’atmosphère
 {{< columns >}}
-{{< figure caption="Digramme atmosphère" src="images/atmosphere.png" >}}
+{{< figure caption="Digramme atmosphère" src="images/meteorology/atmosphere.png" >}}
 <--->
 Il existe différentes couches dans l’atmosphère (du sol vers l’espace):
 

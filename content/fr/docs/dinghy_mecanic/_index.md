@@ -19,5 +19,5 @@ Une voile est «découpée» en plusieurs zones qui ont des noms bien précis
 Une voile est une surface en 3 dimensions.
 
 On appelle profil, une coupe de la voile le long du mât.
-{{< figure caption="Profil d'une voile" src="images/sail-profile.png" >}}
+{{< figure caption="Profil d'une voile" src="images/dinghy_mecanic/sail-profile.png" >}}
 Le profil de la voile évolue en fonction de la hauteur mais aussi en fonction des réglages.

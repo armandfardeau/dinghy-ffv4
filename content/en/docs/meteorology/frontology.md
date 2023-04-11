@@ -22,21 +22,21 @@ There are different types of fronts:
 {{< tabs "front" >}}
 {{< tab "cold front" >}}
 {{< columns >}}
-{{< figure caption="Cold front" src="../images/cold-front.png" >}}
+{{< figure caption="Cold front" src="images/meteorology/cold-front.png" >}}
 <--->
 Cold air, which by its dynamics, meets warmer air.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Warm front" >}}
 {{< columns >}}
-{{< figure caption="Warm front" src="../images/hot-front.png" >}}
+{{< figure caption="Warm front" src="images/meteorology/hot-front.png" >}}
 <--->
 Warm air, which by its dynamics, meets colder air.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "occluded front" >}}
 {{< columns >}}
-{{< figure caption="Occluded front" src="../images/occlus-front.png" >}}
+{{< figure caption="Occluded front" src="images/meteorology/occlus-front.png" >}}
 <--->
 A blanket of warm air that overhangs colder air.
 {{< /columns >}}
@@ -52,7 +52,7 @@ Stationary fronts form when two air masses with different characteristics meet b
 
 ## Creating a disturbance
 
-{{< figure caption="Creating a disruption" src="../images/perturbation.png" >}}
+{{< figure caption="Creating a disruption" src="images/meteorology/perturbation.png" >}}
 **Step 1 and 2:** warm air from the south and cold air from the north meet. The air masses do not mix, the system begins to roll up: this is the birth of the warm and cold fronts.
 
 **Stage 3:** the system begins to turn counterclockwise. The warm air is trapped by the cold air.
@@ -60,4 +60,4 @@ Stationary fronts form when two air masses with different characteristics meet b
 **Step 4:** Trapped between the two cold air masses, the warm air is rejected at altitude: this is the beginning of the occlusion. The fact of turning will create a depression associated with the disturbance. At the end of the life of a disturbance, the air masses amalgamate and/or no longer become sufficiently different to maintain the fronts: this is frontolysis.
 
 ## Disturbance seen from above
-{{< figure caption="Perturbation seen from above" src="../images/perturbation-skyview.jpg" >}}
+{{< figure caption="Perturbation seen from above" src="images/meteorology/perturbation-skyview.jpg" >}}

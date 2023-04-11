@@ -4,7 +4,7 @@ weight: 3
 ---
 ## Chronology
 {{< columns >}}
-{{< figure caption="Oloffee at the Buoy" src="../images/oloffee.png" >}}
+{{< figure caption="Oloffee at the Buoy" src="images/chronologies/oloffee.png" >}}
 display_reading_time: true
 display_share_buttons: true
 navigation:

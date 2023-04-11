@@ -54,7 +54,7 @@ Il existe plusieurs modèles météorologiques, mais les plus utilisés sont les
 {{< tabs "meteo-models" >}}
 {{< tab "GFS" >}}
 {{< columns >}}
-{{< figure caption="GFS logo" src="../images/gfs_logo.png" >}}
+{{< figure caption="GFS logo" src="images/meteorology/gfs_logo.png" >}}
 {{< /columns >}}
 {{< columns >}}
 Le modèle américain GFS (très utilisé) est réalisé par le NCEP (National Centers Environmental Prediction), branche du NOAA (National Oceanic and Atmospheric administration) et donne des prévisions sur différentes données.
@@ -68,7 +68,7 @@ Sa maille est de **22 km**
 {{< /tab >}}
 {{< tab "ECMWF" >}}
 {{< columns >}}
-{{< figure caption="ECMWF logo" src="../images/ECMWF-logo.png" >}}
+{{< figure caption="ECMWF logo" src="images/meteorology/ECMWF-logo.png" >}}
 {{< /columns >}}
 {{< columns >}}
   ECMWF (European Center for Medium range Weather Forecasting), modèle européen, est un des leaders dans la prévision des blocages, mais aussi des tempêtes.
@@ -83,7 +83,7 @@ Sa maille est de **9 km**
 
 {{< tab "AROME" >}}
 {{< columns >}}
-{{< figure caption="AROME logo" src="../images/arome-logo.jpeg" >}}
+{{< figure caption="AROME logo" src="images/meteorology//arome-logo.jpeg" >}}
 {{< /columns >}}
 {{< columns >}}
 Le modèle AROME est le modèle de prévision numérique du temps à maille fine utilisé notamment par Météo France. En service depuis décembre 2008, il a été créé  pour améliorer les prévisions à courte échéance des phénomènes potentiellement dangereux comme les épisodes méditerranéens, les canicules, les orages, les brouillards... AROME a été conçu dans le cadre d'une collaboration internationale avec pour objectif d'utiliser les dernières avancées en modélisation atmosphérique. La maille de calcul du modèle est très précise avec seulement 1,3 km (contre 5 km pour ARPEGE sur la France).
@@ -98,7 +98,7 @@ Sa maille est de **1,3 km** ou **2,5 km**
 
 {{< tab "ARPEGE" >}}
 {{< columns >}}
-{{< figure caption="ARPEGE logo" src="../images/arpege-logo.png" >}}
+{{< figure caption="ARPEGE logo" src="images/meteorology//arpege-logo.png" >}}
 {{< /columns >}}
 {{< columns >}}
 ARPEGE est le principal modèle numérique de Météo-France. C'est un modèle global qui découpe l'atmosphère sur une centaine de couches sur la verticale et sa résolution horizontale varie dans l'espace. Il permet de prévoir les phénomènes de grande échelle (dépressions, anticyclones par exemple) qui parcourent le globe.
@@ -112,7 +112,7 @@ Sa maille est de **5 km**
 {{< /tab >}}
 {{< tab "ICON" >}}
 {{< columns >}}
-{{< figure caption="ICON logo" src="../images/icon-logo.png" >}}
+{{< figure caption="ICON logo" src="images/meteorology//icon-logo.png" >}}
 {{< /columns >}}
 {{< columns >}}
 ICON (Icosahedral Nonhydrostatic) est un modèle allemand de très bonne qualité, aussi bien utilisé pour sa maille de 22km que pour celle de 5km. Le modèle passe-partout par excellence.
@@ -129,16 +129,16 @@ Sa maille est de **5 km**
 ## Exemple de prévisions entre deux modèles sur la même zone (Deauville)
 
 {{< columns >}}
-{{< figure caption="Modèle GFS 23km" src="../images/gfs-previ.png" >}}
+{{< figure caption="Modèle GFS 23km" src="images/meteorology//gfs-previ.png" >}}
 <--->
-{{< figure caption="Modèle Arôme 1,3KM" src="../images/arome-previ.png" >}}
+{{< figure caption="Modèle Arôme 1,3KM" src="images/meteorology//arome-previ.png" >}}
 {{< /columns >}}
 On constate que les deux modèles donnent des prévisions différentes, GFS donne un vent établi et des rafales plus fortes, alors que Arôme donne un vent plus faible et des rafales plus faibles.
 En revanche les directions sont similaires.
 
 {{< columns >}}
-{{< figure caption="Modèle GFS 23km" src="../images/gfs-windy-previ.png" >}}
+{{< figure caption="Modèle GFS 23km" src="images/meteorology//gfs-windy-previ.png" >}}
 <--->
-{{< figure caption="Modèle Arôme 1,3KM" src="../images/arome-windy-previ.png" >}}
+{{< figure caption="Modèle Arôme 1,3KM" src="images/meteorology//arome-windy-previ.png" >}}
 {{< /columns >}}
 On peut supposer que la présence d'un vent de terre (vent de sud-ouest) a influencé la prévision du modèle GFS qui ne prend pas en compte aussi précisement l'atténuation de la côte.

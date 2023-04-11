@@ -19,5 +19,5 @@ A sail is "cut" into several areas that have specific names.
 A sail is a surface in 3 dimensions.
 
 A profile is a section of the sail along the mast.
-{{< figure caption="Profile of a sail" src="images/sail-profile.png" >}}
+{{< figure caption="Profile of a sail" src="images/dinghy_mecanic/sail-profile.png" >}}
 The profile of the sail changes with height but also with trim.

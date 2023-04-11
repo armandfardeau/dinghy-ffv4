@@ -12,7 +12,7 @@ navigation:
 
 The isobaric map represents the current or forecasted barometric situation with the position of the fronts. There are several types of maps: the surface map (which represents the pressure at sea level) and the altitude maps (representing the geopotential altitude at a given pressure), however the altitude maps are more complex to interpret. A surface isobaric map can be plotted, that is, with wind and pressure readings.
 
-{{< figure caption="isobaric map" src="../images/carte-isobarique.png" >}}
+{{< figure caption="isobaric map" src="images/meteorology/carte-isobarique.png" >}}
 
 1. Isobaric. It shows a pressure of 1020 hPa.
 2. Pressure gradient. The space between two Isobars.
@@ -35,7 +35,7 @@ Attention: the reality is often much more complex
 
 ## Déterminer la vitesse du vent
 
-{{< figure caption="carte-isobarique" src="../images/force-du-vent.png" >}}
+{{< figure caption="carte-isobarique" src="images/meteorology/force-du-vent.png" >}}
 
 1. Let's start by retrieving a weather map with pressures. For example on [metoffice](https://www.metoffice.gov.uk/weather/maps-and-charts/surface-pressure).
 2. Choose an area for which you want to estimate the wind. I suggest you to start off Spain at the level of the purple star in 1 on the diagram.
@@ -46,7 +46,7 @@ Attention: the reality is often much more complex
 
 ## Determine the wind direction
 
-{{< figure caption="isobaric map" src="../images/direction-du-vent.png" >}}
+{{< figure caption="isobaric map" src="images/meteorology/direction-du-vent.png" >}}
 
 1. We start by drawing the tangent at an isobaric. Look at the blue line in 1 on the diagram.
 2. Then we draw the wind direction: at 20° from the tangent on the low pressure side (so towards the side of the isobar at 1008 hPa). Look at the red line in 2 on the diagram.
@@ -60,7 +60,7 @@ Be careful it's 20° over the sea, and 40° over the land.
 
 Warm front - Cold front - Occluded front - High - Low
 
-{{< figure caption="isobaric map" src="../images/isobaric-map.gif" >}}
+{{< figure caption="isobaric map" src="images/meteorology/isobaric-map.gif" >}}
 
 {{< details title="Response">}}
 **A**. Depression - **B**. High pressure - **C**. Cold front - **D**. Occluded front - **E**. Warm front / 1. speed: About 40 kts - direction: West / 2. speed: About 10 Kts - direction: Northwest / This is an analysis map.

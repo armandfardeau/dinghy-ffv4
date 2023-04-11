@@ -10,14 +10,14 @@ navigation:
 ---
 ## Passage of a "typical" disturbance on the Brittany coasts
 ### Diagram of the passage of a disturbance
-{{< figure caption="Fronts passage" src="../images/fronts-passage.jpg" >}}
+{{< figure caption="Fronts passage" src="images/meteorology/fronts-passage.jpg" >}}
 For an observer placed on the right side of the diagram, the cloudy ceiling will sink and become darker and darker accompanied by heavy rain.
 Then, in a second time, it will clear and give way to a sky filled with stratocumulus or stratus clouds and a few showers.
 This respite will be short-lived and will give way to strong winds and violent showers as the cumulonimbus passes. Thunderstorms are possible.
 The situation will then improve to give way to a trailing sky with a few squalls and clearings.
 
 {{< columns >}}
-{{< figure caption="Animated hot front" src="../images/hot_front_animated.gif" >}}
+{{< figure caption="Animated hot front" src="images/meteorology/hot_front_animated.gif" >}}
 <--->
 The warm air moves towards colder air.
 The warm front is therefore an upwelling front because the air settles on the surface of the cold mass.
@@ -35,23 +35,23 @@ It is of short distance and it is easy to note with precision the moment of its 
 It is likely to give strong gusts of wind.
 The warm air creates an elevation cloud. (Cumulonimbus type cloud **Cb**)
 <--->
-{{< figure caption="Animated cold front" src="../images/cold_front_animated.gif" >}}
+{{< figure caption="Animated cold front" src="images/meteorology/cold_front_animated.gif" >}}
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}
 **Reproduce the diagram of the arrival of a disturbance**
 {{< details title="Réponse" >}}
 {{< columns >}}
-{{< figure caption="Fronts passage" src="../images/fronts-passage.jpg" >}}
+{{< figure caption="Fronts passage" src="images/meteorology/fronts-passage.jpg" >}}
 <--->
-{{< figure caption="Perturbation" src="../images/perturbation.gif" >}}
+{{< figure caption="Perturbation" src="images/meteorology/perturbation.gif" >}}
 {{< /columns >}}
 Several presentations are possible
 {{< /details>}}
 {{< /hint_with_class >}}
 
 ### View from above
-{{< figure caption="Schematic low-pressure system seen from above" src="../images/sky-view-depression.jpg" >}}
+{{< figure caption="Schematic low-pressure system seen from above" src="images/meteorology/sky-view-depression.jpg" >}}
 The clouds associated with the depression are in order:
 
 1. Cirrus (**CI**) and Cirostatus (**CS**)
@@ -64,9 +64,9 @@ The clouds associated with the depression are in order:
 
 ## Satellite view of a depression
 {{< columns >}}
-{{< figure caption="Cold front" src="../images/satellite-view-depression.jpg" >}}
+{{< figure caption="Cold front" src="images/meteorology/satellite-view-depression.jpg" >}}
 <--->
-{{< figure caption="Disruption seen from above" src="../images/perturbation-skyview.jpg" >}}
+{{< figure caption="Disruption seen from above" src="images/meteorology/perturbation-skyview.jpg" >}}
 {{< /columns >}}
 
 Very often, the cloud structure of a disturbance allows you to distinguish several parts. The head is located in front of the disturbance.
@@ -77,7 +77,7 @@ Quite often, the low-pressure center can be isolated on satellite photographs, b
 
 {{< hint_with_class question warning >}}
 **For each letter indicate the corresponding element:**
-{{< figure caption="Depression question" src="../images/depression-question.jpg" >}}
+{{< figure caption="Depression question" src="images/meteorology/depression-question.jpg" >}}
 {{< details title="Answer">}}
 **A:** Warm front / **B:** Cold front / **C:** Triple point / **D:** Occluded front / **E:** Depression center
 {{< /details>}}

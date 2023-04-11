@@ -17,7 +17,7 @@ Le comité de course déroule la procédure de départ à l'aide de pavillons et
 ## Procédure type de 5 minutes (simplifiée)
 
 {{< columns >}}
-{{< figure caption="Procédure de départ" src="../images/regatta-start.png" >}}
+{{< figure caption="Procédure de départ" src="images/regatta/regatta-start.png" >}}
 <--->
 Ouverture de la ligne (**- 10 min**) :
 
@@ -51,7 +51,7 @@ Départ (**- 0 min**):
 
 ### Rappel individuel
 {{< columns >}}
-{{< figure caption="Pavillon \"X\" de rappel individuel" src="../images/x-ray.svg" >}}
+{{< figure caption="Pavillon \"X\" de rappel individuel" src="images/regatta/x-ray.svg" >}}
 <--->
 Le pavillon "X" (x-ray) est envoyé si un ou plusieurs bateaux **identifiables** volent le départ.
 
@@ -60,7 +60,7 @@ Un signal sonore court associé est obligatoire.
 
 ### Rappel Général
 {{< columns >}}
-{{< figure caption="Pavillon \"Premier substitut\" de rappel général" src="../images/premier-substitut.svg" >}}
+{{< figure caption="Pavillon \"Premier substitut\" de rappel général" src="images/regatta/premier-substitut.svg" >}}
 <--->
 Si plusieurs bateaux non identifiables volent le départ, le pavillon "Premier substitut" est envoyé.
 

@@ -12,14 +12,14 @@ navigation:
 
 ### Rule 10 - Starboard tack priority
 {{< columns >}}
-{{< figure caption="The sailboat in black shall not force the white to maneuver" src="../images/tribord.png" >}}
+{{< figure caption="The sailboat in black shall not force the white to maneuver" src="images/regatta/tribord.png" >}}
 <--->
 When two sailboats pass each other while sailing in opposite directions, the one on starboard tack (receiving the wind from starboard) has priority. The sailboat on the port tack must then maneuver so as not to interfere with the other.
 {{< /columns >}}
 
 ### Rule 11 - Leeward Priority
 {{< columns >}}
-{{< figure caption="The windward sailboat shall not interfere with the leeward sailboat" src="../images/sous-vent.png" >}}
+{{< figure caption="The windward sailboat shall not interfere with the leeward sailboat" src="images/regatta/sous-vent.png" >}}
 <--->
 When two sailboats are under the same tack and their trajectories converge, the priority belongs to the leeward sailboat. The windward sailboat must not generate the trajectory of the leeward sailboat or force it to maneuver.
 
@@ -28,7 +28,7 @@ On the other hand, the leeward sailboat may not interfere with the windward sail
 
 ### Rule 12 - Catch-up priority
 {{< columns >}}
-{{< figure caption="The catching sailboat shall not interfere with the sailboat ahead" src="../images/devant.png" >}}
+{{< figure caption="The catching sailboat shall not interfere with the sailboat ahead" src="images/regatta/devant.png" >}}
 <--->
 When a sailboat catches up with another, the right of way belongs to the overtaken sailboat.
 
@@ -37,7 +37,7 @@ The overtaking sailboat must not interfere with the sailboat in front of it.
 
 ### Rule 18 - Priority when passing the buoy
 {{< columns >}}
-{{< figure caption="The innermost sailboat has priority" src="../images/passage-bouee.png" >}}
+{{< figure caption="The innermost sailboat has priority" src="images/regatta/passage-bouee.png" >}}
 <--->
 When passing a mark, the sailboat with priority is the one furthest inside the turn. Other sailboats will have to move aside if they interfere with the priority sailboat.
 {{< /columns >}}

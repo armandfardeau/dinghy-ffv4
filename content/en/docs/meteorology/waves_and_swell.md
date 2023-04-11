@@ -18,7 +18,7 @@ navigation:
 
 # Formation
 {{< columns >}}
-{{< figure caption="Birth of swell and waves" src="../images/waves-birth.jpg" >}}
+{{< figure caption="Birth of swell and waves" src="images/meteorology/waves-birth.jpg" >}}
 <--->
 
 1. Creation of waves over the entirety of the world's seas
@@ -33,7 +33,7 @@ Example: we take a series of 100 waves. On these 100 waves we keep only the 33 h
 
 # Energy of the wave
 {{< columns >}}
-{{< figure caption="Wave displacement" src="../images/wave-energy.png" >}}
+{{< figure caption="Wave displacement" src="images/meteorology/wave-energy.png" >}}
 <--->
 When waves do not break, there is almost no horizontal displacement of water over a short space of time. They are waves (energy displacement).
 {{< /columns >}}

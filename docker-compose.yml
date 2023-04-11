@@ -3,7 +3,7 @@ version: '3'
 services:
   hugo:
     container_name: hugo
-    image: peaceiris/hugo:v0.74.2
+    image: peaceiris/hugo:v0.83.1-full
     # image: peaceiris/hugo:v0.x.x-mod  # Hugo Modules
     ports:
       - 1313:1313

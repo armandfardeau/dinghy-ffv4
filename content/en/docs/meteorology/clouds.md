@@ -16,28 +16,28 @@ To saturate air (at almost constant pressure), it must be cooled. There are 4 ty
 {{< tabs "cooling" >}}
 {{< tab "Frontal" >}}
 {{< columns >}}
-{{< figure caption="Frontal cooling" src="../images/frontal-cooling.png" >}}
+{{< figure caption="Frontal cooling" src="images/meteorology/frontal-cooling.png" >}}
 <--->
 Two air masses of different properties (warm and cold) meet. They do not mix. The warmer one is forced to rise (it is the lighter one). As it rises, it cools and condenses.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Orographic uplift" >}}
 {{< columns >}}
-{{< figure caption="Orographic uplift" src="../images/orographique-cooling.png" >}}
+{{< figure caption="Orographic uplift" src="images/meteorology/orographique-cooling.png" >}}
 <--->
 An air mass encounters a mountain and is forced to rise. The air cools and condensation can occur.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Convection" >}}
 {{< columns >}}
-{{< figure caption="Convective cooling" src="../images/convection-cooling.png" >}}
+{{< figure caption="Convective cooling" src="images/meteorology/convection-cooling.png" >}}
 <--->
 The ground heats the air at its contact forcing it to rise. As it rises, it cools and condenses (figure at left).
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Cooling from the bottom" >}}
 {{< columns >}}
-{{< figure caption="Base cooling" src="../images/base-cooling.png" >}}
+{{< figure caption="Base cooling" src="images/meteorology/base-cooling.png" >}}
 <--->
 Warm, moist air flows onto a cooler surface.
 {{< /columns >}}
@@ -48,7 +48,7 @@ Warm, moist air flows onto a cooler surface.
 
 You can recognize a cloud by its shape and altitude (see [Recognizing Clouds]({{<relref"/docs/annexes/clouds_recognition">}}) for pictures).
 {{< columns >}}
-{{< figure caption="The different types of clouds" src="../images/clouds.png" >}}
+{{< figure caption="The different types of clouds" src="images/meteorology/clouds.png" >}}
 <--->
 
 - Etage supérieur (5000 m et plus) : **cirro**.

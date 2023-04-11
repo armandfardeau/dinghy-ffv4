@@ -24,21 +24,21 @@ On distingue différents types de fronts :
 {{< tabs "front" >}}
 {{< tab "Front froid" >}}
 {{< columns >}}
-{{< figure caption="Front froid" src="../images/cold-front.png" >}}
+{{< figure caption="Front froid" src="images/meteorology/cold-front.png" >}}
 <--->
 Air froid, qui par sa dynamique, rencontre un air plus chaud.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Front chaud" >}}
 {{< columns >}}
-{{< figure caption="Front chaud" src="../images/hot-front.png" >}}
+{{< figure caption="Front chaud" src="images/meteorology/hot-front.png" >}}
 <--->
 Air chaud, qui par sa dynamique, rencontre un air plus froid.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Front occlus" >}}
 {{< columns >}}
-{{< figure caption="Front occlus" src="../images/occlus-front.png" >}}
+{{< figure caption="Front occlus" src="images/meteorology/occlus-front.png" >}}
 <--->
 Chape d’air chaud qui surplombe un air plus froid.
 {{< /columns >}}
@@ -54,7 +54,7 @@ Les fronts stationnaires se forment quand deux masses d’air ayant des caracté
 
 ## Création d’une perturbation
 
-{{< figure caption="Création d’une perturbation" src="../images/perturbation.png" >}}
+{{< figure caption="Création d’une perturbation" src="images/meteorology/perturbation.png" >}}
 **Etape 1 et 2 :** l’air chaud venant du sud et l’air froid venant du nord se rencontrent. Les masses d’air ne se mélangeant pas, le système commence à s’enrouler : c’est la naissance des fronts chaud et froid.
 
 **Etape 3 :** le système commence à tourner dans le sens antihoraire. L’air chaud se fait enfermer par l’air froid.
@@ -62,4 +62,4 @@ Les fronts stationnaires se forment quand deux masses d’air ayant des caracté
 **Etape 4 :** coincé entre les deux masses d’air froid, l’air chaud est rejeté en altitude : c’est le début de l’occlusion. Le fait de tourner va créer une dépression associée à la perturbation. A la fin de la vie d’une perturbation, les masses d’air s’amalgament et/ou ne deviennent plus suffisamment différentes pour faire perdurer les fronts : c’est la frontolyse.
 
 ## Perturbation vue du haut
-{{< figure caption="Perturbation vue du haut" src="../images/perturbation-skyview.jpg" >}}
+{{< figure caption="Perturbation vue du haut" src="images/meteorology/perturbation-skyview.jpg" >}}

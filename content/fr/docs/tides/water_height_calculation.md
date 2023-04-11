@@ -24,7 +24,7 @@ Soyez vigilant aux points suivants:
 ## La méthode des douzièmes
 
 {{< columns >}}
-{{< figure caption="Courbe sinusoïdale de la marée" src="../images/tide-sinusoidale.png" >}}
+{{< figure caption="Courbe sinusoïdale de la marée" src="images/tides/tide-sinusoidale.png" >}}
 <--->
 Le cycle des marées en France est de 2 marées par jour, il peut être représenté par une sinusoïdale.
 
@@ -61,7 +61,7 @@ On va faire un graphique avec en abscisse le temps en deuxième et en ordonné
 * Amplitude: 6,40m – 3,10m = **3,30m**
 
 {{< columns >}}
-{{< figure caption="Calcul de la marée grâce à un papier gradué et à la méthode des douzièmes" src="../images/tide-calculation.png" >}}
+{{< figure caption="Calcul de la marée grâce à un papier gradué et à la méthode des douzièmes" src="images/tides/tide-calculation.png" >}}
 <--->
 
 * 6h06: **3,10m**

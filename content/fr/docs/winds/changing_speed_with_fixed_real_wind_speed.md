@@ -16,9 +16,9 @@ Que se passe t-il lorsqu’un dériveur accélère et lorsqu’il ralentit ?
 ## Allure de près
 
 {{< columns >}}
-{{< figure caption="Vecteurs" src="../images/pres-serre.svg" >}}
+{{< figure caption="Vecteurs" src="images/winds/pres-serre.svg" >}}
 <--->
-{{< figure caption="Vecteurs" src="../images/pres-abattu.svg" >}}
+{{< figure caption="Vecteurs" src="images/winds/pres-abattu.svg" >}}
 {{< /columns >}}
 Au près, si on accélère, le vent apparent augmente et refuse.
 Pour garder le bon réglage: il faut border ou abattre.
@@ -26,14 +26,14 @@ Pour garder le bon réglage: il faut border ou abattre.
 ## Allure portante
 
 {{< columns >}}
-{{< figure caption="Vecteurs" src="../images/largue.svg" >}}
+{{< figure caption="Vecteurs" src="images/winds/largue.svg" >}}
 <--->
-{{< figure caption="Vecteurs" src="../images/largue-abattu.svg" >}}
+{{< figure caption="Vecteurs" src="images/winds/largue-abattu.svg" >}}
 {{< /columns >}}
 Au portant, si on accélère, le vent apparent augmente et refuse.
 Plus le dériveur est rapide, on peut avoir un vent apparent très lofé au portant.
 {{< columns >}}
-{{< figure caption="Vecteurs" src="../images/vent-arriere.svg" >}}
+{{< figure caption="Vecteurs" src="images/winds/vent-arriere.svg" >}}
 <--->
 Plus on avance au vite au vent arrière, plus le vent apparent est faible.
 {{< /columns >}}
@@ -45,7 +45,7 @@ Cette courbe est construite en relevant la vitesse du bateau selon l’angle par
 Il s'agit des valeurs de vitesse maximum théorique, et les atteindre dépendra du niveau du stagiaire.
 
 {{< columns >}}
-{{< figure caption="Polaire de vitesse Laser solo standard" src="../images/laser-polar.jpg" >}}
+{{< figure caption="Polaire de vitesse Laser solo standard" src="images/winds/laser-polar.jpg" >}}
 <--->
 La vitesse maximale est obtenue pour 105°-110° pour 30 kts de vent.
 Dans l'ensemble, l'allure la plus rapide est le bon plein.

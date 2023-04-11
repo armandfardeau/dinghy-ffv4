@@ -3,6 +3,7 @@
 baseURL: https://armandfardeau.github.io/dinghy-ffv4/
 title: Dériveur - FFV4
 theme: book
+timeout: 180s
 defaultContentLanguage: fr
 googleAnalytics: "UA-49235758-5"
 

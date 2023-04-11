@@ -10,7 +10,7 @@ navigation:
 ---
 ## Chronologie
 {{< columns >}}
-{{< figure caption="Abattée à la bouée" src="../images/abattee.png" >}}
+{{< figure caption="Abattée à la bouée" src="images/chronologies//abattee.png" >}}
 <--->
 
 1. Préparation:

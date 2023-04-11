@@ -35,7 +35,7 @@ Disadvantage: we drift faster than him! To take it into account
 - It is necessary to be able to recover the HLM by "stretching" the arm. It is thus a question of aiming at it. Be careful if you loff or shoot at him: the turning radius is not zero.
 
 {{< columns >}}
-{{< figure caption="The luffing maneuver" src="../images/hlm.png" >}}
+{{< figure caption="The luffing maneuver" src="images/chronologies/hlm.png" >}}
 <--->
 During the entire maneuver, gybing is avoided to prevent over-accidents.
 

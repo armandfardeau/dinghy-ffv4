@@ -20,14 +20,14 @@ If we take the dinghy alone (without its crew), its center of gravity is invaria
 
 On the other hand, once its crew is on board, this center of gravity can be modified according to the position of the navigator(s).
 <--->
-{{< figure src="../images/cg.png" title="Center of gravity" >}}
+{{< figure src="images/dinghy_mecanic/cg.png" title="Center of gravity" >}}
 {{< /columns >}}
 {{<hint info>}}It can also vary depending on how much water has entered the boat during navigation.{{< /hint >}}
 
 ### The center of hull
 
 {{< columns >}}
-{{< figure src="../images/cc.png" title="Centerline" >}}
+{{< figure src="images/dinghy_mecanic/cc.png" title="Centerline" >}}
 <--->
 The hull center {{< katex >}}CC{{< /katex >}} of a dinghy is the center of gravity of its submerged part.
 
@@ -43,12 +43,12 @@ The center of buoyancy varies according to the boat's inclination to the water, 
 In the lateral stability of the dinghy, gravity and buoyancy form a pair of
 forces.
 <--->
-{{< figure src="../images/dessalage.png" title="Desalting" >}}
+{{< figure src="images/dinghy_mecanic/dessalage.png" title="Desalting" >}}
 {{< /columns >}}
 A capsized boat is likely to capsize because of this force couple called here capsizing torque.
 
 {{< columns >}}
-{{< figure src="../images/ressalage.png" title="Ressalage" >}}
+{{< figure src="images/dinghy_mecanic/ressalage.png" title="Ressalage" >}}
 <--->
 {{< /columns >}}
 If I stand on the centerboard of my boat, I shift my center of gravity and the conjunction of forces this time forms a righting torque.
@@ -61,7 +61,7 @@ Lateral balance downwind is often tricky.
 
 At issue is the force couple created by the aerodynamic force {{< katex >}}Fa{{< /katex >}} and the resistance of the hull {{< katex >}}Fr{{< /katex >}}.
 <--->
-{{< figure src="../images/va.png" title="Balancing in a tailwind" >}}
+{{< figure src="images/dinghy_mecanic/va.png" title="Balancing in a tailwind" >}}
 {{< /columns >}}
 {{< hint info >}}To eliminate this torque, on round-hulled dinghies, a slight counter-heel is preferred so that the point of application of the aerodynamic force and that of the hull drag align and balance the boat.{{< /hint >}}
 
@@ -69,7 +69,7 @@ At issue is the force couple created by the aerodynamic force {{< katex >}}Fa{{<
 
 ### Flat boat
 {{< columns >}}
-{{< figure src="../images/fb.png" title="Balance of the flat boat" >}}
+{{< figure src="images/dinghy_mecanic/fb.png" title="Balance of the flat boat" >}}
 <--->
 Let's assume that gravity, buoyancy, aero and hydrodynamic forces, and hull drag all act in the same vertical plane.
 
@@ -81,7 +81,7 @@ We therefore assume that there is no problem of lateral trim.
 Conversely, it will sink if the velocity force is on the front (the boat is slack).
 principle that windsurfers use among other things to control their direction.
 <--->
-{{< figure src="../images/fb2.png" title="Balancing the boat flat" >}}
+{{< figure src="images/dinghy_mecanic/fb2.png" title="Balancing the boat flat" >}}
 {{< /columns >}}
 
 Reversing or advancing the centerboard is possible in dinghies thanks to:
@@ -94,7 +94,7 @@ Reversing or advancing the centerboard is possible in dinghies thanks to:
 {{< columns >}}
 With heel, in the dinghy's lateral balance, the luffing torque between the velocity force and the hull resistance increases (note: The anti-drift force also accentuates the heel). If my boat is luffing, this luffing reduces the incidence of wind on the sails (the velocity force) and my boat will then level out on its own.
 <--->
-{{< figure src="../images/nfb.png" title="Heeled boat" >}}
+{{< figure src="images/dinghy_mecanic/nfb.png" title="Heeled boat" >}}
 {{< /columns >}}
 {{< hint info >}}On the other hand, counter-heeling offers a torque that brings the dinghy down. Hence the importance of sailing a flat boat to avoid course corrections with the helm, which slows the boat down enormously. {{< /hint >}}
 

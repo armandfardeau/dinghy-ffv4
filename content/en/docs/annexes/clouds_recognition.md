@@ -15,40 +15,40 @@ On the altitude side, the names of the highest clouds are composed with the pref
 - in the upper level (more than 5 km of altitude), we find the cirrus (Ci), the cirrocumulus (Cc) and the cirrostratus (Cs), composed of ice crystals.
 - The nimbostratus (Ns), the cumulus (Cu) and the cumulonimbus (Cn) have an important vertical development and occupy several "stages".
 
-{{< figure caption="Clouds are classified into ten genera according to their shape and the altitude of their base." src="../images/Classification-nuages.jpg" >}}
+{{< figure caption="Clouds are classified into ten genera according to their shape and the altitude of their base." src="images/annexes/Classification-nuages.jpg" >}}
 
 The different cloud genera themselves encompass several subcategories that further clarify this classification.
 
 ## Stratocumulus (Sc)
-{{< figure caption="Statocumulus clouds can be black" src="../images/Stratocumulus.jpg" >}}
-{{< figure caption="Statocumulus clouds may show blue sky" src="../images/Stratocumulus_2.jpg" >}}
+{{< figure caption="Statocumulus clouds can be black" src="images/annexes/Stratocumulus.jpg" >}}
+{{< figure caption="Statocumulus clouds may show blue sky" src="images/annexes/Stratocumulus_2.jpg" >}}
 
 ## Stratus (S)
-{{< figure caption="The stratus cloud is a low cloud that can completely hide the sky" src="../images/Stratus.jpg" >}}
+{{< figure caption="The stratus cloud is a low cloud that can completely hide the sky" src="images/annexes/Stratus.jpg" >}}
 
 ## Cumulus (Cu)
-{{< figure caption="Cumulus can extend from the lower to middle levels" src="../images/Cumulus.jpg" >}}
-{{< figure caption="The Cumulus humilis is known as fair weather cumulus" src="../images/Cumulus-humilis.jpg" >}}
-{{< figure caption="Cumulus mediocris can turn into cumulus congestus" src="../images/Cumulus-mediocris.jpg" >}}
-{{< figure caption="The cumulus congestus is a convective cloud that develops when the air is humid and unstable, it can give a cumulonimbus" src="../images/Cumulus-congestus.jpg" >}}
+{{< figure caption="Cumulus can extend from the lower to middle levels" src="images/annexes/Cumulus.jpg" >}}
+{{< figure caption="The Cumulus humilis is known as fair weather cumulus" src="images/annexes/Cumulus-humilis.jpg" >}}
+{{< figure caption="Cumulus mediocris can turn into cumulus congestus" src="images/annexes/Cumulus-mediocris.jpg" >}}
+{{< figure caption="The cumulus congestus is a convective cloud that develops when the air is humid and unstable, it can give a cumulonimbus" src="images/annexes/Cumulus-congestus.jpg" >}}
 
 ## Cumulonimbus (Cn)
-{{< figure caption="At the end of its evolution, the upper part of the cumulonimbus looks like an anvil" src="../images/Cumulonimbus.jpg" >}}
-{{< figure caption="The cumulonimbus can give thunderstorms" src="../images/Cumulonimbus_2.jpg" >}}
+{{< figure caption="At the end of its evolution, the upper part of the cumulonimbus looks like an anvil" src="images/annexes/Cumulonimbus.jpg" >}}
+{{< figure caption="The cumulonimbus can give thunderstorms" src="images/annexes/Cumulonimbus_2.jpg" >}}
 
 ## Cirrocumulus (Cc)
-{{< figure caption="The cirrocumulus is shaped like a cotton flower" src="../images/Cirrocumulus.jpg" >}}
+{{< figure caption="The cirrocumulus is shaped like a cotton flower" src="images/annexes/Cirrocumulus.jpg" >}}
 
 ## Altostratus (Ace)
-{{< figure caption="The altostratus forms a vast grey layer slightly striated, which lets the sunlight diffuse without apparent shadow on the ground, as through a frosted glass" src="../images/Altostratus.jpg" >}}
+{{< figure caption="The altostratus forms a vast grey layer slightly striated, which lets the sunlight diffuse without apparent shadow on the ground, as through a frosted glass" src="images/annexes/Altostratus.jpg" >}}
 
 ## Altocumulus (Ac)
-{{< figure caption="Altocumulus consists of layers or sheets of white or gray clouds, and can indicate an approaching front and a change in weather" src="../images/Altocumulus.jpg" >}}
-{{< figure caption="The classic altocumulus banks often thicken to become a nimbostratus" src="../images/Altocumulus_2.jpg" >}}
+{{< figure caption="Altocumulus consists of layers or sheets of white or gray clouds, and can indicate an approaching front and a change in weather" src="images/annexes/Altocumulus.jpg" >}}
+{{< figure caption="The classic altocumulus banks often thicken to become a nimbostratus" src="images/annexes/Altocumulus_2.jpg" >}}
 
 ## Nimbostratus (Ns)
-{{< figure caption="Nimbostratus are associated with continuous rain, snow or hail" src="../images/Nimbostratus.jpg" >}}
+{{< figure caption="Nimbostratus are associated with continuous rain, snow or hail" src="images/annexes/Nimbostratus.jpg" >}}
 
 ## Cirrus (Ci)
-{{< figure caption="A cirrus cloud has the shape of a set of white and delicate filaments or of banks and narrow bands" src="../images/Cirrus.jpg" >}}
-{{< figure caption="Cirrus clouds can have blurred contours" src="../images/Cirrus_2.jpg" >}}
+{{< figure caption="A cirrus cloud has the shape of a set of white and delicate filaments or of banks and narrow bands" src="images/annexes/Cirrus.jpg" >}}
+{{< figure caption="Cirrus clouds can have blurred contours" src="images/annexes/Cirrus_2.jpg" >}}

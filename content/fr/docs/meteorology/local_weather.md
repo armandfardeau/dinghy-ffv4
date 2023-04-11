@@ -20,7 +20,7 @@ Certaines brises thermiques peuvent souffler jusqu'à force 6.
 
 ### Brise thermique diurne
 {{< columns >}}
-{{< figure caption="Brise cotière" src="../images/costal-breeze.png" >}}
+{{< figure caption="Brise cotière" src="images/meteorology/costal-breeze.png" >}}
 <--->
 Le soleil réchauffe la terre plus vite que la mer. L’air commence à s’élever.
 Cet air peut être entraîné par le vent synoptique d’altitude (de 1500 à 2000m), l’air «chaud» part vers la mer et se refroidit : il descend doucement jusqu'à arriver à la surface de l’eau. Il s'agit d'une **cellule de convection**
@@ -32,7 +32,7 @@ Vers la mi-journée, les premiers cumulus sont présents et la brise commence 
 {{< /columns >}}
 
 {{< columns >}}
-{{< figure caption="Brise marine" src="../images/sea-breeze.png" >}}
+{{< figure caption="Brise marine" src="images/meteorology/sea-breeze.png" >}}
 <--->
 Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. Attention à ne pas se faire «piéger» lors des navigations par régime de brises (le vent pouvant alors diminuer bien avant le coucher de soleil si la  brise  est faible en intensité). Enfin, la direction du vent tourne (vers la droite) au cours de la journée due à la force de Coriolis.
 {{< /columns >}}
@@ -40,7 +40,7 @@ Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. 
 {{< hint_with_class question warning >}}
 **Faites un schéma pour expliquer la brise thermique cotière diurne:**
 {{< details title="Réponse">}}
-{{< figure caption="Brise marine shéma" src="../images/sea-breeze-schema.jpeg" >}}
+{{< figure caption="Brise marine shéma" src="images/meteorology//sea-breeze-schema.jpeg" >}}
 {{< /details>}}
 {{< /hint_with_class >}}
 
@@ -48,7 +48,7 @@ Une fois établie, la brise reste habituellement jusqu’au coucher du soleil. 
 
 On peut utiliser un système de points pour prédire si la brise thermique a des chances de se lever :
 {{< columns >}}
-{{< figure caption="Quadrant brise thermique" src="../images/quadrant-breeze.png" >}}
+{{< figure caption="Quadrant brise thermique" src="images/meteorology//quadrant-breeze.png" >}}
 <--->
 
 * Si la température de l'air **n'est pas supérieure d'environ 4°** à celle de l'eau, la brise thermique **n'est pas possible**.
@@ -91,21 +91,21 @@ Un effet de site est dû à la géographie locale. Il en existe un grand nomb
 {{< tabs "site-effects" >}}
 {{< tab "Effet de pointe" >}}
 {{< columns >}}
-{{< figure caption="Effet de pointe" src="../images/point-effect.png" >}}
+{{< figure caption="Effet de pointe" src="images/meteorology//point-effect.png" >}}
 <--->
 Si le vent vient toucher une pointe sous une direction latérale, il a tendance à diverger de façon radiale. Pour une île, le côté sous le vent est déventé et les côtés extérieurs sont plus ventés (coté bâbord plus venté).
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Effet de canalisation" >}}
 {{< columns >}}
-{{< figure caption="Effet de canalisation" src="../images/canalisation-effect.png" >}}
+{{< figure caption="Effet de canalisation" src="images/meteorology//canalisation-effect.png" >}}
 <--->
 Il se crée un effet Venturi par canalisation. L'accélération commence avant le détroit et continue quelques milles après.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Relief et cours d'eau" >}}
 {{< columns >}}
-{{< figure caption="Relief et cours d'eau" src="../images/relief_and_watercourses.png" >}}
+{{< figure caption="Relief et cours d'eau" src="images/meteorology//relief_and_watercourses.png" >}}
 <--->
 Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direction et sa force se trouveront modifiées (effet Venturi).
 {{< /columns >}}
@@ -114,13 +114,13 @@ Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direc
  Les frottements étant plus importants sur terre que sur mer, le vent au-dessus des terres est plus faible. La force de Coriolis est donc moins importante. Le vent sur mer sera donc orienté plus « à droite » que le vent sur terre.
 {{< /tab >}}{{< tab "Côte moyennement élevée" >}}
 {{< columns >}}
-{{< figure caption="Côte moyennement élevée" src="../images/moderately_high_hill.png" >}}
+{{< figure caption="Côte moyennement élevée" src="images/meteorology//moderately_high_hill.png" >}}
 <--->
  Création d’un « coussin » (vent faible et désordonné).
 {{< /columns >}}
 {{< /tab >}}{{< tab "Côtes élevées" >}}
 {{< columns >}}
-{{< figure caption="Côtes élevées" src="../images/high_hill.png" >}}
+{{< figure caption="Côtes élevées" src="images/meteorology//high_hill.png" >}}
 <--->
 Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de dévent avec possibilité de retour.
 {{< /columns >}}
@@ -130,7 +130,7 @@ Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de 
 {{< hint_with_class question warning >}}
 **Faites un schéma pour illustrer un effet de canalisation local:**
 {{< details title="Réponse">}}
-{{< figure caption="Brise marine shéma" src="../images/canalisation-effect-local.png" >}}
+{{< figure caption="Brise marine shéma" src="images/meteorology//canalisation-effect-local.png" >}}
 {{< /details>}}
 {{< /hint_with_class >}}
 
@@ -143,16 +143,16 @@ Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
 
 ### Grain précipitant
 {{< columns >}}
-{{< figure caption="Grain précipitant" src="../images/raining_grain.png" >}}
+{{< figure caption="Grain précipitant" src="images/meteorology//raining_grain.png" >}}
 <--->
-{{< figure caption="Les vents du grain précipitant" src="../images/raining_grain_wind.png" >}}
+{{< figure caption="Les vents du grain précipitant" src="images/meteorology//raining_grain_wind.png" >}}
 {{< /columns >}}
 
 ### Grain non précipitant
 {{< columns >}}
-{{< figure caption="Grain non précipitant" src="../images/non_raining_grain.png" >}}
+{{< figure caption="Grain non précipitant" src="images/meteorology//non_raining_grain.png" >}}
 <--->
-{{< figure caption="Les vents du grain non précipitant" src="../images/non_raining_grain_wind.png" >}}
+{{< figure caption="Les vents du grain non précipitant" src="images/meteorology//non_raining_grain_wind.png" >}}
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}

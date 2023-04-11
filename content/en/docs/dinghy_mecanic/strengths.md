@@ -12,12 +12,12 @@ navigation:
 
 ### Component of the velocity force
 The aerodynamic force or vellic force is the sum of an infinite number of elementary "small forces".
-{{< figure caption="Aero force" src="../images/force_aero.png" >}}
+{{< figure caption="Aero force" src="images/dinghy_mecanic/force_aero.png" >}}
 The resultant force is applied at the maximum of the trough and is almost perpendicular to the chord (except for incidence angles below 25°).
 
 ### Sail efficiency
 {{< columns >}}
-{{< figure caption="Velic polar" src="../images/polaire_velique.png" >}}
+{{< figure caption="Velic polar" src="images/dinghy_mecanic/polaire_velique.png" >}}
 <--->
 The angles that run through the curve are those of the apparent wind relative to the sailboat's course.
 {{< /columns >}}
@@ -39,18 +39,18 @@ Its interest is to show us the range of use of the apparent wind:
 Water is a fluid, so everything we said before remains valid. There is therefore, as for the sail, a hydrodynamic force. It is usually broken down into anti-drift force and drag.
 The rudder, which has a large dimension, is also an anti-drift element.
 {{< columns >}}
-{{< figure caption="Hydro force top view" src="../images/force_hydro_dessus.svg" >}}
+{{< figure caption="Hydro force top view" src="images/dinghy_mecanic/force_hydro_dessus.svg" >}}
 <--->
-{{< figure caption="Hydro force from behind" src="../images/force_hydro_derriere.svg" >}}
+{{< figure caption="Hydro force from behind" src="images/dinghy_mecanic/force_hydro_derriere.svg" >}}
 {{< /columns >}}
 
 ## Weight and buoyancy
 The weight is the mass of the boat and its crew subjected to the earth's gravity.
 
 {{< columns >}}
-{{< figure caption="Action of gravity" src="../images/gravite.svg" >}}
+{{< figure caption="Action of gravity" src="images/dinghy_mecanic/gravite.svg" >}}
 <--->
-{{< figure caption="Archimedean thrust" src="../images/archimede.svg" >}}
+{{< figure caption="Archimedean thrust" src="images/dinghy_mecanic/archimede.svg" >}}
 {{< /columns >}}
 
 - The weight is vertical and applies to the center of gravity ({{< katex >}}CG{{< /katex >}}) of the system: boat + crew.

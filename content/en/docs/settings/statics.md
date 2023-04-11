@@ -17,14 +17,14 @@ You will find more information on "How to rig a laser" in the appendix.
 {{< /details_extended >}}
 {{< /hint >}}
 
-{{< figure src="../images/laser-47-standard-radial.jpg" caption="Difference between the different laser sails" >}}
+{{< figure src="images/settings/laser-47-standard-radial.jpg" caption="Difference between the different laser sails" >}}
 
 {{< columns >}}
-{{< figure src="../images/laser-47.jpeg" caption="Laser 4.7" >}}
+{{< figure src="images/settings/laser-47.jpeg" caption="Laser 4.7" >}}
 <--->
-{{< figure src="../images/laser-radial.jpeg" caption="Laser radial" >}}
+{{< figure src="images/settings/laser-radial.jpeg" caption="Laser radial" >}}
 <--->
-{{< figure src="../images/laser-standard.jpeg" caption="Laser standard" >}}
+{{< figure src="images/settings/laser-standard.jpeg" caption="Laser standard" >}}
 {{< /columns >}}
 
 On other dinghy supports, it is possible to **reef the sail**. This consists of reducing the surface area of a sail by folding it in part: the objective is to adapt the sail surface to the wind force when it strengthens and to lower the center of velic thrust. A sailboat that carries the canvas of time is more maneuverable, safer and often faster than a sailboat that carries too much.

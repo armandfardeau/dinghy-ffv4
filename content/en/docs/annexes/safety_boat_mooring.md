@@ -21,13 +21,13 @@ Brief chronology of the safety boat anchorage:
 - Secure the stern anchor on the beach so as to recover it easily (**Beware of tides**). Leave some slack in the rear anchorage so that the safety boat can face the wind.
 
 {{< columns >}}
-{{< figure caption="Sea wind anchorage" src="../images/vent-mer.png" >}}
+{{< figure caption="Sea wind anchorage" src="images/annexes/vent-mer.png" >}}
 display_reading_time: true
 display_share_buttons: true
 navigation:
   - "/"
 <--->
-{{< figure caption="Anchorage by land wind" src="../images/vent-terre.png" >}}
+{{< figure caption="Anchorage by land wind" src="images/annexes/vent-terre.png" >}}
 {{< /columns >}}
 
-{{< figure caption="Anchoring in a parallel wind" src="../images/vent-parallele.png" >}}
+{{< figure caption="Anchoring in a parallel wind" src="images/annexes/vent-parallele.png" >}}

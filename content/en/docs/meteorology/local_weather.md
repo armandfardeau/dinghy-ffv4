@@ -12,7 +12,7 @@ Some thermal breezes can blow up to force 6.
 
 ### Daytime Thermal Breeze
 {{< columns >}}
-{{< figure caption="Coastal breeze" src="../images/costal-breeze.png" >}}
+{{< figure caption="Coastal breeze" src="images/meteorology/costal-breeze.png" >}}
 <--->
 The sun warms the land faster than the sea. The air begins to rise.
 This air can be driven by the synoptic wind of altitude (from 1500 to 2000m), the "hot" air leaves towards the sea and cools down: it goes down slowly until it arrives at the surface of the water. This is a **convection cell**.
@@ -24,7 +24,7 @@ By midday, the first cumulus clouds are present and the breeze begins to set in.
 {{< /columns >}}
 
 {{< columns >}}
-{{< figure caption="Sea breeze" src="../images/sea-breeze.png" >}}
+{{< figure caption="Sea breeze" src="images/meteorology/sea-breeze.png" >}}
 <--->
 Once established, the breeze usually stays until sunset. Be careful not to get "trapped" when sailing in breezy conditions (the wind can then diminish well before sunset if the breeze is weak in intensity). Finally, the wind direction turns (to the right) during the day due to the Coriolis force.
 {{< /columns >}}
@@ -32,7 +32,7 @@ Once established, the breeze usually stays until sunset. Be careful not to get "
 {{< hint_with_class question warning >}}
 **Make a diagram to explain the daytime coastal thermal breeze:**
 {{< details title="Answer">}}
-{{< figure caption="Sea breeze schema" src="../images/sea-breeze-schema.jpeg" >}}
+{{< figure caption="Sea breeze schema" src="images/meteorology/sea-breeze-schema.jpeg" >}}
 {{< /details>}}
 {{< /hint_with_class >}}
 
@@ -40,7 +40,7 @@ Once established, the breeze usually stays until sunset. Be careful not to get "
 
 A point system can be used to predict whether the thermal breeze is likely to be established:
 {{< columns >}}
-{{< figure caption="Thermal breeze quadrant" src="../images/quadrant-breeze.png" >}}
+{{< figure caption="Thermal breeze quadrant" src="images/meteorology/quadrant-breeze.png" >}}
 <--->
 
 * If the air temperature **is not about 4°** higher than the water temperature, thermal breeze **is not possible**.
@@ -83,21 +83,21 @@ A site effect is due to local geography. There are many of them, some of them be
 {{< tabs "site-effects" >}}
 {{< tab "Effet de pointe" >}}
 {{< columns >}}
-{{< figure caption="Effet de pointe" src="../images/point-effect.png" >}}
+{{< figure caption="Effet de pointe" src="images/meteorology/point-effect.png" >}}
 <--->
 Si le vent vient toucher une pointe sous une direction latérale, il a tendance à diverger de façon radiale. Pour une île, le côté sous le vent est déventé et les côtés extérieurs sont plus ventés (coté bâbord plus venté).
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Effet de canalisation" >}}
 {{< columns >}}
-{{< figure caption="Effet de canalisation" src="../images/canalisation-effect.png" >}}
+{{< figure caption="Effet de canalisation" src="images/meteorology/canalisation-effect.png" >}}
 <--->
 Il se crée un effet Venturi par canalisation. L'accélération commence avant le détroit et continue quelques milles après.
 {{< /columns >}}
 {{< /tab >}}
 {{< tab "Relief et cours d'eau" >}}
 {{< columns >}}
-{{< figure caption="Relief et cours d'eau" src="../images/relief_and_watercourses.png" >}}
+{{< figure caption="Relief et cours d'eau" src="images/meteorology/relief_and_watercourses.png" >}}
 <--->
 Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direction et sa force se trouveront modifiées (effet Venturi).
 {{< /columns >}}
@@ -107,13 +107,13 @@ Le vent a tendance à suivre globalement la géographie locale. Ainsi sa direc
 {{< /tab >}}
 {{< tab "Côte moyennement élevée" >}}
 {{< columns >}}
-{{< figure caption="Côte moyennement élevée" src="../images/moderately_high_hill.png" >}}
+{{< figure caption="Côte moyennement élevée" src="images/meteorology/moderately_high_hill.png" >}}
 <--->
  Création d’un « coussin » (vent faible et désordonné).
 {{< /columns >}}
 {{< /tab >}}{{< tab "Côtes élevées" >}}
 {{< columns >}}
-{{< figure caption="Côtes élevées" src="../images/high_hill.png" >}}
+{{< figure caption="Côtes élevées" src="images/meteorology/high_hill.png" >}}
 <--->
 Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de dévent avec possibilité de retour.
 {{< /columns >}}
@@ -123,7 +123,7 @@ Côtes avec relief important, type Côte d’Azur, Corse, Pays Basque): onde de 
 {{< hint_with_class question warning >}}
 **Faites un schéma pour illustrer un effet de canalisation local:**
 {{< details title="Réponse">}}
-{{< figure caption="Brise marine shéma" src="../images/canalisation-effect-local.png" >}}
+{{< figure caption="Brise marine shéma" src="images/meteorology/canalisation-effect-local.png" >}}
 {{< /details>}}
 {{< /hint_with_class >}}
 
@@ -136,14 +136,14 @@ Il faut dissocier le cas d’un grain pluvieux et d’un grain non pluvieux.
 
 ### Grain précipitant
 {{< columns >}}
-{{< figure caption="Grain précipitant" src="../images/raining_grain.png" >}}
+{{< figure caption="Grain précipitant" src="images/meteorology/raining_grain.png" >}}
 <--->
-{{< figure caption="Les vents du grain précipitant" src="../images/raining_grain_wind.png" >}}
+{{< figure caption="Les vents du grain précipitant" src="images/meteorology/raining_grain_wind.png" >}}
 {{< /columns >}}
 
 ### Grain non précipitant
 {{< columns >}}
-{{< figure caption="Grain non précipitant" src="../images/non_raining_grain.png" >}}
+{{< figure caption="Grain non précipitant" src="images/meteorology/non_raining_grain.png" >}}
 display_reading_time: true
 display_share_buttons: true
 navigation:
@@ -151,7 +151,7 @@ navigation:
   - "/docs/meteorology"
   - "/docs/meteorology/waves_and_swell"
 <--->
-{{< figure caption="Les vents du grain non précipitant" src="../images/non_raining_grain_wind.png" >}}
+{{< figure caption="Les vents du grain non précipitant" src="images/meteorology/non_raining_grain_wind.png" >}}
 {{< /columns >}}
 
 {{< hint_with_class question warning >}}

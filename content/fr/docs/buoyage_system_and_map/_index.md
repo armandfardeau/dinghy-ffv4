@@ -14,12 +14,12 @@ Les marques latérales servent à baliser les chenaux réservées aux voiliers
 * Toute marque verte, de formes coniques, doit être laissée à tribord en entrant au port.
 * Toute marque rouge, de forme cylindrique, doit être laissée à bâbord en entrant au port.
 
-{{< figure caption="Marques latérales de chenal classique" src="images/marques-laterales.jpg" >}}
+{{< figure caption="Marques latérales de chenal classique" src="images/buoyage_system_and_map/marques-laterales.jpg" >}}
 
 Moyen mnémotechnique: « En entrant au port, je porte un tricot vert et deux bas si rouges ».
 
 ### Chenal préféré
-{{< figure caption="Marques latérales avec chenal préféré" src="images/marques-laterales-prefere.jpg" >}}
+{{< figure caption="Marques latérales avec chenal préféré" src="images/buoyage_system_and_map/marques-laterales-prefere.jpg" >}}
 Si un chenal se divise, les marques de chenal secondaire ont en plus une bande rayée horizontale.
 
 ## Cardinales
@@ -29,7 +29,7 @@ Les cardinales servent à baliser un danger. IL faut observer la carte pour dé
 Une balise cardinale indique la zone saine par rapport aux dangers
 **Exemple**: Une balise cardinale sud est placée au sud du danger, on doit donc passer au sud de celle-ci pour le parer.
 
-{{< figure caption="Balises cardinales" src="images/cardinal_marks.png" >}}
+{{< figure caption="Balises cardinales" src="images/buoyage_system_and_map/cardinal_marks.png" >}}
 Le marquage de couleur correspond aux pointes de la cardinales:
 
 * Nord: bande noire en haut
@@ -37,7 +37,7 @@ Le marquage de couleur correspond aux pointes de la cardinales:
 * Est: Bandes noires en haut et en bas
 * Ouest: Bande noire au centre
 
-{{< figure caption="Moyens mnémotechnique pour les cardinales Ouest et Est" src="images/mnemo-cardinal.png" >}}
+{{< figure caption="Moyens mnémotechnique pour les cardinales Ouest et Est" src="images/buoyage_system_and_map/mnemo-cardinal.png" >}}
 
 On peut dessiner le contour du voyant de la balise cardinale pour déterminer son type. **W** indique une Ouest, E indique une **Est**.
 
@@ -47,17 +47,17 @@ Attention à marée basse avec les balises tourelles ou perches: **il est possib
 ### Danger isolé
 Cette marque signale un danger d’étendue restreinte. Elle est posée sur le danger ou à proximité.
 
-{{< figure caption="Balise de danger isolé" src="images/isolated_danger.jpeg" >}}
+{{< figure caption="Balise de danger isolé" src="images/buoyage_system_and_map/isolated_danger.jpeg" >}}
 
 ### Eaux saine
 Cette marque signale qu’il n’y a pas de danger autour d’elle. On en voit à l’entrée de chenaux ou en mer comme repère d’un dispositif de séparation de trafic.
 
-{{< figure caption="Balise de d'eaux saine" src="images/safe_water.jpeg" >}}
+{{< figure caption="Balise de d'eaux saine" src="images/buoyage_system_and_map/safe_water.jpeg" >}}
 
 ### Marque à proximité des plages
 Cette marque signale une zone soumise à réglementation spéciale. On peut citer les bouées à proximité des côtes: zone des 300m, chenaux de sortie et entrée des engins de plages, ...
 
-{{< figure caption="Marque à proximité des plages" src="images/beach_marks.png" >}}
+{{< figure caption="Marque à proximité des plages" src="images/buoyage_system_and_map/beach_marks.png" >}}
 
 ### Danger nouveau grave
 Cette marque permet d’identifier les dangers qui ne sont pas encore signalés sur les cartes.
@@ -76,13 +76,13 @@ Il existe un code couleur selon l’altitude/profondeur du sol/fond.
 * Vert de gris : zone d’estran. Niveau de référence : zéro hydrographique. Les valeurs entières sont soulignées.
 * Bleu puis blanc : les profondeurs sont indiquées en mètre et dixièmes jusqu'à 20,9m.
 
-{{< figure caption="Carte marine aux abords de Concarneau" src="images/concarneau.png" >}}
+{{< figure caption="Carte marine aux abords de Concarneau" src="images/buoyage_system_and_map/concarneau.png" >}}
 
 ### Phare et balise
 
 La position des balises est indiquée sur les cartes. Leurs formes sont proches des formes réelles. Les phares sont également reportés sur les cartes avec plus d’informations (hauteur, visibilité maximale, ...).
 
-{{< figure caption="Amers aux abords de Penfret" src="images/penfret.png" >}}
+{{< figure caption="Amers aux abords de Penfret" src="images/buoyage_system_and_map/penfret.png" >}}
 
 En voile légère on ne navigue généralement que de jour.
 
@@ -95,6 +95,6 @@ Certains alignements sont directement donnés sur les cartes.
 
 Du fait de notre activité (voile légère avec très peu de tirant d’eau), certains alignements ne sont pas écrits.
 
-{{< figure caption="Alignement à l'entrée du port de Concarneau" src="images/alignement-concarneau.png" >}}
+{{< figure caption="Alignement à l'entrée du port de Concarneau" src="images/buoyage_system_and_map/alignement-concarneau.png" >}}
 
 Soyez critiques avec vos alignements: ils peuvent être difficile à tenir (alignement en arrière, vent refusant), ou bien invisible depuis le ras de l'eau.
