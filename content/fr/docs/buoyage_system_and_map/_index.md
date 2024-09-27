@@ -11,7 +11,7 @@ Les marques latérales servent à baliser les chenaux réservées aux voiliers
 
 ### Chenal classique
 
-* Toute marque verte, de formes coniques, doit être laissée à tribord en entrant au port.
+* Toute marque verte, de forme conique, doit être laissée à tribord en entrant au port.
 * Toute marque rouge, de forme cylindrique, doit être laissée à bâbord en entrant au port.
 
 {{< figure caption="Marques latérales de chenal classique" src="images/marques-laterales.jpg" >}}
@@ -24,7 +24,7 @@ Si un chenal se divise, les marques de chenal secondaire ont en plus une bande r
 
 ## Cardinales
 
-Les cardinales servent à baliser un danger. IL faut observer la carte pour déterminer la nature exacte de celui-ci et le parer efficacement.
+Les cardinales servent à baliser un danger. Il faut observer la carte pour déterminer la nature exacte de celui-ci et le parer efficacement.
 
 Une balise cardinale indique la zone saine par rapport aux dangers
 **Exemple**: Une balise cardinale sud est placée au sud du danger, on doit donc passer au sud de celle-ci pour le parer.
@@ -74,7 +74,7 @@ Il existe un code couleur selon l’altitude/profondeur du sol/fond.
 
 * Ocre / jaune : terres jamais recouvertes par la mer. Niveau de référence : niveau 0 des altitudes terrestres
 * Vert de gris : zone d’estran. Niveau de référence : zéro hydrographique. Les valeurs entières sont soulignées.
-* Bleu puis blanc : les profondeurs sont indiquées en mètre et dixièmes jusqu'à 20,9m.
+* Bleu puis blanc : les profondeurs sont indiquées en mètres et dixièmes jusqu'à 20,9m.
 
 {{< figure caption="Carte marine aux abords de Concarneau" src="images/concarneau.png" >}}
 
@@ -89,7 +89,7 @@ En voile légère on ne navigue généralement que de jour.
 ### Utilisation de la carte en voile légère
 Sur un dériveur, il n’est pas aisé d’utiliser une carte comme dans un habitable. De plus, nous n’avons habituellement pas de compas pour maintenir un cap précis.
 
-Il est cependant aisé d'utiliser les alignements: ils vont nous permettre d’être sûr de passer au bon endroit d’un passage étroit entre deux dangers.
+Il est cependant aisé d'utiliser les alignements: ils vont nous permettre d’être sûrs de passer au bon endroit d’un passage étroit entre deux dangers.
 
 Certains alignements sont directement donnés sur les cartes.
 
@@ -97,4 +97,4 @@ Du fait de notre activité (voile légère avec très peu de tirant d’eau)
 
 {{< figure caption="Alignement à l'entrée du port de Concarneau" src="images/alignement-concarneau.png" >}}
 
-Soyez critiques avec vos alignements: ils peuvent être difficile à tenir (alignement en arrière, vent refusant), ou bien invisible depuis le ras de l'eau.
+Soyez critiques avec vos alignements: ils peuvent être difficiles à tenir (alignement en arrière, vent refusant), ou bien invisible depuis le ras de l'eau.
