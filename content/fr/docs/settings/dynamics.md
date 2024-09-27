@@ -16,7 +16,7 @@ L'écoute sert à régler l'angle de la voile par rapport au vent, c'est elle qu
 
 * Pour régler au près:
 
-on observe le faseyement de la voile, dès qu'il apparait, on borde un peu pour l'effacer. Pour être sûr de ne pas être trop bordé, on la choque régulièrement pour faire apparaitre le fasseyement, puis on l'efface.
+on observe le faseyement de la voile, dès qu'il apparaît, on borde un peu pour l'effacer. Pour être sûr de ne pas être trop bordé, on la choque régulièrement pour faire apparaître le faseyement, puis on l'efface.
 
 * Pour régler au portant:
 
@@ -44,7 +44,7 @@ Ce cintre du mât résorbe le rond de guindant et aplatit la voile. La tension e
 
 {{< hint info >}}
 {{< details_extended class="collabsible" title="Expliqué à un stagiaire débutant..." id="hale-bas_details" >}}
-Le hale-bas sert à conserver de la puissance entre 2 virement au près et à gérer la surpuissance;
+Le hale-bas sert à conserver de la puissance entre 2 virements au près et à gérer la surpuissance;
 
 * Pour régler au près:
 
@@ -132,7 +132,7 @@ On reprend la patte d'oie jusqu'au contact de la barre.
 
 En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
 
-Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement étarquée. A défaut, la bôme s'élève et rentre vers le centre du bateau ; ainsi lorsque le réglage de patte d'oie est détendu, la poulie guidée par celui-ci se trouve rehaussée. La tension verticale qu'exerce l'écoute, en rapprochant cette poulie à celle fixée sur l'extrémité arrière de la bôme est alors diminuée.
+Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement étarquée. À défaut, la bôme s'élève et rentre vers le centre du bateau ; ainsi lorsque le réglage de patte d'oie est détendu, la poulie guidée par celui-ci se trouve rehaussée. La tension verticale qu'exerce l'écoute, en rapprochant cette poulie à celle fixée sur l'extrémité arrière de la bôme est alors diminuée.
 Toutefois, un excès de tension diminue la sensibilité de la barre et gêne le passage de la poulie lors du virement de bord, en particulier dans le petit temps. Aussi, il y a intérêt à détendre légèrement la patte d'oie si ces symptômes apparaissent et perturbent la conduite du bateau. L'utilisation d'un bout en kevlar permet d'obtenir le même effet (bôme excentrée et basse) avec un étarquage moindre.
 
 {{< columns >}}
