@@ -72,8 +72,8 @@ stateDiagram
     * Pour lofer, il faut mettre le poids sous le vent et à l’avant.
 * Le poids joue aussi sur la propulsion:
     * Puisque le poids à une action sur la direction, il en a une sur la propulsion.
-    * En fonction du placement, le poids permet une meilleure remonté au près, ou une meilleure descente au vent
+    * En fonction du placement, le poids permet une meilleure remontée au près, ou une meilleure descente au vent
 
 {{< figure caption="Virement bascule" src="../images/virement-bascule.jpeg" >}}
 
-Le virement bascule et l'empannage sont la première application du poids comme liaisons indirectes, en faisant giter le bateau, on force sa direction en limitant la trainée du safran
+Le virement bascule et l'empannage sont la première application du poids comme liaisons indirectes, en faisant giter le bateau, on force sa direction en limitant la trainée du safran.
