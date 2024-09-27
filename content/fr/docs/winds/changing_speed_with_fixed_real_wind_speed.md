@@ -31,7 +31,7 @@ Pour garder le bon réglage: il faut border ou abattre.
 {{< figure caption="Vecteurs" src="../images/largue-abattu.svg" >}}
 {{< /columns >}}
 Au portant, si on accélère, le vent apparent augmente et refuse.
-Plus le dériveur est rapide, on peut avoir un vent apparent très lofé au portant.
+Plus le dériveur est rapide, plus on peut avoir un vent apparent lofé au portant.
 {{< columns >}}
 {{< figure caption="Vecteurs" src="../images/vent-arriere.svg" >}}
 <--->
