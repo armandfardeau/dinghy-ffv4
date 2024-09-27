@@ -25,7 +25,7 @@ Les voiles d’un dériveur de sport sont le plus efficaces lorsque l’écoule
 L’écoulement reste laminaire jusqu'à une quarantaine de degrés d’incidence, soit une allure de largue / grand largue (dépendamment de la vitesse du dériveur).
 
 Au vent arrière, l’écoulement est turbulent.
-L ’ état de l’écoulement dépend de plusieurs facteurs: viscosité du fluide ({{< katex >}}V{{< /katex >}}),vitesse de l’écoulement, masse volumique ({{< katex >}}p{{< /katex >}}) du fluide. Afin de comprendre comment se forme les forces qui font avancer notre dériveur, intéressons-nous aux différentes pressions le long des écoulements.
+L’état de l’écoulement dépend de plusieurs facteurs: viscosité du fluide ({{< katex >}}V{{< /katex >}}),vitesse de l’écoulement, masse volumique ({{< katex >}}p{{< /katex >}}) du fluide. Afin de comprendre comment se forment les forces qui font avancer notre dériveur, intéressons-nous aux différentes pressions le long des écoulements.
 
 La pression totale d’un fluide en mouvement est la somme de:
 
@@ -41,9 +41,9 @@ Ce qui nous intéresse est de comprendre comment une voile, immergée dans un 
 
 {{< figure caption="Portance de la voile" src="../images/bernoulli.jpg" >}}
 
- La surface de la voile (courbe) dévie l’écoulement. A partir d’une certaine distance, l’écoulement n’est plus perturbé.
+La surface de la voile (courbe) dévie l’écoulement. À partir d’une certaine distance, l’écoulement n’est plus perturbé.
 
-Du coté extrados il y a un resserrement alors qu’a l’intrados il y a un élargissement.
+Du coté extrados il y a un resserrement alors qu’à l’intrados il y a un élargissement.
 C’est un effet Venturi : l’air est accéléré du coté extrados alors qu’il est ralentit du coté intrados (cas d’une voile « simple »).
 
 Il y a donc diminution de la pression statique à l’extrados et vice-versa à l’intrados.
@@ -61,5 +61,5 @@ En situation normale, l'écoulement de l'air est « attaché » sur les deux fac
 <--->
 {{< figure caption="Profil décroché" src="../images/profil_stall.jpg" >}}
 {{< /columns >}}
-Une voile correctement bordé génère une portance permettant le déplacement.
+Une voile correctement bordée génère une portance permettant le déplacement.
 Une voile bordée en excès génère un écoulement turbulent, la portance est alors inférieure à la trainée, le bateau n'avance plus.
