@@ -59,7 +59,7 @@ Les fronts stationnaires se forment quand deux masses d’air ayant des caracté
 
 **Etape 3 :** le système commence à tourner dans le sens antihoraire. L’air chaud se fait enfermer par l’air froid.
 
-**Etape 4 :** coincé entre les deux masses d’air froid, l’air chaud est rejeté en altitude : c’est le début de l’occlusion. Le fait de tourner va créer une dépression associée à la perturbation. A la fin de la vie d’une perturbation, les masses d’air s’amalgament et/ou ne deviennent plus suffisamment différentes pour faire perdurer les fronts : c’est la frontolyse.
+**Etape 4 :** coincé entre les deux masses d’air froid, l’air chaud est rejeté en altitude : c’est le début de l’occlusion. Le fait de tourner va créer une dépression associée à la perturbation. À la fin de la vie d’une perturbation, les masses d’air s’amalgament et/ou ne deviennent plus suffisamment différentes pour faire perdurer les fronts : c’est la frontolyse.
 
 ## Perturbation vue du haut
 {{< figure caption="Perturbation vue du haut" src="../images/perturbation-skyview.jpg" >}}
