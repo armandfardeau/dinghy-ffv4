@@ -10,7 +10,7 @@ navigation:
 ## Généralités
 Récupérer un HLM n’a rien d’anodin quelles que soient les circonstances.
 
-La masse d’un laser avec son équipage avoisine les 150 kg. Même à quelques nœuds, sur la tête d’une personne à l’eau le choc peut être mortel. Si l’HLM est tombé à l’eau conscient vous aurez à coeur de le récupérer conscient.
+La masse d’un laser avec son équipage avoisine les 150 kg. Même à quelques nœuds, sur la tête d’une personne à l’eau le choc peut être mortel. Si l’HLM est tombé à l’eau conscient vous aurez à cœur de le récupérer conscient.
 
 Le HLM est une manoeuvre à adapter selon les conditions, il faudra s’adapter, vous serez seul juge.
 Dans tous les cas, pensez avant d’agir. S'être mal préparé et devoir refaire un tour prend plus de temps que de temporiser quelques secondes afin d'être sûr.
