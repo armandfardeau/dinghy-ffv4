@@ -18,7 +18,7 @@ Ils sont utilisés par les navigateurs pour prévoir les conditions de navigatio
 ### L'origine
 
 Les modèles météorologiques sont réalisés par des services météorologiques nationaux ou internationaux.
-On peut en induire une fiabilité accrue en fonction de la proximité , mais il faut toujours vérifier les prévisions avec d'autres sources.
+On peut en induire une fiabilité accrue en fonction de la proximité, mais il faut toujours vérifier les prévisions avec d'autres sources.
 Par exemple on peut présumer qu'un modèle Français sera plus fiable pour la France que pour l'Allemagne.
 
 {{< hint danger >}}
