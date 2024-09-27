@@ -19,16 +19,16 @@ Soyez vigilant aux points suivants:
 
 * Sur les calendriers des marées, l’heure correspond rarement à l'heure locale.
 * Faite attention à la hauteur de référence utilisé dans le calendrier des marées et sur votre carte. En France, le SHOM prend comme référence le zéro hydrographique (hauteur d’eau à BM coefficient 120).
-* On peut noter que pour tous les coefficients, la hauteur d’eau à mi marée est toujours la même.
+* On peut noter que pour tous les coefficients, la hauteur d’eau à mi-marée est toujours la même.
 
 ## La méthode des douzièmes
 
 {{< columns >}}
 {{< figure caption="Courbe sinusoïdale de la marée" src="../images/tide-sinusoidale.png" >}}
 <--->
-Le cycle des marées en France est de 2 marées par jour, il peut être représenté par une sinusoïdale.
+Le cycle des marées en France est de 2 marées par jour, il peut être représenté par une sinusoïde.
 
- Afin de le représenter plus facilement, on linéarise le sinus en déformant l’axe temporel. En effet, en changeant l'échelle du graphique, la courbe est désormais une droite. C’est la méthode des douzièmes.
+Afin de le représenter plus facilement, on linéarise le sinus en déformant l’axe temporel. En effet, en changeant l'échelle du graphique, la courbe est désormais une droite. C’est la méthode des douzièmes.
 {{< /columns >}}
 
 Avant de commencer à calculer, il faut trouver deux éléments:
@@ -36,7 +36,7 @@ Avant de commencer à calculer, il faut trouver deux éléments:
 * L’amplitude: Hauteur à PM – Hauteur à BM
 * L’heure marée : Temps entre PM et BM / 6
 
-Pour cela, on découpe un demi cycle (de la BM à la PM par ex.) en douzième, on considère que la mer monte ou descend de :
+Pour cela, on découpe un demi-cycle (de la BM à la PM par ex.) en douzième, on considère que la mer monte ou descend de :
 
 * **1/12** de l’amplitude durant la **1ère heure marée**
 * **2/12** de l’amplitude durant la **2ème heure marée**
@@ -141,6 +141,6 @@ Une fois que l'on aura obtenu la hauteur d'eau à une heure donnée, il faudra a
 La pression atmosphérique modifie la hauteur de la mer:
 
 * Rajouter 10cm pour 10hPa en condition anticyclonique
-* Enlever 10cm pour 10hPa en conditionanti dépressionnaire
+* Enlever 10cm pour 10hPa en condition anti-dépressionnaire
 
 Un vent de mer fort et constant peut entraîner une hausse du niveau de la mer jusqu'à un mètre.
