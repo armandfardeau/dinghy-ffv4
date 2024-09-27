@@ -12,7 +12,7 @@ Il existe deux grandes catégories de régates à la voile : la « régate en fl
 
 Le terme régate est sémantiquement imprécis parce qu'il peut désigner (comme le fait le dictionnaire) une seule course isolée (c'est-à-dire la période où un bateau est en course selon la définition des RCV) ou bien un ensemble de courses courues dans une période continue (un jour, un week-end, etc.) Si la période est discontinue, selon les RCV [voir RCV A9], il s'agit d'une série.
 
-La régate peut avoir lieu sur un parcours fermé (ou construit). La zone d'arrivée est proche de la zone de départ, et le nombre de bord de près est (idéalement) égal au nombre de bord de portant.
+La régate peut avoir lieu sur un parcours fermé (ou construit). La zone d'arrivée est proche de la zone de départ, et le nombre de bords de près est (idéalement) égal au nombre de bords de portant.
 Elle peut aussi avoir lieu sur un parcours ouvert (raid sur plusieurs courses). Le nombre de courses au près et au portant étant équilibré. [cf : Guide de la régate Intersérie]
 
 Les compétitions de longue distance en haute mer ne sont pas désignées comme des régates mais comme des courses au large.
@@ -44,7 +44,7 @@ Il existe de nombreux autres parcours tels que le parcours « côtier » (grand 
 
 ## Grades des régates
 
-La gradation a ainsi pour vocation de déterminer une hiérachie des compétitions selon leur degré de valeur sportive (niveau des participants, notoriété et ampleur de la compétion).
+La gradation a ainsi pour vocation de déterminer une hiérarchie des compétitions selon leur degré de valeur sportive (niveau des participants, notoriété et ampleur de la compétition).
 
 Le niveau le plus courant dans nos clubs de voile est le grade 5.
 
