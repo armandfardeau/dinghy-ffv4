@@ -12,7 +12,7 @@ Pour mouiller votre bateau, vous disposez généralement de deux mouillages :
 - Un mouillage principal, lourd, à l’avant, constitué d’une ancre avec sa chaîne et sa ligne, ligne frappée à l’avant du bateau.
 - Un mouillage secondaire, léger, à l’arrière, constitué d’une ancre de petite taille et d’une ligne.
 
-Rappelons que ce qui assure la bonne tenue d’un mouillage,ce n’est pas tant l’ancre que la longueur de chaîne posée sur le fond. En conséquence, le mouillage chargé de tenir votre bateau en place sera le mouillage avant, le mouillage arrière permettant uniquement de ramener le bateau vers le rivage.
+Rappelons que ce qui assure la bonne tenue d’un mouillage, ce n’est pas tant l’ancre que la longueur de chaîne posée sur le fond. En conséquence, le mouillage chargé de tenir votre bateau en place sera le mouillage avant, le mouillage arrière permettant uniquement de ramener le bateau vers le rivage.
 
 Rappelons encore que le bateau mouillé se mettra face au vent par rapport au point fixe qu’est le mouillage. Rappelons enfin que vous disposez quasi-systématiquement de taquets vous permettant de bloquer la ligne de mouillage avant qu’elle ne soit complètement mouillée, vous permettant de régler de façon très précise la longueur de votre mouillage.
 
