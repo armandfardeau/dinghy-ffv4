@@ -64,5 +64,5 @@ Un signal sonore court associé est obligatoire.
 <--->
 Si plusieurs bateaux non identifiables volent le départ, le pavillon "Premier substitut" est envoyé.
 
-Il est associé de deux signaux sonore court.
+Il est complété par deux signaux sonores courts.
 {{< /columns >}}
