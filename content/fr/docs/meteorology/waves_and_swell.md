@@ -28,7 +28,7 @@ Modification des vagues aux abords des côtes par la présence du fond ;
 Dès que la profondeur maritime est inférieure à environ deux fois la hauteur des vagues, elles déferlent sur la plage ou les hauts-fonds.
 
 La hauteur (du creux à la crête) d’une vague est une hauteur statistique.
-Exemple: on prend une série de 100 vagues. Sur ces 100 vagues on ne retient que les 33 plus hautes (le tiers). On moyenne la hauteur de ces 33 vagues et c’est la hauteur « de référence ». Elle est des fois notée H1/3.
+Exemple: on prend une série de 100 vagues. Sur ces 100 vagues on ne retient que les 33 plus hautes (le tiers). On moyenne la hauteur de ces 33 vagues et c’est la hauteur « de référence ». Elle est parfois notée H1/3.
 
 # Energie de la vague
 {{< columns >}}
