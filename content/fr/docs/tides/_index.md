@@ -9,7 +9,7 @@ navigation:
 ---
 ## Définitions
 
-* **Marée**: mouvement journalier d’oscillation de la mer dont le niveau monte et descend alternativement en un même lieu,provoqué par l’attraction de la Lune et du Soleil.
+* **Marée**: mouvement journalier d’oscillation de la mer dont le niveau monte et descend alternativement en un même lieu, provoqué par l’attraction de la Lune et du Soleil.
 
 * **Flux ou Flot**: marée montante.
 
@@ -45,14 +45,14 @@ les coefficients de référence sont:
 {{< columns >}}
 {{< figure caption="Phénomène de marées" src="images/tides.gif" >}}
 <--->
-L’origine des marées est due à la déformation de la surface des océans par suite des attractions gravitationnelles du soleil et la lune.
+L’origine des marées est dûe à la déformation de la surface des océans par suite des attractions gravitationnelles du soleil et la lune.
 
 La force gravitationnelle dépend de la masse et de l’éloignement des astres entre eux. La lune, bien moins massive que le soleil joue un rôle deux fois plus important car beaucoup plus proche.
 
-Le coefficient dépend de l’éloignement du soleil etla lune par rapport à la Terre (les trajectoires décrites sont des ellipses).
+Le coefficient dépend de l’éloignement du soleil et la lune par rapport à la Terre (les trajectoires décrites sont des ellipses).
 {{< /columns >}}
 
-Le rythme des marées n’est pas de 24h mais **décalée de 50 min** car le jour lunaire est de 24h50. Durant cette période on assiste à **2 pleines mers** et **2 basses mers**.
+Le rythme des marées n’est pas de 24h mais **décalé de 50 min** car le jour lunaire est de 24h50. Durant cette période on assiste à **2 pleines mers** et **2 basses mers**.
 
 Durant une période de lune (29 jours), on assiste à un cycle complet de 2 vives eaux et 2 mortes eaux. Les grandes marées interviennent aux pleines lunes et aux nouvelles lunes.
 
@@ -66,5 +66,5 @@ La situation A est la **syzygie** alors que la situation B est la **quadrature**
 
 **La syzygie** est la position des astres telle que leurs actions **s’additionnent**, c'est à dire un alignement Terre-Lune-Soleil. Cela correspond à la **période de vives eaux**.
 
-**La quadrature** est la position des astres telle que leurs actions **s’annulent**, c'est à dire un ensemble Terre-Lune-Soleil à angle droit. Cela correspond à la **période de morte-eau**.
+**La quadrature** est la position des astres telle que leurs actions **s’annulent**, c'est à dire un ensemble Terre-Lune-Soleil à angle droit. Cela correspond à la **période de mortes-eaux**.
 {{< /columns >}}
