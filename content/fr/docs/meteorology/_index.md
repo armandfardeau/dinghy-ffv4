@@ -43,7 +43,7 @@ Nous sommes actuellement dans le régime de la dépression
 
 ## La température
 
-La température se mesure à l’aide d’un thermomètre. La température standard et moyenne est de 15°C. A volume égal, un air chaud est plus léger qu’un air froid. L’air froid descend alors que l’air chaud monte.
+La température se mesure à l’aide d’un thermomètre. La température standard et moyenne est de 15°C. À volume égal, un air chaud est plus léger qu’un air froid. L’air froid descend alors que l’air chaud monte.
 
 ## L’humidité
 
@@ -60,7 +60,7 @@ Deux masses d’air ayant des propriétés (températures et humidités) dif
 
 ## L’atmosphère
 {{< columns >}}
-{{< figure caption="Digramme atmosphère" src="images/atmosphere.png" >}}
+{{< figure caption="Diagramme atmosphère" src="images/atmosphere.png" >}}
 <--->
 Il existe différentes couches dans l’atmosphère (du sol vers l’espace):
 
