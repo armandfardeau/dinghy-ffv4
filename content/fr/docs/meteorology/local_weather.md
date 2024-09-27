@@ -86,7 +86,7 @@ Non, les cumulus le long de la côte sont un bon indice mais d'autres critères 
 
 ## Les effets de sites
 
-Un effet de site est dû à la géographie locale. Il en existe un grand nombre, certains étant des compositions d’effets « élémentaires ». Gardons à l’esprit qu’un vent froid et donc dense « coll e» plus aux obstacles qu’un vent chaud (notion de viscosité). L’air stable accentue également les phénomènes d’effets de sites.
+Un effet de site est dû à la géographie locale. Il en existe un grand nombre, certains étant des compositions d’effets « élémentaires ». Gardons à l’esprit qu’un vent froid et donc dense « colle » plus aux obstacles qu’un vent chaud (notion de viscosité). L’air stable accentue également les phénomènes d’effets de sites.
 
 {{< tabs "site-effects" >}}
 {{< tab "Effet de pointe" >}}
