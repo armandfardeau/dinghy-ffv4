@@ -8,7 +8,7 @@ navigation:
 Le vent *météorologique* n’est pas le vent que l’on a lorsque notre dériveur avance.
 Le vent que l’on touche, appelé vent apparent, sera fonction de la vitesse du bateau, du courant et du vent météorologie.
 
-Pour représenter le vent , on utilise un outil mathématique: le vecteur.
+Pour représenter le vent, on utilise un outil mathématique: le vecteur.
 
 Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous servir.
 
@@ -30,7 +30,7 @@ Très rapidement, voici quelques-unes de ses caractéristiques qui vont nous s
 
 {{< tabs "définitions-nature" >}}
 {{< tab "Vent réel" >}}
-Vent ressentit lorsqu’on est totalement immobile : sans courant. C’est le vent météorologique de surface.
+Vent ressenti lorsqu’on est totalement immobile : sans courant. C’est le vent météorologique de surface.
 
 Il est noté **vr**.
 {{< /tab >}}
@@ -40,7 +40,7 @@ Le déplacement des masses d’eau (marées,courant, ...) est représenté p
 Il est noté **vc**.
 {{< /tab >}}
 {{< tab "Vent surface" >}}
-Somme (vectorielle) du vent réel et du vent courant. C’est le vent que l’on perçoit lorsqu’on est arrête ́sur l’eau.
+Somme (vectorielle) du vent réel et du vent courant. C’est le vent que l’on perçoit lorsqu’on est arrêté sur l’eau.
 
 Il est noté **vs**.
 {{< /tab >}}
