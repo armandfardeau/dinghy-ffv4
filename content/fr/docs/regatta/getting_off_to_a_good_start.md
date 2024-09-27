@@ -14,6 +14,6 @@ Il faut observer les autres concurrents et les éléments (vents, courants) et l
 Voici une vidéo qui explique comment se placer pour un départ tribord amure.
 {{< youtubestart onD3cg3zCiE 29 >}}
 
-Sur la vidéo ci-dessous, on peut constater l'importance de partir avec de la vitesse, lorsque tous les coureurs sont regroupés sur la ligne, ils évoluent tous dans une vent dégradé et turbulent. Ils sont également beaucoup plus à la merci de bascule éventuelles.
+Sur la vidéo ci-dessous, on peut constater l'importance de partir avec de la vitesse, lorsque tous les coureurs sont regroupés sur la ligne, ils évoluent tous dans une vent dégradé et turbulent. Ils sont également beaucoup plus à la merci de bascules éventuelles.
 
 {{< youtubestart K-y2_WR-Ky8 50 >}}
