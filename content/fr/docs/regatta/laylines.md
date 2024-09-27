@@ -10,7 +10,7 @@ navigation:
 ## Le cadre
 Lors d'une régate on peut imaginer un losange entre la bouée au vent et la bouée sous le vent: le cadre.
 
-Ce cadre désigne la route limite à partir de laquelle nous faisons de la route en trop. A l'intérieur du cadre, toutes les routes ne se valent pas, en effet, lors des virements nous perdons un peu de temps et de vitesse.
+Ce cadre désigne la route limite à partir de laquelle nous faisons de la route en trop. À l'intérieur du cadre, toutes les routes ne se valent pas, en effet, lors des virements nous perdons un peu de temps et de vitesse.
 
 {{< columns >}}
 {{< figure caption="Le cadre désigne la route la plus directe pour le nombre de manoeuvre le plus réduit" src="../images/cadre.jpg" >}}
@@ -28,11 +28,11 @@ Le vent est rarement stable et il arrive qu'il change un peu de sens au cours de
 Cette bascule modifie le cadre que nous avons vu précédemment. Cette situation peut nous amener à être hors-cadre, c'est à dire à parcourir plus de route où à être mieux placé dans le nouveau cadre.
 {{< /columns>}}
 
-L'observation des bascules est l'un des éléments majeurs de la stratégie en régatte.
+L'observation des bascules est l'un des éléments majeurs de la stratégie en régate.
 
 ## Classement
 
-Ce cadre nous permet de définir le placement des coureurs par rapport à la bouée et donc de définir qui est mieux placé.
+Ce cadre nous permet de définir le placement des coureurs par rapport à la bouée et donc de définir qui est le mieux placé.
 
 {{< columns >}}
 {{< figure caption="B est mieux placé sur le cadre" src="../images/b-winning.jpg" >}}
