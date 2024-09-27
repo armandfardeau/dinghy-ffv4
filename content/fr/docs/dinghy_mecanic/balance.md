@@ -31,7 +31,7 @@ Par contre, une fois son équipage à bord, ce centre de gravité peut être mod
 <--->
 Le centre de carène {{< katex >}}CC{{< /katex >}} d’un dériveur est le centre de gravité de sa partie immergée.
 
-Au centre de carène s’applique la poussé d’Archimède.
+Au centre de carène s’applique la poussée d’Archimède.
 
 Elle s’exerce verticalement de bas en haut.
 {{< /columns >}}
@@ -78,7 +78,7 @@ Nous supposons donc qu’il n’y a pas de problème d’assiette latérale.
 {{<hint info>}}Si le point d’application de la poussée vélique se trouve en arrière de la force anti-dérive, le voilier lofe car il est ardent.{{< /hint >}}
 
 {{< columns >}}
-Inversement, il abat si la force vélique s’exerce sur l’avant (le bateau est mou) C’est ce
+Inversement, il abat si la force vélique s’exerce sur l’avant (le bateau est mou). C’est ce
 principe qu’utilisent entre autre les planchistes pour contrôler leur direction.
 <--->
 {{< figure src="../images/fb2.png" title="Equilibre du bateau à plat" >}}
