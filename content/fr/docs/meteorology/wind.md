@@ -23,11 +23,11 @@ Le vent est un flux d’air. Il se déplace globalement des hautes pressions ve
 <--->
 Le vent se déplace parallèlement aux isobares (sans tenir compte des frottements): c’est le vent géostrophique : équilibre entre les forces de pression et la force de Coriolis.
 
-Les frottements sont dus à la surface terrestre. Le vent géostrophique est donc un vent d’altitude (théorique).
+Les frottements sont dûs à la surface terrestre. Le vent géostrophique est donc un vent d’altitude (théorique).
 
 En surface, les frottements vont ralentir le vent. La force de Coriolis s’appliquant aux masses d’air sera plus faible et le vent va légèrement dévier (vers la gauche dans l’hémisphère nord) et se renforcer en montant en altitude.
 
-Le vent « sort » des anticyclones et « rentre » dans les dépressions. La déviation due
+Le vent « sort » des anticyclones et « rentre » dans les dépressions. La déviation dûe
 aux frottements est de l’ordre de 15° sur mer et 30° sur terre.
 {{< /columns >}}
 
