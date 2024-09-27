@@ -13,7 +13,7 @@ navigation:
 ### Composante de la force vélique
 La force aérodynamique ou force vélique est la somme d’une infinité de «petites forces» élémentaires.
 {{< figure caption="Force aéro" src="../images/force_aero.png" >}}
-La force résultante s’applique au maximum du creux et est quasiment perpendiculaire à la corde (sauf pour les angles d’incidence inférieure à 25°).
+La force résultante s’applique au maximum du creux et est quasiment perpendiculaire à la corde (sauf pour les angles d’incidence inférieurs à 25°).
 
 ### Rendement de la voile
 {{< columns >}}
@@ -32,11 +32,11 @@ De plus, cette courbe n’est qu’aérodynamique et ne montre pas le besoin de
 Son intérêt est de nous montrer la plage d’utilisation du vent apparent:
 
 - au-dessus de 45° d’incidence, nous somme en régime tourbillonnaire.
-- A 20°, commence à apparaitre un décollement (du coté bord de fuite) qui ne ferra qu’augmenter (vers le bord d’attaque).
+- A 20°, commence à apparaître un décollement (du coté bord de fuite) qui ne ferra qu’augmenter (vers le bord d’attaque).
 
 ## Force hydrodynamique
 
-L’eau est un fluide donc tout ce que nous avons énoncé auparavant reste valable. Il ya donc,comme pour la voile, une force hydrodynamique. On la décompose habituellement en force antidérive et en traînée.
+L’eau est un fluide donc tout ce que nous avons énoncé auparavant reste valable. Il ya donc, comme pour la voile, une force hydrodynamique. On la décompose habituellement en force antidérive et en traînée.
 Le safran, de dimension importante, est aussi un élément antidérive.
 {{< columns >}}
 {{< figure caption="Force hydro vue de dessus" src="../images/force_hydro_dessus.svg" >}}
