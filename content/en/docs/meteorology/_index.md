@@ -14,7 +14,7 @@ In meteorology, three variables are used: **pressure**, **humidity** and **tempe
 ## Pressure
 
 It is the weight of the air column above a surface. It is therefore expressed in Newton per square meter or Pascals.
-100 Pa = 1 hPa = 100 N / m2 = 1 mb.
+100 Pa = 1 hPa = 100 N / m2 = 1 mbar.
 
 Pressure is measured with a barometer.
 The standard and average pressure is 1013.25 hPa.
